@@ -5,8 +5,8 @@ n/a
 
 	
 ## LOADOUT
-left | right
------ | -----
+applies to: | ttp
+-------- | ---------
 S1  AIM-9X | S9  AIM-9X
 S2  AIM120C | S8  AIM120C
 S3  2xMK-82 HD | S7  2xMK-82 HD
