@@ -3,16 +3,16 @@
 ## FP
 n/a
 
+	
 ## LOADOUT	
------ | ----	
+left | right
+- | -	
 S1 - AIM-9X	 | S9 - AIM-9X
 S2 - AIM120C	 | SGUN - FULL CM
 S3 - 2xMK-82 HD	 | SCHAFF - 60
 S4 - AIM-120C	 | SFLARE - 40
-S5 - PFU-8A	
-GUN - FULL CM	
-CHAFF - 60	
-FLARE - 40	
+S5 - PFU-8A	 | GUN - FULL CM
+CHAFF - 60	 | FLARE - 40
 FUEL - 1	
 
 ## COMMS
