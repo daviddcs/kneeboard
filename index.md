@@ -4,7 +4,7 @@
 n/a
 
 ## LOADOUT	
-- | -	
+----- | ----	
 S1 - AIM-9X	 | S9 - AIM-9X
 S2 - AIM120C	 | SGUN - FULL CM
 S3 - 2xMK-82 HD	 | SCHAFF - 60
