@@ -6,14 +6,15 @@ n/a
 	
 ## LOADOUT
 
-applies to: | ttp
--------- | ---------
-S1  AIM-9X | S9  AIM-9X
-S2  AIM120C | S8  AIM120C
-S3  2xMK-82 HD | S7  2xMK-82 HD
-S4  AIM-120C | S6  AIM-120C
-S5  PFU-8A | GUN  FULL CM
-CHAFF  60 | FLARE  40
+left | right
+---------- | ----------
+S1 - AIM-9X | S9 - AIM-9X
+S2 - AIM120C | S8 - AIM120C
+S3 - 2xMK-82 HD | S7 - 2xMK-82 HD
+S4 - AIM-120C | S6 - AIM-120C
+S5 - PFU-8A | GUN - FULL CM
+CHAFF - 60 | FLARE - 40
+FUEL - 1 | WEIGHT: 43855
 
 ## COMMS
 #### FL PRIMARY / PRI-1 / GREEN5 / 230.250 / AMPL:
