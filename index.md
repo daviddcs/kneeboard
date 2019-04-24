@@ -40,6 +40,10 @@ FUEL - 1 | WEIGHT: 47239
 
 ### 421 WP1 / #2 / NORTH: 24 - 18 - 24 //  EAST: 56 - 19 - 59
 
+## TARGET DESC.
+
+![DMPI](e10.png)
+
 ## COMMS
 
 #### FL PRIMARY / PRI-1 / GREEN5 / 230.250 / AMPL:
