@@ -20,28 +20,31 @@ As a minimum conduct 1x high/medium altitude shooter-cover attack and 1x high/me
 ## LOADOUT
 
 left | right
----------- | ----------
-S1 - AIM-9X | S9 - AIM-9X
-S2 - AIM120C | S8 - AIM120C
-S3 - 2xMK-82 HD | S7 - 2xMK-82 HD
-S4 - AIM-120C | S6 - AIM-120C
-S5 - PFU-8A | GUN - FULL CM
-CHAFF - 60 | FLARE - 40
-FUEL - 1 | WEIGHT: 43855
+--------- | ---------
+S1 - AN/ASQ-T50 | S9 - AIM-9X
+S2 - MK-83 | S8 - MK-83
+S3 - PFU-8A | S7 - PFU-8A
+S4 - AIM7MH | S6 - AIM7MH
+S5 - MK-84 | GUN - FULL CM
+CHAFF - 50 | FLARE - 35
+FUEL - 1 | WEIGHT: 47239
+
 
 ## STEERPOINTS
 
 ### 421 WP1 / #2 / NORTH: 24 - 18 - 24 //  EAST: 56 - 19 - 59
 
 ## COMMS
+
 #### FL PRIMARY / PRI-1 / GREEN5 / 230.250 / AMPL:
 #### FL SECONDARY / N/A / RED1 / 140.250 / AMPL:
 #### CHECK IN / AUX-4 / BLUE3 / 237.0 / AMPL:EXPECT THRUOUT
-#### RANGE 4A PRI / PRI-17 - AUX-17 / BROWN7 / 233.250 / AMPL:
-#### RANGE 4A SEC / N/A / AQUA10 / 139.750 / AMPL:
+#### RANGE 4B PRI / PRI-18 - AUX-18 / PINK7 / 234.750 / AMPL:
+#### RANGE 4B SEC / N/A / PURPLE11 / 127.750 / AMPL:
 #### RANGE CTR WIZ / AUX-9 / RED5 / 245.0 / AMPL:
 #### IN FLT RPT / PRI-9 - AUX-8 / OCHRE9 / 234.0 / AMPL:
 #### C2 BACKUP / N/A / INDIGO6 / 136.250 / AMPL:
+
 	
 
 ## TASK
