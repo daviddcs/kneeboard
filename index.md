@@ -26,7 +26,7 @@ As a minimum conduct 1x high/medium altitude shooter-cover attack and 1x high/me
 ## LOADOUT
 
 a | b
---------- | ---------
+--------------- | ---------------
 S1 - AN/ASQ-T50 | S9 - AIM-9X
 S2 - MK-83 | S8 - MK-83
 S3 - PFU-8A | S7 - PFU-8A
@@ -45,6 +45,35 @@ FUEL - 1 | WEIGHT: 47239
 ![DMPI](E10.png)
 ![ZHOW](E20.PNG)
 ![ZHADB40](E30.PNG)
+
+## SET 1
+
+### FL/WM SHOOTER COVER ARC
+### SINGLE MK 84 BY WM
+
+## SET 2
+
+### FL/WM SHOOTER COVER ARC
+### SINGLE MK 84 BY FL
+
+![TAC21ARC](TAC21ARC.PNG)
+
+## SET 3
+
+### FL/WM SHOOTER SHOOTER WEDGE
+### DUAL MK 83 BY FL/WM
+
+![TAC21WESHSH](TAC21WESHSH.PNG)
+
+## SET 4
+
+### EL/WM SHOOTER COVER ARC
+### SINGLE MK 84 BY EL
+
+## SET 5
+
+### EL/WM SHOOTER SHOOTER WEDGE
+### DUAL MK 83 BY EL, SIM BY WM
 
 ## COMMS
 
