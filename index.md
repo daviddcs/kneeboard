@@ -43,8 +43,8 @@ FUEL - 1 | WEIGHT: 47239
 ## TARGET DESC.
 
 ![DMPI](E10.png)
-![ZHOW](E20.png)
-![ZHADB40](E30.png)
+![ZHOW](E20.PNG)
+![ZHADB40](E30.PNG)
 
 ## COMMS
 
