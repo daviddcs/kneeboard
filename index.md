@@ -19,7 +19,7 @@ As a minimum conduct 1x high/medium altitude shooter-cover attack and 1x high/me
 	
 ## LOADOUT
 
-left | right
+a | b
 --------- | ---------
 S1 - AN/ASQ-T50 | S9 - AIM-9X
 S2 - MK-83 | S8 - MK-83
