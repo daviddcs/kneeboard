@@ -38,7 +38,7 @@ FUEL - 1 | WEIGHT: 47239
 
 ## STEERPOINTS
 
-### 421 WP1 / #2 / NORTH: 24 - 18 - 24 //  EAST: 56 - 19 - 59
+![STEER](E40.PNG)
 
 ## TARGET DESC.
 
