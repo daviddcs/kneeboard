@@ -1,8 +1,21 @@
 ## Kneeboard
 
 ## FP
-n/a
+3xFA18, VFR EAST
+Transit to RGN 4B for TAC-21
+Recovery from East. 
 
+## Objective
+
+Objective 1: Familiarization with cockpit cues/references for high/medium altitude weapon release.
+Objective 2: Familiarization with Z-charts.
+Objective 3: Use 40 High Altiude Dive Bomb Profile.
+Objective 4: High/medium altitude Shooter-Cover attack.
+Objective 5: High/medium altitude Shooter-Shooter attack.
+Objective 6: Utilizing Safe Escape Maneuver.
+Objective 7: Use 3-point attack brief
+
+As a minimum conduct 1x high/medium altitude shooter-cover attack and 1x high/medium altitude shooter-shooter attack using the 40 HADB profile found in the 494th SAT document.
 	
 ## LOADOUT
 
