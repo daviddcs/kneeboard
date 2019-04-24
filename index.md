@@ -1,4 +1,4 @@
-## Kneeboard
+## PANTER 1 TR1442
 
 ## FP
 3xFA18, VFR EAST
