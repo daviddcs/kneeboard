@@ -1,5 +1,9 @@
 ## PANTER 1 TR1442
 
+FL: David
+WM: Kimkiller
+EL: Teddy
+
 ## FP
 3xFA18, VFR EAST
 Transit to RGN 4B for TAC-21
