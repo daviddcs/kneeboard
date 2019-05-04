@@ -21,6 +21,9 @@ FL: David
 
 ## TARGET DESC.
 
+## IP
+## LA 43 23 29 // LO 40 48 48
+
 **THIS IS A STRIKE TARGET**
 
 Rebel Leader Hideout: 
