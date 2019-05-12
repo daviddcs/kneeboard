@@ -1,4 +1,4 @@
-## JEDI 4
+## AXE 1
 
 FL: David
 
@@ -85,11 +85,6 @@ FUEL - 1 | WEIGHT: 44299
 
 ## TARGET DESC.
 
-### JDAM DMPI 1
-### 41° 36′ 30.33″ N, 044° 07′ 30.88″ E
-
-### JDAM DMPI 2
-### 41° 36′ 28.96″ N, 044° 07′ 30.55″ E
 
 ![DMPI](E10.png)
 ![ZHOW](E20.PNG)
@@ -100,7 +95,7 @@ FUEL - 1 | WEIGHT: 44299
 
 ## COMMS
 
-
+![STUDS](E40.png)
 
 
 	
