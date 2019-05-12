@@ -74,7 +74,7 @@ FALCON2: SEAD supporting 132nd assets / CAP defending allied western airbases
 
 ## COMMS
 
-![STUDS](E40.png)
+![STUDS](E40.PNG)
 
 
 	
