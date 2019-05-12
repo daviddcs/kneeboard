@@ -70,18 +70,10 @@ FUEL - 1 | WEIGHT: 44299
 
 ### BULLS 42 14 954, 042 42 033 - Kutaisi city
 
-### 0 - KUTAISI - LA:  42 - 10 - 39 /// LO:  42 - 28 - 52
-### 1 - BULLSEYE BLUE - LA:  41 - 11 - 14 /// LO:  43 - 10 - 19
-### 2 - ALI/NDB - LA:  42 - 5 - 46 /// LO:  43 - 38 - 41
-### 3 - PARAVANI LAKE - LA:  41 - 26 - 27 /// LO:  43 - 48 - 42
-### 4 - 424DMPI - LA:  41 - 36 - 29 /// LO:  44 - 7 - 29
-### 5 - ALI/NDB - LA:  42 - 5 - 46 /// LO:  43 - 38 - 41
-### 6 - KUTAISI - LA:  42 - 10 - 39 /// LO:  42 - 28 - 52
-### 7 - VAZIANI - LA:  41 - 37 - 45 /// LO:  45 - 1 - 38
 
-
-
-![STEER](E40.PNG)
+![MDC1](MDC10.PNG)
+![MDC2](MDC20.PNG)
+![MDC3](MDC30.PNG)
 
 ## TARGET DESC.
 
