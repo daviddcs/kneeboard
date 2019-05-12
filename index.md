@@ -51,29 +51,16 @@ DRAGON2 - AR/CAS supporting BEAST
 GRIZZLY2 : Troops delivery to reinforce allied outposts along the border between KASPI and AGARA
 (Pickups from VAZIANI and/or from FARPs); CASEVAC as needed
 FALCON2: SEAD supporting 132nd assets / CAP defending allied western airbases
-	
-## LOADOUT
-
-left | right
------ | -----
-S1 - AN/ASQ-T50 | S9 - AIM-9X
-S2 - GBU-38 | S8 - GBU-38
-S3 - 2xMK-82 LD | S7 - 2xMK-82 LD
-S4 - AIM7MH | S6 - AIM7MH
-S5 - PFU-8A | GUN - FULL CM
-CHAFF - 50 | FLARE - 35
-FUEL - 1 | WEIGHT: 44299
 
 
-
-## STEERPOINTS
+## MDC
 
 ### BULLS 42 14 954, 042 42 033 - Kutaisi city
 
 
-![MDC1](MDC10.PNG)
-![MDC2](MDC20.PNG)
-![MDC3](MDC30.PNG)
+![MDC1](MDC10.png)
+![MDC2](MDC20.png)
+![MDC3](MDC30.png)
 
 ## TARGET DESC.
 
