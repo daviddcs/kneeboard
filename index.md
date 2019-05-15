@@ -24,15 +24,16 @@ As a minimum conduct 1x high/medium altitude shooter-cover attack and 1x high/me
 	
 ## LOADOUT
 
-a | b
---------------- | ---------------
+A | B
+----- | -----
 S1 - AN/ASQ-T50 | S9 - AIM-9X
-S2 - MK-83 | S8 - MK-83
-S3 - PFU-8A | S7 - PFU-8A
+S2 - GBU-38 | S8 - GBU-38
+S3 - 2xMK-82 LD | S7 - 2xMK-82 LD
 S4 - AIM7MH | S6 - AIM7MH
-S5 - MK-84 | GUN - FULL CM
+S5 - PFU-8A | GUN - FULL CM
 CHAFF - 50 | FLARE - 35
-FUEL - 1 | WEIGHT: 47239
+FUEL - 1 | WEIGHT: 44299
+
 
 
 ## STEERPOINTS
@@ -72,22 +73,28 @@ N 41 36 32 , 49 /// E 44 06 56 , 89  // 4969FT
 ![TAC21DMPI](/TAC21/TAC21DMPI.png)
 ![ZHADB40](/WEAPONS/ZHADB40.PNG)
 
+## SET 0,5
+
+### FL/WM SHOOTER SHOOTER LVL
+### DUAL GBU38 BY FL/WM
+
+
 ## SET 1
 
 ### FL/WM SHOOTER COVER ARC
-### SINGLE MK 84 BY WM
+### DUAL MK 82 BY WM
 
 ## SET 2
 
 ### FL/WM SHOOTER COVER ARC
-### SINGLE MK 84 BY FL
+### DUAL MK 82 BY FL
 
 ![TAC21ARC](TAC21ARC.PNG)
 
 ## SET 3
 
 ### FL/WM SHOOTER SHOOTER WEDGE
-### DUAL MK 83 BY FL/WM
+### DUAL MK 82 BY FL/WM
 
 ![TAC21WESHSH](TAC21WESHSH.PNG)
 
