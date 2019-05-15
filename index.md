@@ -47,12 +47,13 @@ FUEL - 1 | WEIGHT: 47239
 ### 7 - VAZIANI - LA:  41 - 37 - 45 /// LO:  45 - 1 - 38
 
 
-![STEER](E40.PNG)
+![MDC1](MDC10.PNG)
+![MDC2](MDC20.PNG)
+
 
 ## TARGET DESC.
 
-![DMPI](E10.png)
-![ZHOW](E20.PNG)
+
 ![ZHADB40](E30.PNG)
 
 ## SET 1
