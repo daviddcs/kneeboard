@@ -1,0 +1,213 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background-c",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/email/Documents/GitHub/directing/index.md",
+		"/C/Users/email/Saved Games/DCS.openalpha/Missions/MOOSE-master/NSST_13.lua",
+		"/C/Users/email/Documents/GitHub/kneeboard/tac21_index.md",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/190505_MAGIC.txt",
+		"/C/Users/email/Documents/GitHub/MOOSE_MISSIONS/AID - AI Dispatching/AID-210 - NTTR AI_A2A_GCICAP Demonstration/AID-210 - NTTR AI_A2A_GCICAP Demonstration.lua",
+		"/C/Users/email/Documents/GitHub/MOOSE_MISSIONS/AID - AI Dispatching/AID-200 - AI_A2A - GCICAP Demonstration/AID-200 - AI_A2A - GCICAP Demonstration.lua",
+		"/C/Users/email/Downloads/Airboss_v0996/l10n/DEFAULT/Airboss_Script.lua",
+		"/C/Users/email/Saved Games/DCS.openalpha/Missions/MOOSE-master/NSST_Airboss.lua",
+		"/D/Google Drive/DCS/MISSION_PLANNING/TRM/JSON_DRAW_SHARE_176/190505_TRM_FAOR_DCA_CAP.json",
+		"/C/Users/email/Downloads/Airboss_v0996/track_data/options.lua",
+		"/C/Users/email/Downloads/JOW_PG__Training_AirbossV14.3.3/l10n/DEFAULT/Airboss.97.mod.lua",
+		"/C/Users/email/Downloads/TRM-5.3.1/TRM-5.3.1/l10n/DEFAULT/TRM_Airboss.lua",
+		"/C/Users/email/Documents/GitHub/MOOSE_DOCS/Documentation/AI.AI_A2A_GCI.html",
+		"/C/Users/email/Documents/GitHub/MOOSE_MISSIONS/AID - AI Dispatching/AID-900 - Caucasus Template/AID-900 - Caucasus Template.lua",
+		"/D/Google Drive/DCS/MISSION_PLANNING/TRM/JSON_DRAW_SHARE_176/181023_TRM_NAV_POINTS.json",
+		"/D/Google Drive/DCS/MISSION_PLANNING/RedSnow/red_snow_base.json",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Mission_Notes/190410",
+		"/C/Users/email/Saved Games/DCS.openalpha/Logs/dcs.log",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Mission_Design/ALERT5.HTML",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Mission_Notes/138.25 (CORAL 3)",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Mission_Notes/TRM190227.html",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/190303.html",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/190310 Deb.txt",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/DEBRIEF_FRAMEWORK.txt",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/190106.txt",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/bg.html",
+		"/C/Users/email/Downloads/dcs.20190105-193906.log",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/190102.txt",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/190101.txt",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/181229.txt",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/181230.txt",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/181216.txt",
+		"/C/Users/email/Saved Games/DCS/Logs/dcs.log",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/181222",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/AA_TR.txt",
+		"/D/Google Drive/DCS/MISSION_PLANNING/TRM/JSON_DRAW_SHARE_176/181023_TRM_ARTY_LOCATIONS.json",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/OPUF_MSN_4_CRYSTAL.txt",
+		"/D/Google Drive/DCS/MISSION_PLANNING/OPUF/OPUF_JSON_DRAWS/MSN04/PKG_BRAVO.json",
+		"/D/Google Drive/DCS/MISSION_PLANNING/OPUF/OPUF_JSON_DRAWS/MSN04/SAM_THREAT_CIRCLE.json",
+		"/D/Google Drive/DCS/MISSION_PLANNING/OPUF/OPUF_JSON_DRAWS/MSN04/PKG_ALPHA.json",
+		"/D/Google Drive/DCS/MISSION_PLANNING/OPUF/OPUF_JSON_DRAWS/NAVP_OPUF_UAE_interior.json",
+		"/D/Google Drive/DCS/MISSION_PLANNING/OPUF/OPUF_JSON_DRAWS/MSN04/SAM_THREAT_CIRCLE_2.json",
+		"/C/Users/email/iCloudDrive/27N4MQEA55~pro~writer/DCS/Briefs/debrief/181212.txt",
+		"/C/Users/email/Saved Games/DCS.openalpha/Logs/debrief.log",
+		"/C/Users/email/Saved Games/DCS.openalpha/Logs/dcs_frame.log"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MDC30.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
