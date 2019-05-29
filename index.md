@@ -20,13 +20,24 @@ RECOVERY UGKO from EAST"
 
 ## STEERPOINTS
 
+### 0 - VAZIANI - LA:  41 - 37 - 45 /// LO:  45 - 1 - 38
+### 1 - BULLSEYE BLUE - LA:  41 - 11 - 14 /// LO:  43 - 10 - 19
+### 2 - BAGEM - LA:  41 - 35 - 59 /// LO:  44 - 28 - 47
+### 3 - ALI/NDB - LA:  42 - 5 - 46 /// LO:  43 - 38 - 41
+### 4 - KUTAISI - LA:  42 - 10 - 39 /// LO:  42 - 28 - 52
+
+
+### 5 - RGN4ANW - LA:  41 - 57 - 21 /// LO:  43 - 39 - 44
+### 6 - RGN4ANE - LA:  41 - 56 - 20 /// LO:  44 - 12 - 39
+### 7 - RGN4BSE - LA:  41 - 23 - 28 /// LO:  44 - 25 - 8
+### 8 - RGN4BSW - LA:  41 - 18 - 51 /// LO:  43 - 45 - 13
+### 9 - RGN4ANW - LA:  41 - 57 - 21 /// LO:  43 - 39 - 44
+
+
 ![MDC1](MDC10.PNG)
+![MDC1](MDC20.PNG)
 
 ## METAR: N/A
-
-
-
-![MDC2](MDC20.PNG)
 
 
 ## SET 1
