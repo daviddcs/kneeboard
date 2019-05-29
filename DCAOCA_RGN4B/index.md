@@ -8,6 +8,19 @@
 ### HARD DECK:
 ### QNH:
 
+## RESTRICTIONS
+
+## FREQUENCIES
+
 ## SETS
 
-### SET ID:
+## SET ID:
+### TYPE OF SET:
+### ROE:
+### ROD:
+### MAX ORD RELEASED:
+### FUEL LIMIT:
+### TIME LIMIT:
+### AMPL: 
+
+
