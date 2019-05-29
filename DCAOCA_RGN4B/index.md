@@ -1,5 +1,6 @@
 
 ## OBJECTIVE
+#### AMPL:
 ### VUL TIME:
 ### COMMON REF POINT:
 ### HOLDING POINTS:
@@ -9,8 +10,13 @@
 ### QNH:
 
 ## RESTRICTIONS
+### ORDNANCE:
 
 ## FREQUENCIES
+### COORDINATION:
+
+## SUPPORTING ASSETS
+### WD:
 
 ## SETS
 
@@ -24,3 +30,11 @@
 ### AMPL: 
 
 
+## SET ID:
+### TYPE OF SET:
+### ROE:
+### ROD:
+### MAX ORD RELEASED:
+### FUEL LIMIT:
+### TIME LIMIT:
+### AMPL: 
