@@ -8,14 +8,27 @@ WM: TEDDY
 
 
 ## FP
-">UG27< sqk 4261-62
-- classified - 
-RECOVERY UGKO from EAST"					
+#### ">UG27< sqk 4261-62
+#### - classified - 
+#### RECOVERY UGKO from EAST"					
 
 
 ## Objective
 #### DCA PER SIDE-BRIEF
 [DCA](/TRM/DCAOCA_RGN4B/)
+
+
+## LOADOUT
+
+left | right
+----- | -----
+S1 - AIM-9M | S9 - CAP-9M
+S2 - - | S8 - -
+S3 - - | S7 - -
+S4 - AIM7MH | S6 - AIM7MH
+S5 - PFU-8A | GUN - FULL CM
+CHAFF - 50 | FLARE - 35
+FUEL - 1 | WEIGHT: 40821
 
 
 ## STEERPOINTS
