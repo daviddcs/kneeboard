@@ -1,4 +1,3 @@
-#### 291449ZMAY2019
 
 ## OBJECTIVE
 #### AMPL:
