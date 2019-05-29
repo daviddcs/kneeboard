@@ -48,3 +48,15 @@
 ## IMAGERY
 
 ![RANGE 4AB](RGN4BAO.PNG)
+
+## OTHER ASSETS / RANGES
+#### AXE 1 - SCAR training with DRAGON, Range 1
+#### DRAGON 2 - SCAR training with AXE, Range 1
+#### MISTY 4 - COM-01 Kutaisi TMA
+#### KNIFE 5 - AA Refueling training, Kutaisi TMA
+
+## Active Ranges
+#### Range 1 - GND-FL180 - SCAR training, AXE, DRAGON
+
+## Active Threat sites
+#### TS.1
