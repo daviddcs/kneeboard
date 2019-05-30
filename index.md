@@ -27,13 +27,14 @@ EW: PROFESSOR
 
 left | right
 ----- | -----
-S1 - AIM-9M | S9 - AIM-9M.
-S2 - - | S8 - -
-S3 - - | S7 - -
-S4 - AIM7MH | S6 - AIM7MH
-S5 - PFU-8A | GUN - FULL CM
+S1 - AIM-9X | S9 - AIM-9X
+S2 - 2xAIM-120C | S8 - 2xAIM-120C
+S3 - PFU-8A | S7 - PFU-8A
+S4 - AIM-120C | S6 - AIM-120C
+S5 - - | GUN - FULL CM
 CHAFF - 50 | FLARE - 35
-FUEL - 1 | WEIGHT: 40821
+FUEL - 1 | WEIGHT: 45108
+
 
 
 ## STEERPOINTS
