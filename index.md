@@ -45,8 +45,8 @@ FUEL - 1 | WEIGHT: 40821
 #### WP4 - Sochi-Adler Airport (not a target)
 
 
--- ![MDC1](MDC10.PNG)
--- ![MDC1](MDC20.PNG)
+-- ![MDC1](MDC10.PN)
+-- ![MDC1](MDC20.PN)
 ![AO](E10.PNG)
 
 ## METAR: 
