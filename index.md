@@ -89,8 +89,19 @@ FUEL - 1 | WEIGHT: 40821
 * SA-10 on Sochi (33 nm from Gudauta)
 
 ## TASK
-N/A				
-	
+
+Order of events overview:
+* 1  Package departs from Stennis (and extra spawn-carrier).
+* 2  Brawler establishes BARCAP, while Slugger and Gypsy hits the tanker, standing-by.
+* 3  With BARCAP established, Weasel attacks the SA-11 at Sukhumi and the SA-2 at Gudauta. 
+
+If tracking radars are down:
+* 4  Weasel RTB. Slugger commences and hits their targets with JDAMs. Slugger RTB.
+* 5  In ~3 minute trail after Slugger, Gypsy commences and hits their targets with Mk20s (1-2 passes). Gypsy RTB.
+* 6  With all three A/G flights out of the AO, Brawler RTB.
+* 7  Package recovers on Stennis.
+
+
 
 ![UG27](/FLIPS/UG27_GND_INVERTED.png)
 ![UGKO](/FLIPS/UGKO_GND.png)
