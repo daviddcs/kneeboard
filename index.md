@@ -1,21 +1,26 @@
 [CV-OPs](/CVOPS/cvops.md)
 
-## SNAKE 7 TR2027 - 291800ZMAY2019
+## BRAWLER 1 CP132 - 301800ZMAY2019
 
 FL: DAVID
 
-WM: TEDDY
+WM: JJ
+
+EL: INIGO
+
+EW: PROFESSOR
 
 
 ## FP
-#### ">UG27< sqk 4261-62
-#### - classified - 
-#### RECOVERY UGKO from EAST"					
+
+
+				
 
 
 ## Objective
-#### DCA PER SIDE-BRIEF
-[DCA](/TRM/DCAOCA_RGN4B/)
+#### * Establish BARCAP over WP1 at 20000-25000 ft. Engage any hostile airborne targets providing a direct threat to the package.
+#### * Dedicated CAP channel Ch 3 (265.00)
+#### * On “Package: Knock it off” call: RTB.
 
 
 ## LOADOUT
@@ -33,42 +38,41 @@ FUEL - 1 | WEIGHT: 40821
 
 ## STEERPOINTS
 
-### 0 - VAZIANI - LA:  41 - 37 - 45 /// LO:  45 - 1 - 38
-### 1 - BULLSEYE BLUE - LA:  41 - 11 - 14 /// LO:  43 - 10 - 19
-### 2 - BAGEM - LA:  41 - 35 - 59 /// LO:  44 - 28 - 47
-### 3 - ALI/NDB - LA:  42 - 5 - 46 /// LO:  43 - 38 - 41
-### 4 - KUTAISI - LA:  42 - 10 - 39 /// LO:  42 - 28 - 52
-
-
-### 5 - RGN4ANW - LA:  41 - 57 - 21 /// LO:  43 - 39 - 44
-### 6 - RGN4ANE - LA:  41 - 56 - 20 /// LO:  44 - 12 - 39
-### 7 - RGN4BSE - LA:  41 - 23 - 28 /// LO:  44 - 25 - 8
-### 8 - RGN4BSW - LA:  41 - 18 - 51 /// LO:  43 - 45 - 13
-### 9 - RGN4ANW - LA:  41 - 57 - 21 /// LO:  43 - 39 - 44
+#### WP0 - Takeoff from Stennis 17:56
+#### WP1 - BARCAP point
+#### WP2 - Sukhumi-Babushara Airport (Bullseye)
+#### WP3 - Gudauta Airport
+#### WP4 - Sochi-Adler Airport (not a target)
 
 
 ![MDC1](MDC10.PNG)
 ![MDC1](MDC20.PNG)
+![AO](E10.PNG)
 
-## METAR: UGKO 291700Z 29005G16KTS 9999 SCT070 23/12 Q755/29.72 NOSIG
-#### NOTAM: ALL ATC SERVICES WITHIN THE UGKO TMA ARE MERGED ONTO UGKO TWR (134.200 MHZ). STATE INTENTIONS IN FLIGHTPLAN
+## METAR: 
+#### NOTAM: 
 
-
-## SET 1
-#### PER SIDE-BRIEF
-[DCA](/TRM/DCAOCA_RGN4B/)
 
 
 ## COMMS
-#### FL PRIMARY / PROGRAM TO PRI 1 / OCHRE3 / 227.250 / AMPL:
-#### FL SECONDARY / PROGRAM TO PRI 2 / GRAY9 / 118.250 / AMPL:
-#### CHECK IN / AUX-4 / BLUE3 / 237.0 / AMPL:
-#### RANGE 4B PRI / PRI-18 - AUX-18 / PINK7 / 234.750 / AMPL:COORDINATION
-#### RANGE 4B SEC / N/A / PURPLE11 / 127.750 / AMPL:
-#### RANGE CTR WIZ / AUX-9 / RED5 / 245.0 / AMPL:
-#### IN FLT RPT / PRI-9 - AUX-8 / OCHRE9 / 234.0 / AMPL:
-#### C2 BACKUP / N/A / INDIGO6 / 136.250 / AMPL:
+* Ch 1 Package: 305.00
+* Ch 2 Stennis: 264.00 (74X, BRC 268)
+* Ch 3 CAP: 265.00
+* Ch 4 AI-AWACS: 256.00
+* Ch 19 Tanker: 253.00 (101X, 102X and 103X)
+* Ch 11 BRAWLER 1 PRI: 259.00
+* Ch 12 BRAWLER 1 SEC: 268.00
 
+## ROE:
+* Weapons free on all aircraft declared hostile, and all ground units around the airfields except near the towers where collateral damage is a concern.
+
+
+## Intel:
+* Bullseye on WP2
+* Air threats: Third and fourth gen fighters and helicopters
+* Ground threats: SA-11, SA-2, SA-10, Manpads, ZSU-23 AAA
+* No known ready-alert fighters on Sukhumi or Gudauta (MiG-21:s reported on Sochi)
+* SA-10 on Sochi (33 nm from Gudauta)
 
 ## TASK
 "VTASK/132vW/22027/291800ZMAY2019//
@@ -80,22 +84,3 @@ MSNACFT/2/F/A-18C/SNAKE71-72/-/-/OCHRE3/GRAY9//"
 ![UG27](/FLIPS/UG27_GND_INVERTED.png)
 ![UGKO](/FLIPS/UGKO_GND.png)
 
-
-## TRM Tanker info
-KC-135 TEXACO:
-11500ft, speed 270kts,TACAN 41Y.Freq: 151.0
-
-KC-135 SHELL:\
-12000ft, speed 270kts, TACAN 42Y, Freq: 149.0
-
-KC-135_MPRS (Shell):
-24000ft, speed 380kts, TACAN 38Y, Freq: 230.750
-
-KC-130 (ARCO):
-18000ft, speed 336kts, TACAN 39Y, Freq: 235.500
-
-AGGRESSOR IL-78 (C/S 401)
-18000ft, speed 336, TACAN 37Y, Freq: 244.25
-
-S-3 VIKING Carrier alert Tanker (TEXACO 2)
-8000ft, speed 380kts, TACAN 40Y, Freq: 242.0 (CHERRY 3)
