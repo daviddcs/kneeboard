@@ -27,7 +27,7 @@ EW: PROFESSOR
 
 left | right
 ----- | -----
-S1 - AIM-9M | S9 - AIM-9M
+S1 - AIM-9M | S9 - AIM-9M.
 S2 - - | S8 - -
 S3 - - | S7 - -
 S4 - AIM7MH | S6 - AIM7MH
