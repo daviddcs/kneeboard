@@ -45,11 +45,16 @@ FUEL - 1 | WEIGHT: 40821
 #### WP4 - Sochi-Adler Airport (not a target)
 
 
-![MDC1](MDC10.PNG)
-![MDC1](MDC20.PNG)
+-- ![MDC1](MDC10.PNG)
+-- ![MDC1](MDC20.PNG)
 ![AO](E10.PNG)
 
 ## METAR: 
+* May 7 - 2005
+* 1740 local time
+* Clear weather
+* CASE 1 conditions
+
 #### NOTAM: 
 
 
