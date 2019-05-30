@@ -103,6 +103,6 @@ If tracking radars are down:
 
 
 
-![UG27](/FLIPS/UG27_GND_INVERTED.png)
-![UGKO](/FLIPS/UGKO_GND.png)
+![UG27](/FLIPS/UGKS_GND.png)
+![UGKO](/FLIPS/UGKS_PARK.png)
 
