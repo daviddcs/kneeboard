@@ -63,6 +63,15 @@ FUEL - 1 | WEIGHT: 40821
 * Ch 11 BRAWLER 1 PRI: 259.00
 * Ch 12 BRAWLER 1 SEC: 268.00
 
+## TCN
+* BRAWLER 1 PRI: 56 - 119Y
+* BRAWLER 1 SEC: 57 - 120Y
+* SHELL - 103X
+* TEXACO - 102X
+* ARCO - 101X
+* STENNIS - 74X
+* Senaki-Kolkhi (Divert Field) - 31X
+
 ## ROE:
 * Weapons free on all aircraft declared hostile, and all ground units around the airfields except near the towers where collateral damage is a concern.
 
@@ -75,10 +84,7 @@ FUEL - 1 | WEIGHT: 40821
 * SA-10 on Sochi (33 nm from Gudauta)
 
 ## TASK
-"VTASK/132vW/22027/291800ZMAY2019//
-TASKUNIT/494th/ICAO:-//
-AMSNDAT/TR2027/TR/-/-/2/-/-/DEPLOC:UG27/ARRLOC:UGKO//
-MSNACFT/2/F/A-18C/SNAKE71-72/-/-/OCHRE3/GRAY9//"					
+N/A				
 	
 
 ![UG27](/FLIPS/UG27_GND_INVERTED.png)
