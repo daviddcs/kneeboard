@@ -1,6 +1,6 @@
 [CV-OPs](/CVOPS/cvops.md)
 
-## BRAWLER 1 BC132 - 301800ZMAY2019
+## NAME - MSN# - TIMEDATE
 
 FL: 
 
