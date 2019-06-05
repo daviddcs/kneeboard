@@ -83,7 +83,7 @@ Local time: 07:00
 
 ## TASK
 
-![UGKO](--/FLIPS/UGKS_PARK.png)
-![UG27](--/FLIPS/UGKS_GND.png)
+![UGKO](/FLIPS/UGKS_PARK.png)
+![UG27](/FLIPS/UGKS_GND.png)
 
 
