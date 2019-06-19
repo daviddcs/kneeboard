@@ -1,9 +1,9 @@
 [CV-OPs](/CVOPS/cvops.md)
 
-## XWING6 - MSN#SDNSST510 - 061800ZJUN2019
+## JEDI4 - MSN#TR2310 - 191800ZJUN2019
 
 FL: DAVID  
-WM: KIMKILLER
+WM: 
 
 
 ## FP
@@ -11,7 +11,7 @@ NIL
 					
 
 ## Objective
-#### SEAD QESHM ISLAND
+#### CV- OP's
 
 
 
@@ -19,29 +19,24 @@ NIL
 
 left | right
 ----- | -----
-S1 - AIM-9X | S9 - AIM-9X
-S2 - AGM-65F | S8 - AGM-65F
-S3 - PFU-8A | S7 - AGM-88C
-S4 - AIM7MH | S6 - AIM7MH
-S5 - PFU-8A | GUN - FULL CM
+S1 - AIM-9X | S9 - AN/ASQ-T50
+S2 - - | S8 - -
+S3 - PFU-8A | S7 - PFU-8A
+S4 - - | S6 - -
+S5 - - | GUN - FULL CM
 CHAFF - 50 | FLARE - 35
-FUEL - 1 | WEIGHT: 45662
-
+FUEL - 1 | WEIGHT: 42284
 
 
 
 ## STEERPOINTS
-
-### 0 - OKLAHOMACITY - LA:  24 - 30 - 0 /// LO:  57 - 36 - 0
-### 1 - MADISON - LA:  26 - 51 - 0 /// LO:  56 - 39 - 0
-### 2 - COLUMBIA - LA:  25 - 0 - 0 /// LO:  57 - 0 - 0
-### 3 - DAISYDUCK - LA:  25 - 36 - 11 /// LO:  56 - 21 - 5
-### 4 - IDAHO - LA:  26 - 31 - 0 /// LO:  56 - 1 - 0
-### 5 - CAPTAINHOOK - LA:  24 - 54 - 47 /// LO:  55 - 46 - 34
-### 6 - OKLAHOMACITY - LA:  24 - 30 - 0 /// LO:  57 - 36 - 0
+### 0 - KUTAISI - LA:  42 - 10 - 39 /// LO:  42 - 28 - 52
+### 1 - BULLSEYE BLUE - LA:  41 - 11 - 14 /// LO:  43 - 10 - 19
 
 
-#### SEQ 1, 0-2-3-4-5-6
+
+
+#### SEQ 1, 
 
 
 ![MDC1](MDC10.PNG)
@@ -62,8 +57,8 @@ NIL
 
 
 ## TCN
-55/118Y	 
-
+53/116Y	
+ 
 
 ## ROE:
 
