@@ -30,8 +30,9 @@ FUEL - 1 | WEIGHT: 42284
 
 
 ## STEERPOINTS
-### 0 - KUTAISI - LA:  42 - 10 - 39 /// LO:  42 - 28 - 52
-### 1 - BULLSEYE BLUE - LA:  41 - 11 - 14 /// LO:  43 - 10 - 19
+
+
+
 
 
 
