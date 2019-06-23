@@ -119,12 +119,10 @@ All ATC calls on Al Minhad TWR: 121.2
 
 #### DMPI's
 
-DMPI | LEAD | MSN 1
-- | - | -
-LEAD | MSN 1  | SA10 DMPI2
-N27 15 27,50 | E56 22 39,44 | ELEV 66  
-LEAD | MSN 1  | SA10 DMPI5
-N27 15 27,33 | E56 22 52,47 ELEV 72  
+DMPI | LEAD | MSN 1 | DMPI
+- | - | - | 
+N27 15 27,50 | E56 22 39,44 | ELEV 66 | SA10 DMPI2
+N27 15 27,33 | E56 22 52,47 | ELEV 72 | SA10 DMPI5  
 
 DMPI  | WM  | MSN 1
 - | - | -
