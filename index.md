@@ -24,8 +24,9 @@ REMARKS: Part of ALPHA Package.
 
 
 ## LOADOUT
+
 left | right
------ | -----
+- | -
 S1 - AIM-9X | S9 - AIM-9X
 S2 - AGM-88C | S8 - AGM-88C
 S3 - 2x AGM-154A | S7 - 2x AGM-154A
