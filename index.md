@@ -1,79 +1,55 @@
 [CV-OPs](/CVOPS/cvops.md)
 
-## FALCON2 - SD2256 - 231800ZJUN2019
+## FALCON2 - CP2279 - 301800ZJUN2019
 
-FL: DAVID
+FL: NECK
 
-WM: KIMKILLER
+WM: DAVID
+
+EL: TEDDY
 
 
 ## FP
-X2 F/A-18C SQK 4211-12  
-DEP: 1845Z  
-VFR NORTH  
-RECOVERY FROM NORTH  
+-
 
 
 ## Objective
-MISSION: SEAD/DEAD. ALPHA PACKAGE  
-CONTROLLER: MAGIC  
-CONTACT POINT (CP): DONALDDUCK  
-FREQUENCY: AWACS+Package ALPHA: A-A 2 (IAW presets)  
-TARGET: 73rd Air Defence Battalion  
-REMARKS: Part of ALPHA Package.  
+-
 
 
 ## LOADOUT
 
-left | right
-- | -
-S1 - AIM-9X | S9 - AIM-9X
-S2 - AGM-88C | S8 - AGM-88C
-S3 - 2x AGM-154A | S7 - 2x AGM-154A
-S4 - AIM-120C | S6 - AIM-120C
-S5 - PFU-8A | GUN - FULL CM
-CHAFF - 50 | FLARE - 35
-FUEL - 1 | WEIGHT: 46599
+-
 
 
 ## STEERPOINTS
-### 0 - OMDM - LA:  25 - 1 - 37 /// LO:  55 - 21 - 59
-### 1 - BULLSEYE_OPUF - LA:  26 - 23 - 18 /// LO:  56 - 22 - 43
-### 2 - DONALDDUCK - LA:  25 - 36 - 19 /// LO:  55 - 34 - 48
-### 3 - INGRESS1 - LA:  26 - 27 - 33 /// LO:  55 - 25 - 56
-### 4 - INGRESS2 - LA:  27 - 1 - 29 /// LO:  55 - 32 - 9
-### 5 - IP - LA:  27 - 30 - 23 /// LO:  56 - 2 - 50
-### 6 - PIGS - LA:  27 - 28 - 49 /// LO:  56 - 17 - 45
-### 7 - SA10 - LA:  27 - 15 - 29 /// LO:  56 - 22 - 42
-### 8 - HAWK WEST - LA:  27 - 10 - 17 /// LO:  56 - 10 - 22
+### 0 - VAZIANI - LA:  41 - 37 - 45 /// LO:  45 - 1 - 38
+### 1 - OBJ ALEXA NORTH - LA:  42 - 5 - 57 /// LO:  44 - 18 - 50
+### 2 - OBJ WHITNEY - LA:  42 - 1 - 44 /// LO:  44 - 23 - 27
+### 3 - OBJ XENIA - LA:  41 - 59 - 45 /// LO:  44 - 24 - 43
+### 4 - OBJ YARA - LA:  42 - 58 - 24 /// LO:  44 - 25 - 21
+### 12 - BULLSEYE_OPUF - LA:  26 - 23 - 18 /// LO:  56 - 22 - 43
+
 
 
 
 ![MDC1](MDC10.PNG)
 ![MDC1](MDC20.PNG)
 ![AO](E10.PNG)
+![AO](E20.PNG)
 
 ## METAR: 
 
 #### NOTAM: 
-UNMANNED ATC operate on twr freq when within 10nm of installation below 7 500ft  
-All ATC calls on Al Minhad TWR: 121.2   
+
 
 ## COMMS
-#### FL PRIMARY / PRI-2 / OCHRE1 / 227.750 / AMPL:
-FL SECONDARY / N/A / BROWN11 / 137.0 / AMPL:
-#### OP CHECK IN / AUX-4 / GREEN7 / 231.500 / AMPL:MAGIC
-OP AA DIRECTOR1 / AUX-5 / GRAY2 / 248.0 / AMPL:
-#### OP AA DIRECTOR2 / AUX-6 / GREEN4 / 229.0 / AMPL:PACKAGE
-OP CSAR / AUX-11 / PINK1 / 233.0 / AMPL:  
-OP INFLT RPT / AUX-10 / ORANGE10 / 228.0 / AMPL:  
-OP C2 BACKUP / AUX-9 / GRAY10 / 122.250 / AMPL:
-#### AL MINHAD TWR / AUX-16 / - / 121.200 / AMPL:
+
 
 
 
 ## TCN
-51/114Y  
+50/113Y  
 
 ## SPINS
 
@@ -81,7 +57,7 @@ OP C2 BACKUP / AUX-9 / GRAY10 / 122.250 / AMPL:
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| B | L | A | C | K | H | O | R | S | E |
+| L | U | M | B | E | R | J | A | C | K |
 
 ### BASE
 
@@ -93,22 +69,22 @@ OP C2 BACKUP / AUX-9 / GRAY10 / 122.250 / AMPL:
 
 | MEANING | CODEWORD | 
 | ------- | -------- | 
-| ON STATION | ALABAMA | 
-| OFF STATION | BABYLON |
-| RTB | CHICAGO |
-| MISSION CANCEL | DENVER |
-| MISSION SUCCESSFUL| ERIE |
-| MISSION UNSUCCESSFUL| FRANKFURT |
-| ATTACK SUCCESSFUL | GEORGIA |
-| ATTACK UNSUCCESSFUL | HIGHLAND |
-| LAST OFF TARGET| ILLINOIS |
-| REATTACK | JAKARTA |
-| PUSHING | KENTUCKY |
-| ROLEX | LOUSVILLE |
-| REQUEST ROLEX| MEMPHIS|
-| WOUNDED BIRD | NANTUCKET |
-| FEET WET | OHIO |
-| FEET DRY | PHILIPPINES |
+| ON STATION |  | 
+| OFF STATION |  |
+| RTB |  |
+| MISSION CANCEL |  |
+| MISSION SUCCESSFUL|  |
+| MISSION UNSUCCESSFUL|  |
+| ATTACK SUCCESSFUL |  |
+| ATTACK UNSUCCESSFUL |  |
+| LAST OFF TARGET|  |
+| REATTACK |  |
+| PUSHING |  |
+| ROLEX |  |
+| REQUEST ROLEX| |
+| WOUNDED BIRD |  |
+| FEET WET |  |
+| FEET DRY |  |
 
 ## ROE:
 
@@ -120,28 +96,14 @@ OP C2 BACKUP / AUX-9 / GRAY10 / 122.250 / AMPL:
 
 #### DMPI's
 
-DMPI | LEAD | MSN 1 | TARGET
-- | - | - | -
-N27 15 27,50 | E56 22 39,44 | ELEV 66 | SA10 DMPI2
-N27 15 27,33 | E56 22 52,47 | ELEV 72 | SA10 DMPI5  
-
 DMPI  | WM  | MSN 1 | TARGET
 - | - | - | -
-N27 15 21,70 | E56 22 34,66 | ELEV 66 | SA10 DMPI 8  
-N27 15 22,52 | E56 22 49,29 | ELEV 66 | SA10 DMPI 11   
-
-DMPI | LEAD | MSN 2 | TARGET
-- | - | - | - 
-N27 10 18,99 | E56 10 13,88 | ELEV 171 | HAWK WEST DMPI 1  
-N27 10 18,88 | E56 10 29,82 | ELEV 157 | HAWK WEST DMPI 3  
-
-DMPI | WM | MSN 2 | TARGET
-- | - | - | -
-N27 10 15,80 | E56 10 18,42 | ELEV 171 | HAWK WEST DMPI 4  
-N27 10 14,83 | E56 10 31,76 | ELEV 141 | HAWK WEST DMPI 6  
+N42 06 01.47 | E44 18 54.32 | ELEV 3625 | MAST  
+N42 06 05.34 | E44 18 05.12 | ELEV 3632 | MAST    
 
 
 
-![OMDM](/FLIPS/OMDM_GND.png)
+
+![UG27](/FLIPS/UG27_GND_INVERTED.png)
 
 
