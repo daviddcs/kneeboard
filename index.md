@@ -1,12 +1,11 @@
 [CV-OPs](/CVOPS/cvops.md)
 
-## FALCON2 - CP2279 - 301800ZJUN2019
+## JEDI4 - TR2487 - 011800ZJUL2019
 
-FL: NECK
+FL: DAVID
 
-WM: DAVID
+WM: DANNY
 
-EL: TEDDY
 
 
 ## FP
@@ -14,21 +13,47 @@ EL: TEDDY
 
 
 ## Objective
--
+Objective 1: Understand the importance of precision flight.  
+Objective 2: Understands that aircraft performance is absolutely a function of it's airspeed.  
+Objective 3: Performs the instrument scan every few seconds from take-off to touch-down.  
+Objective 4: Is aware of and in control of attitude, airspeed, and altitude at all times.  
+Objective 5: Flies to pre-briefed numbers during all phases of flight.  
+Standards:  
+Speed: +- 5 kts  
+Elevation: +- 50 ft  
 
+Objective 6: Performs all bank manoeuvres with full awareness of an attached wingman.  
+Objective 7: Watches the attached wingman when initiating any manoeuvre.  
+Objective 8: Can enter and recover from a stall in landing configuration within 100'. [MISSING DOCUMENTATION]  
+Objective 9: Can enter and recover from a turning stall in landing configuration within 100'. [MISSING DOCUMENTATION]  
+Objective 10: Can perform an energy sustaining turn (level turn at BUSTER)  
 
 ## LOADOUT
 
--
+left | right
+----- | -----
+S1 - AN/ASQ-T50 | S9 - CAP-9M
+S2 - - | S8 - -
+S3 - - | S7 - -
+S4 - AIM7MH | S6 - AIM7MH
+S5 - PFU-8A | GUN - FULL CM
+CHAFF - 50 | FLARE - 35
+FUEL - 1 | WEIGHT: 40768
+
 
 
 ## STEERPOINTS
-### 0 - VAZIANI - LA:  41 - 37 - 45 /// LO:  45 - 1 - 38
-### 1 - OBJ ALEXA NORTH - LA:  42 - 5 - 57 /// LO:  44 - 18 - 50
-### 2 - OBJ WHITNEY - LA:  42 - 1 - 44 /// LO:  44 - 23 - 27
-### 3 - OBJ XENIA - LA:  41 - 59 - 45 /// LO:  44 - 24 - 43
-### 4 - OBJ YARA - LA:  42 - 58 - 24 /// LO:  44 - 25 - 21
-### 12 - BULLSEYE_OPUF - LA:  26 - 23 - 18 /// LO:  56 - 22 - 43
+### 0 - KUTAISI - LA:  42 - 10 - 39 /// LO:  42 - 28 - 52
+### 1 - BULLSEYE BLUE - LA:  41 - 11 - 14 /// LO:  43 - 10 - 19
+### 2 - ALIKA - LA:  42 - 15 - 13 /// LO:  41 - 31 - 58
+### 3 - ROLIN - LA:  41 - 48 - 0 /// LO:  40 - 39 - 14
+### 4 - 010719STEER3 - LA:  40 - 45 - 26 /// LO:  41 - 31 - 24
+### 5 - GOOFY_ - LA:  41 - 14 - 8 /// LO:  42 - 34 - 37
+### 6 - KARTSAKHI LAKE - LA:  41 - 12 - 38 /// LO:  43 - 13 - 2
+### 7 - TABATSKURI LAKE - LA:  41 - 38 - 45 /// LO:  43 - 37 - 29
+### 8 - LOBIN - LA:  42 - 10 - 57 /// LO:  43 - 6 - 21
+### 9 - 010719STEER8 - LA:  42 - 10 - 45 /// LO:  42 - 29 - 47
+
 
 
 
@@ -49,7 +74,7 @@ EL: TEDDY
 
 
 ## TCN
-50/113Y  
+53/116Y  
 
 ## SPINS
 
@@ -57,7 +82,7 @@ EL: TEDDY
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| L | U | M | B | E | R | J | A | C | K |
+| C | O | M | P | L | E | X | I | T | Y |
 
 ### BASE
 
@@ -93,17 +118,22 @@ EL: TEDDY
 
 
 ## TASK
+VTASK/132vW/22487/011800ZJUL2019//
+TASKUNIT/494th/ICAO:-//
+AMSNDAT/TR2487/TR/-/-/2/-/-/DEPLOC:UGKO/ARRLOC:UGKO//
+MSNACFT/2/F/A-18C/JEDI41-42/FLIGHT LEAD DISCRETION/-/CORAL9/YELLOW11//
+AMPN/F-18C FLIGHT//
 
 #### DMPI's
 
 DMPI  | WM  | MSN 1 | TARGET
 - | - | - | -
-N42 06 01.47 | E44 18 54.32 | ELEV 3625 | MAST  
-N42 06 05.34 | E44 18 05.12 | ELEV 3632 | MAST    
+XX | XX | XX | XX  
+XX | XX | XX | XX    
 
 
 
 
-![UG27](/FLIPS/UG27_GND_INVERTED.png)
+![UGKO](/FLIPS/UGKO_GND.png)
 
 
