@@ -1,61 +1,51 @@
 [CV-OPs](/CVOPS/cvops.md)
 
-## JEDI4 - TR2487 - 011800ZJUL2019
+## NAME - MSN# - TIMEDATE
 
-FL: DAVID
+FL: 
 
-WM: DANNY
+WM: 
 
+EL: 
+
+EW: 
 
 
 ## FP
--
+
+
+				
 
 
 ## Objective
-Objective 1: Understand the importance of precision flight.  
-Objective 2: Understands that aircraft performance is absolutely a function of it's airspeed.  
-Objective 3: Performs the instrument scan every few seconds from take-off to touch-down.  
-Objective 4: Is aware of and in control of attitude, airspeed, and altitude at all times.  
-Objective 5: Flies to pre-briefed numbers during all phases of flight.  
-Standards:  
-Speed: +- 5 kts  
-Elevation: +- 50 ft  
+#### 
 
-Objective 6: Performs all bank manoeuvres with full awareness of an attached wingman.  
-Objective 7: Watches the attached wingman when initiating any manoeuvre.  
-Objective 8: Can enter and recover from a stall in landing configuration within 100'. [MISSING DOCUMENTATION]  
-Objective 9: Can enter and recover from a turning stall in landing configuration within 100'. [MISSING DOCUMENTATION]  
-Objective 10: Can perform an energy sustaining turn (level turn at BUSTER)  
+
 
 ## LOADOUT
 
-left | right
------ | -----
-S1 - AN/ASQ-T50 | S9 - CAP-9M
-S2 - - | S8 - -
-S3 - - | S7 - -
-S4 - AIM7MH | S6 - AIM7MH
-S5 - PFU-8A | GUN - FULL CM
-CHAFF - 50 | FLARE - 35
-FUEL - 1 | WEIGHT: 40768
-
-
 
 ## STEERPOINTS
-### 0 - KUTAISI - LA:  42 - 10 - 39 /// LO:  42 - 28 - 52
-### 1 - BULLSEYE BLUE - LA:  41 - 11 - 14 /// LO:  43 - 10 - 19
-### 2 - ALIKA - LA:  42 - 15 - 13 /// LO:  41 - 31 - 58
-### 3 - ROLIN - LA:  41 - 48 - 0 /// LO:  40 - 39 - 14
-### 4 - 010719STEER3 - LA:  40 - 45 - 26 /// LO:  41 - 31 - 24
-### 5 - GOOFY_ - LA:  41 - 14 - 8 /// LO:  42 - 34 - 37
-### 6 - KARTSAKHI LAKE - LA:  41 - 12 - 38 /// LO:  43 - 13 - 2
-### 7 - TABATSKURI LAKE - LA:  41 - 38 - 45 /// LO:  43 - 37 - 29
-### 8 - LOBIN - LA:  42 - 10 - 57 /// LO:  43 - 6 - 21
-### 9 - 010719STEER8 - LA:  42 - 10 - 45 /// LO:  42 - 29 - 47
-
-
-
+### 59 - MADISON - 26 51 ///  56 39
+### 0 - OMAM_TO - 24 15,433 ///  54 32,05
+### 1 - ELEVATOR - 24 24,41 ///  54 53,9
+### 2 - JA1MRRSOUTH - 23 32,457 ///  54 24,794
+### 3 - JA2MRRSOUTH - 23 8,915 ///  54 48,004
+### 4 - JA3MRRSOUTH - 23 9,15 ///  54 15,755
+### 5 - JA4ELEV - 23 19,857 ///  54 15,682
+### 6 - TAC1 - 23 41,2 ///  54 2,957
+### 7 - TAC2 - 24 58,046 ///  54 45,031
+### 8 - TAC3 - 24 13,631 ///  54 31,156
+### 9 - TAC4 - 24 45,749 ///  54 18,943
+### 10 - TAC5 - 24 47,201 ///  54 50,808
+### 11 - TAC6 - 24 18,585 ///  54 51,448
+### 12 - TAC7 - 24 10,189 ///  54 55,86
+### 13 - TAC8 - 23 41,2 ///  54 3,021
+### 14 - TACCENTER - 24 18,352 ///  54 10,055
+### 15 - EGRESS - 24 53,236 ///  54 58,417
+### 16 - JA9ELEV - 24 54,802 ///  54 43,519
+### 17 - JA8MRRSNOW - 24 23,324 ///  54 26,8
+### 18 - OMAMELEV - 24 24,352 ///  54 53,9
 
 
 ![MDC1](MDC10.PNG)
@@ -68,13 +58,8 @@ FUEL - 1 | WEIGHT: 40768
 #### NOTAM: 
 
 
+
 ## COMMS
-
-
-
-
-## TCN
-53/116Y  
 
 ## SPINS
 
@@ -82,7 +67,7 @@ FUEL - 1 | WEIGHT: 40768
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| C | O | M | P | L | E | X | I | T | Y |
+| B | L | A | C | K | H | O | R | S | E |
 
 ### BASE
 
@@ -94,46 +79,37 @@ FUEL - 1 | WEIGHT: 40768
 
 | MEANING | CODEWORD | 
 | ------- | -------- | 
-| ON STATION |  | 
-| OFF STATION |  |
-| RTB |  |
-| MISSION CANCEL |  |
-| MISSION SUCCESSFUL|  |
-| MISSION UNSUCCESSFUL|  |
-| ATTACK SUCCESSFUL |  |
-| ATTACK UNSUCCESSFUL |  |
-| LAST OFF TARGET|  |
-| REATTACK |  |
-| PUSHING |  |
-| ROLEX |  |
-| REQUEST ROLEX| |
-| WOUNDED BIRD |  |
-| FEET WET |  |
-| FEET DRY |  |
+| ON STATION | ALABAMA | 
+| OFF STATION | BABYLON |
+| RTB | CHICAGO |
+| MISSION CANCEL | DENVER |
+| MISSION SUCCESSFUL| ERIE |
+| MISSION UNSUCCESSFUL| FRANKFURT |
+| ATTACK SUCCESSFUL | GEORGIA |
+| ATTACK UNSUCCESSFUL | HIGHLAND |
+| LAST OFF TARGET| ILLINOIS |
+| REATTACK | JAKARTA |
+| PUSHING | KENTUCKY |
+| ROLEX | LOUSVILLE |
+| REQUEST ROLEX| MEMPHIS|
+| WOUNDED BIRD | NANTUCKET |
+| FEET WET | OHIO |
+| FEET DRY | PHILIPPINES |
+
+## TCN
+
 
 ## ROE:
+
 
 
 ## Intel:
 
 
 ## TASK
-VTASK/132vW/22487/011800ZJUL2019//
-TASKUNIT/494th/ICAO:-//
-AMSNDAT/TR2487/TR/-/-/2/-/-/DEPLOC:UGKO/ARRLOC:UGKO//
-MSNACFT/2/F/A-18C/JEDI41-42/FLIGHT LEAD DISCRETION/-/CORAL9/YELLOW11//
-AMPN/F-18C FLIGHT//
-
-#### DMPI's
-
-DMPI  | WM  | MSN 1 | TARGET
-- | - | - | -
-XX | XX | XX | XX  
-XX | XX | XX | XX    
 
 
-
-
-![UGKO](/FLIPS/UGKO_GND.png)
-
+![GND](/FLIPS/OMAM_GND.png)  
+[FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
+[FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
