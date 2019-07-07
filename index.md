@@ -1,4 +1,4 @@
-LINKS | LINKS | LINKS
+ |  | 
 - | - | -
 [CV-OPs](/CVOPS/cvops.md) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
@@ -29,7 +29,7 @@ EW:
 
 ## STEERPOINTS
 ### 59 - MADISON - 26 51 ///  56 39
-### 0 - OMAM_TO - 24 15,433 ///  54 32,05
+### 00 DO NOT PROGRAM
 ### 1 - ELEVATOR - 24 24,41 ///  54 53,9
 ### 2 - JA1MRRSOUTH - 23 32,457 ///  54 24,794
 ### 3 - JA2MRRSOUTH - 23 8,915 ///  54 48,004
