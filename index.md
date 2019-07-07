@@ -1,4 +1,6 @@
-[CV-OPs](/CVOPS/cvops.md)
+LINKS | LINKS | LINKS
+- | - | -
+[CV-OPs](/CVOPS/cvops.md) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
 ## NAME - MSN# - TIMEDATE
 
@@ -110,6 +112,6 @@ EW:
 
 
 ![GND](/FLIPS/OMAM_GND.png)  
-[FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
-[FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
+
+
 
