@@ -32,7 +32,7 @@ EW:
 ###	59	MADISON		N 26	51,000	  -  	E 56	39,000		BULLSEYE	
 											
 ---  											
-####	00	OMAM_TO		N 24	15,433	  -  	E 54	32,050	13047	148 - 0	
+####	00	OMAM_TO								52 - 0	
 #####  	FUEL:		13047		WALK:	00:00:00	T/O T:		00:30:00		
 #####  	DONT PROG.										
 											
@@ -149,8 +149,6 @@ EW:
 #####	DIST:	021,8  NM	BINGO:	F 02227	ALT:	27000 - 270					
 #####	HDG:	246°	GS:	422	ETE:	00:03:06	TOT:		02:03:09	VUL:	00:00:00
 											
-
-
 
 ![MDC1](MDC10.PNG)
 ![MDC1](MDC20.PNG)
