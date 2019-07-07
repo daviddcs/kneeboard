@@ -120,7 +120,8 @@ FL: DAVID
 ## METAR: 
 
 #### NOTAM: 
-
+Looney 7. Jul 2019 15:58  
+Will control tonight. Twr and gnd merged on 134.200. I'll check if I can do awacs if needed.  
 
 
 ## COMMS
@@ -133,38 +134,7 @@ FL: DAVID
 
 ## SPINS
 
-### RAMROD
 
-| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| - | - | - | - | - | - | - | - | - | - |
-| B | L | A | C | K | H | O | R | S | E |
-
-### BASE
-
-| ALTITUDE | SPEED | HEADING | NUMBER| 
-| -------- | ----- | ------- | ----- | 
-| 5000ft AMSL | 300 Kts | 300 degrees | 5 |
-
-### CODEWORDS
-
-| MEANING | CODEWORD | 
-| ------- | -------- | 
-| ON STATION | ALABAMA | 
-| OFF STATION | BABYLON |
-| RTB | CHICAGO |
-| MISSION CANCEL | DENVER |
-| MISSION SUCCESSFUL| ERIE |
-| MISSION UNSUCCESSFUL| FRANKFURT |
-| ATTACK SUCCESSFUL | GEORGIA |
-| ATTACK UNSUCCESSFUL | HIGHLAND |
-| LAST OFF TARGET| ILLINOIS |
-| REATTACK | JAKARTA |
-| PUSHING | KENTUCKY |
-| ROLEX | LOUSVILLE |
-| REQUEST ROLEX| MEMPHIS|
-| WOUNDED BIRD | NANTUCKET |
-| FEET WET | OHIO |
-| FEET DRY | PHILIPPINES |
 
 ## TCN
 
@@ -180,5 +150,5 @@ FL: DAVID
 
 
 ![UG27](--/FLIPS/UGKS_GND.png)
-![UGKO](--/FLIPS/UGKS_PARK.png)
+![UGKO](/FLIPS/UGKO_GND.png)
 
