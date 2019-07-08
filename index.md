@@ -23,90 +23,91 @@ RTB FROM SE-ENTRY EXPECTED TMA ENTRY 2010Z
 
 ## STEERPOINTS
 ---  											
-###	59	BULLSEYE BLUE		N 41	11,227	  -  	E 43	10,311		BULLSEYE	
+###	59	Bullseye Blue		N 41	11,227	  -  	E 43	10,311		BULLSEYE	
 											
 ---  											
-####	00	KUT_TO								52 - 0	
-#####  	FUEL:		15291		WALK:	18:25:00	T/O T:		18:55:00		
-											
-											
----  											
-###	01	ALIKA1		N 42	15,219	  -  	E 41	31,968			
-#####	DIST:	043,0  NM	BINGO:	F 12506	ALT:	27000 - 270					
-#####	HDG:	276°	GS:	422	ETE:	00:06:07	TOT:		19:11:07	VUL:	00:10:00
+####	00	Kutaisi								52 - 0	
+#####  	FUEL:		13047		WALK:	12:00:00	T/O T:		12:20:00		
 											
 											
 ---  											
-###	02	SARPI1		N 41	32,978	  -  	E 41	26,859			
-#####	DIST:	042,4  NM	BINGO:	F 11870	ALT:	27000 - 270					
-#####	HDG:	185°	GS:	450	ETE:	00:05:40	TOT:		19:16:47		
+###	01	ALIKA		N 42	15,219	  -  	E 41	31,968			
+#####	DIST:	043,0  NM	BINGO:	11047	ALT:	9,0 M	MACH:	0,74			
+#####	HDG:	270°	GS:	450	ETE:	00:05:44	TOT:		12:25:44	VUL:	00:01:00
 											
 											
 ---  											
-###	03	MOUSE1		N 41	20,669	  -  	E 41	41,232			
-#####	DIST:	016,4  NM	BINGO:	F 11624	ALT:	27000 - 270					
-#####	HDG:	139°	GS:	450	ETE:	00:02:11	TOT:		19:18:58		
+###	02	SARPI		N 41	32,978	  -  	E 41	26,859			
+#####	DIST:	042,4  NM	BINGO:	10410	ALT:	27.0 M	MACH:	0,74			
+#####	HDG:	179°	GS:	451	ETE:	00:05:39	TOT:		12:31:23		
 											
 											
 ---  											
-###	04	GOOFY_1		N 41	14,125	  -  	E 42	34,618			
-#####	DIST:	040,7  NM	BINGO:	F 11015	ALT:	27000 - 270					
-#####	HDG:	099°	GS:	450	ETE:	00:05:25	TOT:		19:24:23		
+###	03	MOUSE		N 41	20,669	  -  	E 41	41,232			
+#####	DIST:	016,4  NM	BINGO:	10165	ALT:	25.0 M	MACH:	0,74			
+#####	HDG:	133°	GS:	450	ETE:	00:02:11	TOT:		12:33:34		
 											
 											
 ---  											
-###	05	DONALD1		N 41	10,509	  -  	E 43	16,290			
-#####	DIST:	031,6  NM	BINGO:	F 10541	ALT:	27000 - 270					
-#####	HDG:	096°	GS:	450	ETE:	00:04:13	TOT:		19:28:36		
+###	04	GOOFY_		N 41	14,125	  -  	E 42	34,618			
+#####	DIST:	040,7  NM	BINGO:	9555	ALT:	25.0 M	MACH:	0,74			
+#####	HDG:	093°	GS:	158	ETE:	00:15:26	TOT:		12:49:00		
 											
 											
 ---  											
-###	06	MADATAPA LAKE1		N 41	10,706	  -  	E 43	47,028			
-#####	DIST:	023,2  NM	BINGO:	F 09054	ALT:	27000 - 270					
-#####	HDG:	089°	GS:	450	ETE:	00:03:05	TOT:		19:31:41	VUL:	00:10:00
+###	05	DONALD		N 41	10,509	  -  	E 43	16,290			
+#####	DIST:	031,6  NM	BINGO:	9082	ALT:	25.0 M	MACH:	0,74			
+#####	HDG:	090°	GS:	451	ETE:	00:04:12	TOT:		12:53:12		
 											
 											
 ---  											
-###	07	IP1		N 41	27,791	  -  	E 44	03,495			
-#####	DIST:	021,1  NM	BINGO:	F 08738	ALT:	27000 - 270					
-#####	HDG:	036°	GS:	500	ETE:	00:02:32	TOT:		19:44:13		
+###	06	MADATAPA LAKE		N 41	10,706	  -  	E 43	47,028			
+#####	DIST:	023,2  NM	BINGO:	8735	ALT:	25.0 M	MACH:	0,74			
+#####	HDG:	083°	GS:	448	ETE:	00:03:06	TOT:		12:56:18		
 											
 											
 ---  											
-###	08	T4B.51		N 41	36,493	  -  	E 44	07,497			
-#####	DIST:	009,2  NM	BINGO:	F 08030	ALT:	27000 - 270					
-#####	HDG:	019°	GS:	500	ETE:	00:01:06	TOT:		19:45:19	VUL:	00:05:00
-####	TGT										
-											
----  											
-###	09	PARAVANI LAKE1		N 41	26,444	  -  	E 43	48,695			
-#####	DIST:	017,3  NM	BINGO:	F 07770	ALT:	27000 - 270					
-#####	HDG:	235°	GS:	450	ETE:	00:02:18	TOT:		19:52:38		
+###	07	IP		#N/A	#N/A	  -  	#N/A	#N/A			
+#####	DIST:	021,1  NM	BINGO:	8419	ALT:	25.0 M	MACH:	0,74			
+#####	HDG:	030°	GS:	452	ETE:	00:02:48	TOT:		12:59:06		
 											
 											
 ---  											
-###	10	MADATAPA LAKE21		N 41	10,706	  -  	E 43	47,028			
-#####	DIST:	015,8  NM	BINGO:	F 07534	ALT:	27000 - 270					
-#####	HDG:	185°	GS:	450	ETE:	00:02:06	TOT:		19:54:44		
+###	08	T4B.5		N 41	36,493	  -  	E 44	07,497			
+#####	DIST:	009,2  NM	BINGO:	7711	ALT:	25.0 M	MACH:	0,74			
+#####	HDG:	013°	GS:	448	ETE:	00:01:14	TOT:		13:00:20	VUL:	00:05:00
 											
 											
 ---  											
-###	11	MOUSE2		N 41	20,669	  -  	E 41	41,232			
-#####	DIST:	095,1  NM	BINGO:	F 06107	ALT:	27000 - 270					
-#####	HDG:	277°	GS:	450	ETE:	00:12:41	TOT:		20:07:25		
+###	09	PARAVANI LAKE		N 41	26,444	  -  	E 43	48,695			
+#####	DIST:	017,3  NM	BINGO:	7451	ALT:	25.0 M	MACH:	0,74			
+#####	HDG:	229°	GS:	142	ETE:	00:07:19	TOT:		13:07:39		
 											
 											
 ---  											
-###	12	MICKEY1		N 41	44,866	  -  	E 41	47,985			
-#####	DIST:	024,7  NM	BINGO:	F 05736	ALT:	27000 - 270					
-#####	HDG:	012°	GS:	450	ETE:	00:03:18	TOT:		20:10:43		
+###	10	MADATAPA LAKE		N 41	10,706	  -  	E 43	47,028			
+#####	DIST:	015,8  NM	BINGO:	7214	ALT:	25.0 M	MACH:	0,74			
+#####	HDG:	179°	GS:	451	ETE:	00:02:06	TOT:		13:09:45		
 											
 											
 ---  											
-###	13	KUT_LAND		N 42	10,733	  -  	E 42	29,733			
-#####	DIST:	040,4  NM	BINGO:	F 05130	ALT:	27000 - 270					
-#####	HDG:	050°	GS:	450	ETE:	00:05:23	TOT:		20:16:06		
+###	11	MOUSE		N 41	20,669	  -  	E 41	41,232			
+#####	DIST:	095,1  NM	BINGO:	5788	ALT:	25.0 M	MACH:	0,74			
+#####	HDG:	271°	GS:	450	ETE:	00:12:41	TOT:		13:22:26		
 											
+											
+---  											
+###	12	MICKEY		N 41	44,866	  -  	E 41	47,985			
+#####	DIST:	024,7  NM	BINGO:	5417	ALT:	25.0 M	MACH:	0,74			
+#####	HDG:	006°	GS:	450	ETE:	00:03:18	TOT:		13:25:44		
+											
+											
+---  											
+###	13	Kutaisi		N 42	10,657	  -  	E 42	28,874			
+#####	DIST:	040,4  NM	BINGO:	4527	ALT:	1.5 A	MACH:	0,68			
+#####	HDG:	109°	GS:	451	ETE:	00:05:23	TOT:		13:31:07		
+											
+
 
 ![DMPI](TRM/T4B/T4BJDAMDMPI.png)
 
