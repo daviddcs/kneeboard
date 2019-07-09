@@ -22,91 +22,109 @@ RTB FROM SE-ENTRY EXPECTED TMA ENTRY 2010Z
 
 
 ## STEERPOINTS
----  											
-###	59	Bullseye Blue		N 41	11,227	  -  	E 43	10,311		BULLSEYE	
-											
----  											
-####	00	Kutaisi								52 - 0	
-#####  	FUEL:		13047		WALK:	12:00:00	T/O T:		12:20:00		
-											
-											
----  											
-###	01	ALIKA		N 42	15,219	  -  	E 41	31,968			
-#####	DIST:	043,0  NM	BINGO:	11047	ALT:	9,0 M	MACH:	0,74			
-#####	HDG:	270°	GS:	450	ETE:	00:05:44	TOT:		12:25:44	VUL:	00:01:00
-											
-											
----  											
-###	02	SARPI		N 41	32,978	  -  	E 41	26,859			
-#####	DIST:	042,4  NM	BINGO:	10410	ALT:	27.0 M	MACH:	0,74			
-#####	HDG:	179°	GS:	451	ETE:	00:05:39	TOT:		12:31:23		
-											
-											
----  											
-###	03	MOUSE		N 41	20,669	  -  	E 41	41,232			
-#####	DIST:	016,4  NM	BINGO:	10165	ALT:	25.0 M	MACH:	0,74			
-#####	HDG:	133°	GS:	450	ETE:	00:02:11	TOT:		12:33:34		
-											
-											
----  											
-###	04	GOOFY_		N 41	14,125	  -  	E 42	34,618			
-#####	DIST:	040,7  NM	BINGO:	9555	ALT:	25.0 M	MACH:	0,74			
-#####	HDG:	093°	GS:	158	ETE:	00:15:26	TOT:		12:49:00		
-											
-											
----  											
-###	05	DONALD		N 41	10,509	  -  	E 43	16,290			
-#####	DIST:	031,6  NM	BINGO:	9082	ALT:	25.0 M	MACH:	0,74			
-#####	HDG:	090°	GS:	451	ETE:	00:04:12	TOT:		12:53:12		
-											
-											
----  											
-###	06	MADATAPA LAKE		N 41	10,706	  -  	E 43	47,028			
-#####	DIST:	023,2  NM	BINGO:	8735	ALT:	25.0 M	MACH:	0,74			
-#####	HDG:	083°	GS:	448	ETE:	00:03:06	TOT:		12:56:18		
-											
-											
----  											
-###	07	IP		#N/A	#N/A	  -  	#N/A	#N/A			
-#####	DIST:	021,1  NM	BINGO:	8419	ALT:	25.0 M	MACH:	0,74			
-#####	HDG:	030°	GS:	452	ETE:	00:02:48	TOT:		12:59:06		
-											
-											
----  											
-###	08	T4B.5		N 41	36,493	  -  	E 44	07,497			
-#####	DIST:	009,2  NM	BINGO:	7711	ALT:	25.0 M	MACH:	0,74			
-#####	HDG:	013°	GS:	448	ETE:	00:01:14	TOT:		13:00:20	VUL:	00:05:00
-											
-											
----  											
-###	09	PARAVANI LAKE		N 41	26,444	  -  	E 43	48,695			
-#####	DIST:	017,3  NM	BINGO:	7451	ALT:	25.0 M	MACH:	0,74			
-#####	HDG:	229°	GS:	142	ETE:	00:07:19	TOT:		13:07:39		
-											
-											
----  											
-###	10	MADATAPA LAKE		N 41	10,706	  -  	E 43	47,028			
-#####	DIST:	015,8  NM	BINGO:	7214	ALT:	25.0 M	MACH:	0,74			
-#####	HDG:	179°	GS:	451	ETE:	00:02:06	TOT:		13:09:45		
-											
-											
----  											
-###	11	MOUSE		N 41	20,669	  -  	E 41	41,232			
-#####	DIST:	095,1  NM	BINGO:	5788	ALT:	25.0 M	MACH:	0,74			
-#####	HDG:	271°	GS:	450	ETE:	00:12:41	TOT:		13:22:26		
-											
-											
----  											
-###	12	MICKEY		N 41	44,866	  -  	E 41	47,985			
-#####	DIST:	024,7  NM	BINGO:	5417	ALT:	25.0 M	MACH:	0,74			
-#####	HDG:	006°	GS:	450	ETE:	00:03:18	TOT:		13:25:44		
-											
-											
----  											
-###	13	Kutaisi		N 42	10,657	  -  	E 42	28,874			
-#####	DIST:	040,4  NM	BINGO:	4527	ALT:	1.5 A	MACH:	0,68			
-#####	HDG:	109°	GS:	451	ETE:	00:05:23	TOT:		13:31:07		
-											
+---  												
+###	59	MADISON	N	26	51,000	  -  	E	056	39,000		BULLSEYE	
+												
+---  												
+####	00	TO OMAM									52 - 0	
+#####  	FUEL:		13047		WALK:		07:00:00	T/O T:		07:20:00		
+												
+												
+---  												
+###	01	ELEV_UP	N	24	24,531	  -  	E	054	54,070			
+#####	DIST:	022,0  NM	BINGO:	11641	ALT:		13.0 M	MACH:	0,64			
+#####	HDG:	064°	GS:	409	ETE:		00:03:14	TOT:		07:23:14		
+												
+												
+---  												
+###	02	ROUTE	N	24	35,148	  -  	E	055	17,671			
+#####	DIST:	024,0  NM	BINGO:	11282	ALT:		27.0 M	MACH:	0,74			
+#####	HDG:	062°	GS:	447	ETE:		00:03:13	TOT:		07:26:27		
+												
+												
+---  												
+###	03	ROUTE	N	24	35,148	  -  	E	055	17,671			
+#####	DIST:	000,0  NM	BINGO:	11282	ALT:		27.0 M	MACH:	0,74			
+#####	HDG:	034°	GS:	00	ETE:		00:10:04	TOT:		07:36:31		
+												
+												
+---  												
+###	04	FENCE	N	26	00,000	  -  	E	055	39,000			
+#####	DIST:	087,1  NM	BINGO:	9977	ALT:		27.0 M	MACH:	0,74			
+#####	HDG:	313°	GS:	1116	ETE:		00:04:41	TOT:		07:41:12		
+												
+												
+---  												
+###	05	HOLD	N	26	24,644	  -  	E	055	37,162			
+#####	DIST:	024,7  NM	BINGO:	4476	ALT:		27.0 M	MACH:	0,74			
+#####	HDG:	354°	GS:	447	ETE:		00:03:19	TOT:		07:44:31	VUL:	00:45:00
+												
+												
+---  												
+###	06	SEAD	N	26	29,511	  -  	E	055	22,179			
+#####	DIST:	014,3  NM	BINGO:	4262	ALT:		27.0 M	MACH:	0,74			
+#####	HDG:	288°	GS:	18	ETE:		00:46:55	TOT:		08:31:26		
+												
+												
+---  												
+###	07	SEAD	N	26	29,511	  -  	E	055	22,179			
+#####	DIST:	000,0  NM	BINGO:	4262	ALT:		27.0 M	MACH:	0,74			
+#####	HDG:	330°	GS:	00	ETE:		00:02:40	TOT:		08:34:06		
+												
+												
+---  												
+###	08	SEAD	N	26	29,511	  -  	E	055	22,179			
+#####	DIST:	000,0  NM	BINGO:	4262	ALT:		27.0 M	MACH:	0,74			
+#####	HDG:	066°	GS:	00	ETE:		00:02:52	TOT:		08:36:58		
+												
+												
+---  												
+###	09	SEAD	N	26	29,511	  -  	E	055	22,179			
+#####	DIST:	000,0  NM	BINGO:	4262	ALT:		27.0 M	MACH:	0,74			
+#####	HDG:	158°	GS:	00	ETE:		00:02:52	TOT:		08:39:50		
+												
+												
+---  												
+###	10	RTB	N	26	24,526	  -  	E	055	37,162			
+#####	DIST:	014,3  NM	BINGO:	4047	ALT:		27.0 M	MACH:	0,74			
+#####	HDG:	201°	GS:	560	ETE:		00:01:32	TOT:		08:41:22		
+												
+												
+---  												
+###	11	KANSAS	N	26	00,000	  -  	E	055	39,000			
+#####	DIST:	024,6  NM	BINGO:	3679	ALT:		26.0 M	MACH:	0,74			
+#####	HDG:	174°	GS:	447	ETE:		00:03:18	TOT:		08:44:40		
+												
+												
+---  												
+###	12	MRR	N	25	36,863	  -  	E	056	02,221			
+#####	DIST:	031,2  NM	BINGO:	3211	ALT:		26.0 M	MACH:	0,74			
+#####	HDG:	136°	GS:	446	ETE:		00:04:12	TOT:		08:48:52		
+												
+												
+---  												
+###	13	MRR	N	25	36,863	  -  	E	056	02,221			
+#####	DIST:	000,0  NM	BINGO:	3211	ALT:		26.0 M	MACH:	0,74			
+#####	HDG:	215°	GS:	00	ETE:		00:10:59	TOT:		08:59:51		
+												
+												
+---  												
+###	14	ELEV_DN	N	24	24,410	  -  	E	054	54,203			
+#####	DIST:	095,2  NM	BINGO:	1459	ALT:		13.0 M	MACH:	0,64			
+#####	HDG:	241°	GS:	2636	ETE:		00:02:10	TOT:		09:02:01		
+												
+												
+---  												
+###	15	LAND OMAM	N	24	15,433	  -  	E	054	32,050			
+#####	DIST:	022,1  NM	BINGO:	972	ALT:		1.5 A	MACH:	0,61			
+#####	HDG:	244°	GS:	408	ETE:		00:03:15	TOT:		09:05:16		
+												
+												
+---  												
+###	16	ALTERNATE	N	24	26,033	  -  	E	054	27,033			
+#####	DIST:	011,6  NM	BINGO:	717	ALT:		1.5 A	MACH:	0,61			
+#####	HDG:	335°	GS:	408	ETE:		00:01:42	TOT:		09:06:58		
+												
 
 
 ![DMPI](TRM/T4B/T4BJDAMDMPI.png)
