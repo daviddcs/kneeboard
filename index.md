@@ -13,7 +13,7 @@ TACAN: 51 - 114Y
 ## FLIGHTPLAN
 WEST DEP, FOR SWEEP MOA-C & EAST
 
-## LOADOUT
+## LOADOUT TIC TOC :)
 
 left | right
 ----- | -----
