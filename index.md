@@ -2,27 +2,25 @@
 - | - | -
 [CV-OPs](/CVOPS/cvops.md) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-## HAWK 3 - TR2724
+## MINKEN 2 - CASUAL99
 
 Flight Lead: DAVID  
-TACAN: 52 - 115Y  
+WM2: KIM  
 
 ## FLIGHTPLAN
-"WEST IMC DEP, FOR MOA-W
-BATUMI-DIVERT.
-RECOVERY STENNIS"
+0
 
 ## LOADOUT
 
 left | right
 ----- | -----
-S1 - AIM-9M | S9 - AIM-9M
-S2 - 2xAIM-9M | S8 - 2xAIM-9M
+S1 - AN/ASQ-T50 | S9 - CAP-9M
+S2 - 2xMK-82 LD | S8 - MK-82 LD
 S3 - PFU-8A | S7 - PFU-8A
 S4 - - | S6 - -
 S5 - - | GUN - FULL CM
-CHAFF - 30 | FLARE - 50
-FUEL - 1 | WEIGHT: 43746
+CHAFF - 50 | FLARE - 35
+FUEL - 1 | WEIGHT: 44057
 
 
 
@@ -31,6 +29,7 @@ FUEL - 1 | WEIGHT: 43746
 
 ![MDC1](MDC10.PNG)
 ![MDC1](MDC20.PNG)
+![MDC1](MDC30.PNG)
 ![AO](E10.PNG)
 
 ## METAR: 
@@ -45,6 +44,36 @@ FUEL - 1 | WEIGHT: 43746
 
 ### RAMROD
 
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| - | - | - | - | - | - | - | - | - | - |
+| B | L | A | C | K | H | O | R | S | E |
+
+### BASE
+
+| ALTITUDE | SPEED | HEADING | NUMBER| 
+| -------- | ----- | ------- | ----- | 
+| 5000ft AMSL | 300 Kts | 300 degrees | 5 |
+
+### CODEWORDS
+
+| MEANING | CODEWORD | 
+| ------- | -------- | 
+| ON STATION | ALABAMA | 
+| OFF STATION | BABYLON |
+| RTB | CHICAGO |
+| MISSION CANCEL | DENVER |
+| MISSION SUCCESSFUL| ERIE |
+| MISSION UNSUCCESSFUL| FRANKFURT |
+| ATTACK SUCCESSFUL | GEORGIA |
+| ATTACK UNSUCCESSFUL | HIGHLAND |
+| LAST OFF TARGET| ILLINOIS |
+| REATTACK | JAKARTA |
+| PUSHING | KENTUCKY |
+| ROLEX | LOUSVILLE |
+| REQUEST ROLEX| MEMPHIS|
+| WOUNDED BIRD | NANTUCKET |
+| FEET WET | OHIO |
+| FEET DRY | PHILIPPINES |
 
 ## TCN
 
@@ -59,7 +88,7 @@ FUEL - 1 | WEIGHT: 43746
 ## TASK
 
 
-![GND](/FLIPS/UGKO_GND.png)  
+![GND](/FLIPS/OMAM_GND.png)  
 [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
