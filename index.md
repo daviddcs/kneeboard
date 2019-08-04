@@ -7,9 +7,6 @@
 #### SD: DAVID 
 #### WD: APOLLO 
 
-## Objective
-
-
 ## Priorites
 CJTF-87 is commencing and offensive to regain the initative. Objective 1 in this new offensive is to capture the airfield at QESHM.
 This ATO period will focus on shaping the battlefield to start the offensive. 
@@ -18,6 +15,10 @@ As a final part of shaping , 21st Coastal Artillery Battalion , with SS-C-2 miss
 Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, this battery must be located and neutralized.
 
 #### AWACS Frequencies:
+
+### INTERNAL
+LotATC Chat box.
+Intercom CH 0
 
 ### MAGIC
 A-A Controller 1: 248.000 (GRAY 2) <br>
