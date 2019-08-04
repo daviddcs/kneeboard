@@ -21,16 +21,28 @@ As a final part of shaping , 21st Coastal Artillery Battalion , with SS-C-2 miss
 Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, this battery must be located and neutralized.
 
 #### AWACS Frequencies:
+
+### MAGIC
+A-A Controller 1: 248.000 (GRAY 2) <br>
+GRAY 2 PRIMARY WORK FREQ.  
+A-A Controller 2 :229.000 (GREEN 4) <br>
+
+### DARKSTAR
 Check-in: 231.500 (GREEN 7) <br>
 A-G controller 1: 235.250 (GREY 6) <br>
 A-G Controller 2: 234.500 (PINK 9) <br>
-A-A Controller 1: 248.000 (GRAY 2) <br>
-A-A Controller 2 :229.000 (GREEN 4) <br>
+
+
+### BOTH
 CSAR Freq: 233.000 (PINK 1) <br>
 In flight Report net: 228.000 (ORANGE 10) <br>
 Alert Frequency: 248.750 (GREEN 6) <br>
 Admin frequency: 238.750 (AMBER 2) <br>
 VHF Back-up: 122.250 (GRAY 10) <br>
+
+### JTAC WARRIOR:  
+PRIMARY: 119.250 (RED 11)  
+SECONDARY: 245.500 (GOLD 11)
 
 ## ASSETS
 
