@@ -7,8 +7,6 @@
 #### SD: DAVID 
 #### WD: APOLLO 
 
-
-
 ## Objective
 
 
@@ -32,13 +30,14 @@ Check-in: 231.500 (GREEN 7) <br>
 A-G controller 1: 235.250 (GREY 6) <br>
 A-G Controller 2: 234.500 (PINK 9) <br>
 
-
-### BOTH
-CSAR Freq: 233.000 (PINK 1) <br>
+### BOTH MONITOR
 In flight Report net: 228.000 (ORANGE 10) <br>
+VHF Back-up: 122.250 (GRAY 10) <br>
+
+### OPTIONAL
+CSAR Freq: 233.000 (PINK 1) <br>
 Alert Frequency: 248.750 (GREEN 6) <br>
 Admin frequency: 238.750 (AMBER 2) <br>
-VHF Back-up: 122.250 (GRAY 10) <br>
 
 ### JTAC WARRIOR:  
 PRIMARY: 119.250 (RED 11)  
@@ -188,13 +187,6 @@ This mission is intended to set conditions for the arrival of allied forces ente
 **REMARKS:** Assessed as LIKELY that Iranian SAM forces are operating in the area.
 //
 
-## METAR: 
-
-#### NOTAM: 
-
-
-
-## COMMS
 
 ## SPINS
 
@@ -251,17 +243,27 @@ TEXACO/BRAA/BOOM/FL115/WHITE9/10X
 
 ## ROE:
 
+### WEAPONS FREE
 
 
 ## Intel:
+# Intelligence report OPUF MSN 10
+Local time: Early morning 8th of June 2011.
 
+### Air Defence
+The strike at the SA-10 site at Bandar Abbas was considered a success, and the site is highly likely been neutralized and out of action.
+The supporting strikes on the HAWK batteries reported close to Bandar Abbas is assessed as unsuccessful.
 
-## TASK
+### Air Defence
+It is likely that HAWK batteries are operational in the vicinity of Bandar Abbas.
+It is likely that SA-11 Batteries have been forward staged to protect high value targets such as airfield, Silkworm sites, MLRS or important C2 nodes.
+
 
 
 ![GND OMDM](/FLIPS/OMDM_GND_JULY3.png)  
 ![VFR OMDM](/FLIPS/OMDM_VFR_JULY3.png)  
-![GND OOKB](/FLIPS/OOKB_GND_JULY3.png) 
+![GND OOKB](/FLIPS/OOKB_GND_JULY3.png)
+![AO](E10.PNG) 
 [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
