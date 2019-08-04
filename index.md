@@ -23,12 +23,12 @@ Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, t
 
 ### MAGIC
 A-A Controller 1: 248.000 (GRAY 2) <br>
-GRAY 2 PRIMARY WORK FREQ.  
+**GRAY 2 PRIMARY WORK FREQ.**  
 A-A Controller 2 :229.000 (GREEN 4) <br>
 
 ### DARKSTAR
 Check-in: 231.500 (GREEN 7) <br>
-GREEN 7 PRIMARY WORK FREQ.  
+**GREEN 7 PRIMARY WORK FREQ.**  
 A-G controller 1: 235.250 (GREY 6) <br>
 A-G Controller 2: 234.500 (PINK 9) <br>
 
@@ -43,6 +43,13 @@ VHF Back-up: 122.250 (GRAY 10) <br>
 ### JTAC WARRIOR:  
 PRIMARY: 119.250 (RED 11)  
 SECONDARY: 245.500 (GOLD 11)
+
+### SEAD Alert Freq
+234.250	(LEMON 9)
+
+### Killbox IO/JO
+PRIMARY: 227.500 (YELLOW 1)  
+SECONDARY: 127.750	(PURPLE 11)  
 
 ## ASSETS
 
@@ -211,7 +218,7 @@ SHELL/BRAA/BASKET/FL240/LIME11/38X
 ARCO/BRAA/BASKET/FL190/MAROON7/39X  
 240.750
 
-TEXACO/BRAA/BOOM/FL120/WHITE9/10X  
+TEXACO/BRAA/BOOM/FL115/WHITE9/10X  
 120.500
 
 ### BASE
