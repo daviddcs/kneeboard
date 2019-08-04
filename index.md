@@ -4,9 +4,8 @@
 
 ## DARKSTAR/MAGIC - MSN#AW3052/AW3053 - 041800ZAUG2019
 
-SD: DAVID 
-
-WD: APOLLO 
+#### SD: DAVID 
+#### WD: APOLLO 
 
 
 
@@ -29,6 +28,7 @@ A-A Controller 2 :229.000 (GREEN 4) <br>
 
 ### DARKSTAR
 Check-in: 231.500 (GREEN 7) <br>
+GREEN 7 PRIMARY WORK FREQ.  
 A-G controller 1: 235.250 (GREY 6) <br>
 A-G Controller 2: 234.500 (PINK 9) <br>
 
@@ -46,38 +46,7 @@ SECONDARY: 245.500 (GOLD 11)
 
 ## ASSETS
 
-**PANTHER-11-12:** 
-//
-**MISSION:**  SEAD
-//
-**CONTROLLER:** DARKSTAR
-//
-**CONTACT POINT (CP):** DONALDDUCK
-//
-**VUL Gametime:**1645G-1745G (1845Z-1945Z)
-//
-**FREQUENCY:**  SEAD Alert Freq: 234.250	LEMON 9  (Monitor in holding orbit, unless otherwise directed by AWACS)
-//
-**REMARKS:** 
-//
-//
-
-**FALCON-21-23:** 
-//
-**MISSION:**  SEAD
-//
-**CONTROLLER:**  DARKSTAR
-//
-**CONTACT POINT (CP):** DONALDDUCK
-//
-**VUL Gametime:**1650G-1800G (1850Z-2000Z)
-//
-**FREQUENCY:**  SEAD Alert Freq: 234.250	LEMON 9  (Monitor in holding orbit, unless otherwise directed by AWACS)
-//
-**REMARKS:** 
-//
-//
-
+### MAGIC PRIMARY
 **HAWK-31-32:** 
 //
 **MISSION:**  CAP
@@ -124,6 +93,39 @@ SECONDARY: 245.500 (GOLD 11)
 **FREQUENCY:**  PER AWACS instructions
 //
 **REMARKS:** Primary task: Sweep against any enemy aircrafts beeing a threat toward friendly A-10C's. Secondary task: Support CAS / Shaping operations over QESHM airfield. 
+//
+
+
+### DARKSTAR PRIMARY
+**PANTHER-11-12:** 
+//
+**MISSION:**  SEAD
+//
+**CONTROLLER:** DARKSTAR
+//
+**CONTACT POINT (CP):** DONALDDUCK
+//
+**VUL Gametime:**1645G-1745G (1845Z-1945Z)
+//
+**FREQUENCY:**  SEAD Alert Freq: 234.250	LEMON 9  (Monitor in holding orbit, unless otherwise directed by AWACS)
+//
+**REMARKS:** 
+//
+//
+
+**FALCON-21-23:** 
+//
+**MISSION:**  SEAD
+//
+**CONTROLLER:**  DARKSTAR
+//
+**CONTACT POINT (CP):** DONALDDUCK
+//
+**VUL Gametime:**1650G-1800G (1850Z-2000Z)
+//
+**FREQUENCY:**  SEAD Alert Freq: 234.250	LEMON 9  (Monitor in holding orbit, unless otherwise directed by AWACS)
+//
+**REMARKS:** 
 //
 //
 
