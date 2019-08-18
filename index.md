@@ -31,8 +31,8 @@ A-A Controller 2 :229.000 (GREEN 4) <br>
 
 ### DARKSTAR
 Check-in: 231.500 (GREEN 7) <br>
-**GREEN 7 PRIMARY WORK FREQ.**  
 A-G controller 1: 235.250 (GREY 6) <br>
+**GREY 6 PRIMARY WORK FREQ.**  
 A-G Controller 2: 234.500 (PINK 9) <br>
 
 ### BOTH MONITOR
