@@ -24,7 +24,10 @@ Intercom CH 0
 ### MAGIC
 A-A Controller 1: 248.000 (GRAY 2) <br>
 **GRAY 2 PRIMARY WORK FREQ.**  
+
+### OVERLORD
 A-A Controller 2 :229.000 (GREEN 4) <br>
+**GREEN 4 PRIMARY WORK FREQ.**  
 
 ### DARKSTAR
 Check-in: 231.500 (GREEN 7) <br>
@@ -45,150 +48,96 @@ Admin frequency: 238.750 (AMBER 2) <br>
 PRIMARY: 119.250 (RED 11)  
 SECONDARY: 245.500 (GOLD 11)
 
-### SEAD Alert Freq
-234.250	(LEMON 9)
 
-### Killbox IO/JO
-PRIMARY: 227.500 (YELLOW 1)  
-SECONDARY: 127.750	(PURPLE 11)  
+
 
 ## ASSETS
 
 ### MAGIC PRIMARY
-**HAWK-31-32:** 
+JEDI: 
 //
-**MISSION:**  CAP
+MISSION: CAP - Killbox GI- GJ 
 //
-**CONTROLLER:** MAGIC
+CONTROLLER: MAGIC 
 //
-**CONTACT POINT (CP):** DONALDDUCK
+CONTACT POINT (CP): DONALDDUCK 
 //
-**VUL Gametime:**1640G-1750G (1840Z-1950Z)
+VUL Gametime:0350G-0425G (1850Z-1925Z) 
 //
-**FREQUENCY:**  PER AWACS instructions
+FREQUENCY: PER AWACS instructions 
 //
-**REMARKS:** Support CAS / Shaping operations over QESHM airfield. 
-//
-//
-
-**JEDI-41-42:** 
-//
-**MISSION:**  CAP
-//
-**CONTROLLER:** MAGIC
-//
-**CONTACT POINT (CP):** DONALDDUCK
-//
-**VUL Gametime:**1645G-1755G (1845Z-1955Z)
-//
-**FREQUENCY:**  PER AWACS instructions
-//
-**REMARKS:** Support CAS / Shaping operations over QESHM airfield. 
-//
-//
+REMARKS: Support PANTHER’s mission and protect with CAP for PANTHER and FALCON. 
 
 
-**RAVEN-51-53:** 
-//
-**MISSION:**  SWEEP / Secondary Mission CAP
-//
-**CONTROLLER:** MAGIC
-//
-**CONTACT POINT (CP):** DONALDDUCK
-//
-**VUL Gametime:**1640G-1750G (1840Z-1950Z)
-//
-**FREQUENCY:**  PER AWACS instructions
-//
-**REMARKS:** Primary task: Sweep against any enemy aircrafts beeing a threat toward friendly A-10C's. Secondary task: Support CAS / Shaping operations over QESHM airfield. 
-//
+RAVEN: 
+MISSION: SWEEP Killbox GJ-GI-GH 
+CONTROLLER: MAGIC 
+CONTACT POINT (CP): DONALDDUCK 
+VUL Gametime:0345G-0425G (1845Z-1925Z) 
+FREQUENCY: PER AWACS instructions 
+REMARKS: Sweep target area prior to PANTHER flight arriving in the AO. Neutralize enemy CAP’s posing a threat toward PANTHER and FALCON. 
 
+### OVERLORD PRIMARY
+HAWK: 
+MISSION: CAP between CHARLESTON - MADISON (Killbox HN) 
+CONTROLLER: OVERLORD 
+CONTACT POINT (CP): DONALDDUCK 
+VUL Gametime:0350G-0450G (1850Z-1950Z) 
+FREQUENCY: PER AWACS instructions 
+REMARKS: Engage any aircrafts posing a threat toward CAS and Air Assault Operations over QHESM. 
 
 ### DARKSTAR PRIMARY
-**PANTHER-11-12:** 
-//
-**MISSION:**  SEAD
-//
-**CONTROLLER:** DARKSTAR
-//
-**CONTACT POINT (CP):** DONALDDUCK
-//
-**VUL Gametime:**1645G-1745G (1845Z-1945Z)
-//
-**FREQUENCY:**  SEAD Alert Freq: 234.250	LEMON 9  (Monitor in holding orbit, unless otherwise directed by AWACS)
-//
-**REMARKS:** 
-//
-//
+PANTHER: 
+MISSION: AR - Killbox GI 
+CONTROLLER: DARKSTAR 
+CONTACT POINT (CP): DONALDDUCK 
+VUL Gametime:0355G-0425G (1855Z-1925Z) 
+FREQUENCY: Per AWACS directions 
+REMARKS: Intelligence indicates that a company of Main Battle Tanks from 133rd Armored Regiment at LAR is moving towards 245th Mechanized Infantry Regiment, likely to support in defensive positions. Task is to locate and neutralize MBT’s. MBT’s is assessed to likely follow roads. It is an even chanche that the company is bringing Air Defence assets in support. Coordinate with FALCON flight for SEAD support. 
 
-**FALCON-21-23:** 
-//
-**MISSION:**  SEAD
-//
-**CONTROLLER:**  DARKSTAR
-//
-**CONTACT POINT (CP):** DONALDDUCK
-//
-**VUL Gametime:**1650G-1800G (1850Z-2000Z)
-//
-**FREQUENCY:**  SEAD Alert Freq: 234.250	LEMON 9  (Monitor in holding orbit, unless otherwise directed by AWACS)
-//
-**REMARKS:** 
-//
-//
 
-**BEAST-11-12:** 
-//
-**MISSION:** CAS at QESHM Airfield.
-//
-**CONTROLLER:** JTAC WARRIOR
-//
-**CONTACT POINT (CP):** KENTUCKY
-//
-**VUL Gametime:**1650G-1800G (1850Z-2000Z)
-//
-**FREQUENCY:**  JTAC WARRIORY: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11  
-//
-**REMARKS:** Shaping to set conditions for air assault to capture the airfield. Expect heavy defences, both from aircraft, airdefence and ground forces.
-//
-//
+FALCON: 
+MISSION: SEAD in support of PANTHER 
+CONTROLLER: DARKSTAR 
+CONTACT POINT (CP): DONALDDUCK 
+VUL Gametime:0350G-0425G (1850Z-1925Z) 
+FREQUENCY: Per AWACS directions 
+REMARKS: Coordinate with PANTHER flight. Intention is to conduct SEAD against threats to permit PANTHER to conduct its mission. 
 
-**AXE-21-22:** 
-//
-**MISSION:**  CAS at QESHM Airfield.
-//
-**CONTROLLER:** JTAC WARRIOR
-//
-**CONTACT POINT (CP):** KENTUCKY
-//
-**VUL Gametime:**1700G-1810G (1900Z-2010Z)
-//
-**FREQUENCY:** JTAC WARRIOR: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11 
-//
-**REMARKS:** Shaping to set conditions for air assault to capture the airfield. Expect heavy defences, both from aircraft, airdefence and ground forces.
-//
-//
+AXE: 
+MISSION: CAS at QESHM Airfield. 
+CONTROLLER: JTAC WARRIOR 
+CONTACT POINT (CP): KENTUCKY 
+VUL Gametime:0350G-0500G (1855Z-2000Z) 
+FREQUENCY: JTAC WARRIORY: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11
 
-**MISTY-41-42:** 
-//
-**MISSION:**  ARMED RECOINNANSANCE
-//
-**CONTROLLER:** DARKSTAR
-//
-**CONTACT POINT (CP):** SCROOGEMCDUCK
-//
-**VUL Gametime:**1700G-1810G (1900Z-2010Z)
-//
-**FREQUENCY:** PRIMARY: 227.500	YELLOW 1 SECONDARY: 127.750	PURPLE 11  (For AR/SCAR operations in Killbox IO/JO)
-//
-**TARGET:**21st Coastal Artillery Battalion
-//
-**REMARKS:** Task is to search in Killbox IO and JO and locate elements of 21st Coastal Artillery Battalion. Intelligence indicate that part of the BN is deployed in the field and are operations.
-This mission is intended to set conditions for the arrival of allied forces entering the Strait-of-Hormuz ( Carrier Strike Group).
-//
-**REMARKS:** Assessed as LIKELY that Iranian SAM forces are operating in the area.
-//
+REMARKS: Neutralize any threats against BEAR flight that will conduct an air assault to capture QESHM airfield. 
 
+
+MISTY: 
+MISSION: CAS at QESHM Airfield. 
+CONTROLLER: JTAC WARRIOR 
+CONTACT POINT (CP): KENTUCKY 
+VUL Gametime:0350G-0500G (1855Z-2000Z) 
+FREQUENCY: JTAC WARRIOR: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11 
+REMARKS: Neutralize any threats against BEAR flight that will conduct an air assault to capture QESHM airfield. L-hour (when first RW lands at QESHM) is set to 0420G (1920Z) 
+
+BEAR: 
+MISSION: Air Assault at QESHM Airfield. 
+CONTROLLER: JTAC WARRIOR in position overlooking QHESM airfield 
+CONTACT POINT (CP): Coordinate with JTAC WARRIOR 
+L-hour (when first RW lands at QESHM) is set to 0420G (1920Z). Timings can be rolexed either left of right based on coordination between JTAC WARRIOR and BEAR Flight Lead. 
+FREQUENCY: JTAC WARRIOR: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11 
+REMARKS: MI-8’s at KHASAB. Pick up troops at KHASAB before flying to QHESM. 
+
+
+SHARK: 
+MISSION: Escort BEAR flight 
+CONTROLLER: JTAC WARRIOR in position overlooking QHESM airfield 
+CONTACT POINT (CP): N/A 
+L-hour(when first RW lands at QESHM) is set to 0420G (1920Z). Timings can be rolexed either left of right based on coordination between JTAC WARRIOR and BEAR Flight Lead. 
+FREQUENCY: JTAC WARRIOR: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11 
+REMARKS: KA-50 and MI-8’s at KHASAB. Coordinate with BEAR FL as required. 
 
 ## SPINS
 
