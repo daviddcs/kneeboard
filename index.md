@@ -54,7 +54,7 @@ SECONDARY: 245.500 (GOLD 11)
 ## ASSETS
 
 ### MAGIC PRIMARY
-JEDI 4: 
+**JEDI 4:** 
 //
 MISSION: CAP - Killbox GI- GJ 
 //
@@ -69,7 +69,7 @@ FREQUENCY: PER AWACS instructions
 REMARKS: Support PANTHER’s mission and protect with CAP for PANTHER and FALCON. 
 
 
-RAVEN 5: 
+**RAVEN 5:** 
 //
 MISSION: SWEEP Killbox GJ-GI-GH 
 //
@@ -86,7 +86,7 @@ REMARKS: Sweep target area prior to PANTHER flight arriving in the AO. Neutraliz
 PANTHER and FALCON. 
 
 ### OVERLORD PRIMARY
-HAWK 3: 
+**HAWK 3:** 
 //
 MISSION: CAP between CHARLESTON - MADISON (Killbox HN) 
 //
@@ -101,7 +101,7 @@ FREQUENCY: PER AWACS instructions
 REMARKS: Engage any aircrafts posing a threat toward CAS and Air Assault Operations over QHESM. 
 
 ### DARKSTAR PRIMARY
-PANTHER 1: 
+**PANTHER 1:** 
 //
 MISSION: AR - Killbox GI 
 //
@@ -116,7 +116,7 @@ FREQUENCY: Per AWACS directions
 REMARKS: Intelligence indicates that a company of Main Battle Tanks from 133rd Armored Regiment at LAR is moving towards 245th Mechanized Infantry Regiment, likely to support in defensive positions. Task is to locate and neutralize MBT’s. MBT’s is assessed to likely follow roads. It is an even chanche that the company is bringing Air Defence assets in support. Coordinate with FALCON flight for SEAD support. 
 
 
-FALCON 2: 
+**FALCON 2:** 
 //
 MISSION: SEAD in support of PANTHER 
 //
@@ -130,7 +130,7 @@ FREQUENCY: Per AWACS directions
 //
 REMARKS: Coordinate with PANTHER flight. Intention is to conduct SEAD against threats to permit PANTHER to conduct its mission. 
 
-AXE 2: 
+**AXE 2:** 
 //
 MISSION: CAS at QESHM Airfield. 
 //
@@ -145,7 +145,7 @@ FREQUENCY: JTAC WARRIORY: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11
 REMARKS: Neutralize any threats against BEAR flight that will conduct an air assault to capture QESHM airfield. 
 
 
-MISTY 4: 
+**MISTY 4:** 
 //
 MISSION: CAS at QESHM Airfield. 
 //
@@ -159,7 +159,7 @@ FREQUENCY: JTAC WARRIOR: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11
 //
 REMARKS: Neutralize any threats against BEAR flight that will conduct an air assault to capture QESHM airfield. L-hour (when first RW lands at QESHM) is set to 0420G (1920Z) 
 
-BEAR 1: 
+**BEAR 1:** 
 //
 MISSION: Air Assault at QESHM Airfield. 
 //
@@ -173,7 +173,7 @@ FREQUENCY: JTAC WARRIOR: PRIMARY: 119.250	(RED 11) SECONDARY: 245.500	GOLD 11
 REMARKS: MI-8’s at KHASAB. Pick up troops at KHASAB before flying to QHESM. 
 
 
-SHARK 3: 
+**SHARK 3:** 
 //
 MISSION: Escort BEAR flight 
 //
