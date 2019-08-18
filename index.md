@@ -2,7 +2,7 @@
 - | - | -
 [CV-OPs](/CVOPS/cvops.md) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-## DARKSTAR/MAGIC/OVERLORD - MSN#AW3362/AW33463/AW3464 - 181800ZAUG2019
+## DARKSTAR/MAGIC/OVERLORD - MSN#AW3362/AW3463/AW3464 - 181800ZAUG2019
 
 #### SD: THUMPER 
 #### WD: DAVID 
