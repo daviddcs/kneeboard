@@ -9,11 +9,9 @@
 #### WD: VOODOO 
 
 ## Priorites
-CJTF-87 is commencing and offensive to regain the initative. Objective 1 in this new offensive is to capture the airfield at QESHM.
-This ATO period will focus on shaping the battlefield to start the offensive. 
+CJTF-87 is commencing and offensive to regain the initative. Objective 1 in this new offensive is to capture the airfield at QESHM. This ATO period will focus on capturing the airfield at QHESM.
 
-As a final part of shaping , 21st Coastal Artillery Battalion , with SS-C-2 missiles are still not located and destroyed.
-Before Carrier Strike Groups and Amphibious forces can enter the Persion Gulf, this battery must be located and neutralized.
+As a shaping for further operations to Bandar Abbas, shaping operations are to take place further inland to attrit Iranian armored forces before the invasion.
 
 #### AWACS Frequencies:
 
