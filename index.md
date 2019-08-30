@@ -38,11 +38,6 @@ AWACS monitor the freq throughout. No need for flights to monitor this freq. Jus
 | - | - | - | - | - | - | - | - | - | - |
 | L | U | M | B | E | R | J | A | C | K |
 
-### BASE
-
-| ALTITUDE | SPEED | HEADING | NUMBER| 
-| -------- | ----- | ------- | ----- | 
-| 5000ft AMSL | 300 Kts | 300 degrees | 5 |
 
 ### CODEWORDS
 
