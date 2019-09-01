@@ -50,6 +50,7 @@ EW:
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
 | L | U | M | B | E | R | J | A | C | K |
+| C | O | M | P | L | E | X | I | T | Y |
 
 ### BASE
 
