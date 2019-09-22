@@ -8,7 +8,7 @@
 #### WD: CRYSTAL - BUNZ
 #### WD: MAGIC - YASSY 
 #### WD: OVERLORD - LOONEY 
-#### ATC: DUCKY
+#### ATC: LOONEY/YASSY
 
 ## Priorites
 Priority 1: is to strike chemical weapon factory, OBJ GARY Priority 2: is CAS operations in support of friendlies Priority 3: is defending against any Armored forces (Main Battle Tank formations) that pose a threat to frontline forces at the FLOT.
@@ -26,19 +26,19 @@ A-A Controller 1: 248.000 (GRAY 2) <br>
 ### CRYSTAL
 A-A Controller 2 :229.000 (GREEN 4) <br>
 **GREEN 4 PRIMARY WORK FREQ.**  
+Al Minhad TWR: 121.2
 
 ### OVERLORD
 A-G Controller 2: 234.500 (PINK 9) <br>
 **PINK 9 PRIMARY WORK FREQ.**  
+BANDAR ABBAS TWR: 118.2
 
 ### DARKSTAR
 Check-in: 231.500 (GREEN 7) <br>
 A-G controller 1: 235.250 (GREY 6) <br>
 **GREY 6 PRIMARY WORK FREQ.**  
 
-### DUCKY
-Al Minhad TWR: 121.2
-BANDAR ABBAS TWR: 118.2
+
 
 ### BOTH MONITOR
 In flight Report net: 228.000 (ORANGE 10) <br>
