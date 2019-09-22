@@ -137,16 +137,7 @@ TEXACO/BRAA/BOOM/FL115/WHITE9/10Y
 
 
 ## Intel:
-# Intelligence report OPUF MSN 10
-Local time: Early morning 8th of June 2011.
 
-### Air Defence
-The strike at the SA-10 site at Bandar Abbas was considered a success, and the site is highly likely been neutralized and out of action.
-The supporting strikes on the HAWK batteries reported close to Bandar Abbas is assessed as unsuccessful.
-
-### Air Defence
-It is likely that HAWK batteries are operational in the vicinity of Bandar Abbas.
-It is likely that SA-11 Batteries have been forward staged to protect high value targets such as airfield, Silkworm sites, MLRS or important C2 nodes.
 
 
 
@@ -154,7 +145,8 @@ It is likely that SA-11 Batteries have been forward staged to protect high value
 ![VFR OMDM](/FLIPS/OMDM_VFR_JULY3.png)  
 ![GND OOKB](/FLIPS/OOKB_GND_JULY3.png)
 ![GND OIKB](/FLIPS/OIKB_GND.png)
-![AO](E10.PNG) 
+[GND OIKB](/FLIPS/OIKB_GND.pdf)
+![AO](--E10.PNG) 
 [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
