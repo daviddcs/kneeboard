@@ -59,6 +59,7 @@ FAC(A) BEAST - 234.250 (LEMON 9) / 136.750 (OCHRE 8)
 ## ASSETS
 
 ### MAGIC PRIMARY
+**GRAY 2 PRIMARY WORK FREQ.** 
 BEAST 1 FAC(A) X2 A-10C  
 AXE 2 CAS X4 A-10C  
 MISTY 4 X2 A-10C  
@@ -66,6 +67,7 @@ COBRA 1 AR X4 KA50
 GRIZZLY 2 DEL X1 MI-8  
 
 ### OVERLORD PRIMARY
+**PINK 9 PRIMARY WORK FREQ.** 
 PACKAGE ALPHA,  
 PANTHER 1 AMC-ESCORT X2 F/A-18C  
 FALCON 2 SEAD X3 F/A-18C  
@@ -73,8 +75,8 @@ JEDI 4 STRIKE X4 F/A-18C
 SPECTRE 3 SWEEP X2 F-14B  
 RAVEN 5 SWEEP X3 F/A-18C  
 
-
 ### CRYSTAL PRIMARY
+**GREEN 4 PRIMARY WORK FREQ.**  
 HAWK 3 CAP X2 F/A-18C
 HUNTER 6 CAP X2 F/A-18C
 
@@ -137,6 +139,14 @@ TEXACO/BRAA/BOOM/FL115/WHITE9/10Y
 
 
 ## Intel:
+The friendly amphibious forces have the last days expanded the beachhead and the FLOT is as shown in the picture above. A-10Cs and Rotary wing aircrafts are now based at FOB Bandar Abbas Airfield, that got operational in the morning of the 16th of June.
+
+To the NORTH, friendly forces expect to get in contact with Iranian 222nd MECHANIZED INFANTRY REGIMENT within the next hours. Because of this, a AR mission is tasked on the ATO to attrit the enemy forces before friendly forces continue their push NORTH to engage the 222nd Mechanized Infantry Regiment.
+
+To the WEST, friendly forces are currently engaged in battle with parts of Iranian 123rd MOTORIZED INFANTRY REGIMENT. Friendlies have requested CAS in order to defend themself from the Iranian offensive. It is likely that elements from the 133rd Armored Regiment is preparing a offensive after part of 123rd Motorized Infantry Regiment have softened up friendly positions.
+
+To the EAST, the 151st ARMORED REGIMENT have been moving towards BANDAR ABBAS, and it is assessed that IRAN is planning to conduct a counterattack. It is important that the main battle tanks are stopped before they can do damage toward light friendly forces at the FLOT.
+
 
 
 
