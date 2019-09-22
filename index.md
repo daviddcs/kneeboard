@@ -22,11 +22,11 @@ EMERG: Intercom CH 0
 ### MAGIC
 A-A Controller 1: 248.000 (GRAY 2) <br>
 **GRAY 2 PRIMARY WORK FREQ.**  
+Al Minhad TWR: 121.2
 
 ### CRYSTAL
 A-A Controller 2 :229.000 (GREEN 4) <br>
 **GREEN 4 PRIMARY WORK FREQ.**  
-Al Minhad TWR: 121.2
 
 ### OVERLORD
 A-G Controller 2: 234.500 (PINK 9) <br>
