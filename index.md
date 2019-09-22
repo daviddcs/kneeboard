@@ -40,7 +40,7 @@ A-G controller 1: 235.250 (GREY 6) <br>
 
 
 
-### BOTH MONITOR
+### ALL MONITOR
 In flight Report net: 228.000 (ORANGE 10) <br>
 VHF Back-up: 122.250 (GRAY 10) <br>
 
