@@ -153,6 +153,7 @@ It is likely that SA-11 Batteries have been forward staged to protect high value
 ![GND OMDM](/FLIPS/OMDM_GND_JULY3.png)  
 ![VFR OMDM](/FLIPS/OMDM_VFR_JULY3.png)  
 ![GND OOKB](/FLIPS/OOKB_GND_JULY3.png)
+![GND OIKB](/FLIPS/OIKB_GND.pdf)
 ![AO](E10.PNG) 
 [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
