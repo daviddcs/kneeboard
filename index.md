@@ -13,148 +13,206 @@ PATTERN WORK UGKO"
 
 ## LOADOUT
 
-left | right  
------ | -----
-S1 - AIM120C | S9 - AIM120C
-S2 - CAP-9M | S8 - AN/ASQ-T50
-S3 - - | S7 - -
-S4 - - | S6 - -
-S5 - - | GUN - TP
-CHAFF - 60 | FLARE - 60
+# GND POWER Check-list:
+
+| Before Engine | Start 1 |
+| :--------- | -------: |
+Gnd Power | CONNECT
+Skin, Bort, Loadout, Fuel | **SET**
+Interior Lights | SET
+Air Source | NORM
+Exterior Lights | SET
+C&I Knob | BACKUP
+Fuel Master | ON – Guarded
+Engine Feed | NORM
+EPU | NORM – GUARDED
+Eng Cont | PRI – GUARDED
+Throttle | FREE & OFF
+Audio panel 1&2 | AS REQ. 
+UHF Backup panel | SET FL-PRI & CHECK IN 
+Landing Gear | DOWN & LOCKED
+Hook | UP
+CAT 1/3 | AS REQ
+Master Arm | SAFE
 
 
 
-## STEERPOINTS
-###	59	0			,	  -  			,		GEOREF	
-												
----  												
-####	00	Senaki-Kolkhi									0 - 0	
-#####  	FUEL:		10803		WALK:		18:00:00	T/O T:		18:20:00		
-												
-												
----  												
-###	01	ALIKA		42	15,219	  -  		041	31,968			
-#####	DIST:	023,5  NM	BINGO:	9451	ALT:		26.0 M	MACH:	0,8			
-#####	HDG:	266°	GS:	486	ETE:		00:02:54	TOT:		18:22:54		
-												
-												
----  												
-###	02	SARPI		41	32,978	  -  		041	26,859			
-#####	DIST:	042,4  NM	BINGO:	8815	ALT:		26.0 M	MACH:	0,8			
-#####	HDG:	179°	GS:	485	ETE:		00:05:15	TOT:		18:28:09		
-												
-												
----  												
-###	03	MOUSE		41	20,669	  -  		041	41,232			
-#####	DIST:	016,4  NM	BINGO:	8569	ALT:		26.0 M	MACH:	0,8			
-#####	HDG:	133°	GS:	483	ETE:		00:02:02	TOT:		18:30:11		
-												
-												
----  												
-###	04	DONALD		41	10,509	  -  		043	16,290			
-#####	DIST:	072,2  NM	BINGO:	7487	ALT:		26.0 M	MACH:	0,8			
-#####	HDG:	092°	GS:	485	ETE:		00:08:56	TOT:		18:39:07		
-												
-												
----  												
-###	05	5		41	21,676	  -  		044	31,325			
-#####	DIST:	057,5  NM	BINGO:	6624	ALT:		26.0 M	MACH:	0,8			
-#####	HDG:	072°	GS:	484	ETE:		00:07:08	TOT:		18:46:15		
-												
-												
----  												
-###	06	OBORA		41	50,059	  -  		044	27,884			
-#####	DIST:	028,5  NM	BINGO:	6197	ALT:		26.0 M	MACH:	0,8			
-#####	HDG:	349°	GS:	484	ETE:		00:03:32	TOT:		18:49:47		
-												
-												
----  												
-###	07	GORI/NDB		42	01,000	  -  		044	07,934			
-#####	DIST:	018,5  NM	BINGO:	5920	ALT:		26.0 M	MACH:	0,8			
-#####	HDG:	300°	GS:	485	ETE:		00:02:17	TOT:		18:52:04		
-												
-												
----  												
-###	08	ALI/NDB		42	05,767	  -  		043	38,683			
-#####	DIST:	022,2  NM	BINGO:	5587	ALT:		26.0 M	MACH:	0,8			
-#####	HDG:	276°	GS:	485	ETE:		00:02:45	TOT:		18:54:49		
-												
-												
----  												
-###	09	LOBIN		42	10,955	  -  		043	06,348			
-#####	DIST:	024,5  NM	BINGO:	5090	ALT:		10.0 M	MACH:	0,64			
-#####	HDG:	276°	GS:	413	ETE:		00:03:34	TOT:		18:58:23		
-												
-												
----  												
-###	10	Kutaisi		42	10,733	  -  		042	29,733			
-#####	DIST:	027,2  NM	BINGO:	4492	ALT:		1.5 A	MACH:	0,8			
-#####	HDG:	264°	GS:	531	ETE:		00:03:04	TOT:		19:01:27		
-												
+| Before Engine | Start 2 |
+| :--------- | -------: |
+AVIONICS ON | MMC, ST STA, MDF, UHF, DL, GPS
+**INS TO ALIGN** | **ALIGN NORM**
+MIDS LVT | ON
+L&R HDPT | AS REQ.
+FCR | ON
+RAD ALT | STBY
+HUD | AS REQ. 
+C&I | UFC 
+IFF Master Knob | STBY
+*DTC | LOAD
+UFC RADIO | SET & CHECK-IN
 
 
-![AO](E10.PNG)
+| AVIONICS | PROGRAM |
+| :--------- | -------: |
+RWR & CMDS | ON/TEST / STANDBY 
+*S-JETTISON* | SET
+SMS | PROGRAM 
+ALOW | SET
+*MSL* | CHECK 
+BINGO | SET JOKER
+*CRUS* | CHECK
+TACAN | PREP
+*IDM* | CHECK
+*BULLSEYE* | *CHECK AND MODE SELECTED* 
+Steerpoints | PROGRAM
+Rpt. Rdy. | ALPHA & ENG.START
+EGI | NAV (>4.MIN)
 
-## COMMS
-
-#### FL PRIMARY / - / AMBER3 / 227.0 / AMPN:PROGRAM
-#### FL SECONDARY / - / BLUE6 / 118.500 / AMPN:PROGRAM
-#### CHECK IN / - / BLUE3 / 237.0 / AMPN:PROGRAM
-#### KUTAISI TWR / - / KUTAISI TWR / 134.200 / AMPN:PROGRAM
-#### KUTAISI CRTL / - / RED4 / 127.100 / AMPN:PROGRAM
-#### UGKS TWR / - / UGKS TWR / 132.200 / AMPN:PROGRAM
-#### RANGE 2A PRI / - / INDIGO4 / 239.750 / AMPN:PROGRAM
-#### RANGE 3A PRI / - / INDIGO10 / 225.750 / AMPN:PROGRAM
-#### RANGE 3B PRI / - / AMBER4 / 235.750 / AMPN:PROGRAM
-#### MOA C / - / ORANGE2 / 242.250 / AMPN:PROGRAM
-#### MOTHER / - / AQUA6 / 247.750 / AMPN:PROGRAM
-#### RANGE CTR WIZ / - / RED5 / 245.0 / AMPN:PROGRAM
-#### C2 BACKUP / - / INDIGO6 / 136.250 / AMPN:PROGRAM
-
-
-## SPINS
-
-### RAMROD
-
-| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| - | - | - | - | - | - | - | - | - | - |
-| C | O | M | P | L | E | X | I | T | Y |
-
-### BASE
-
-| ALTITUDE | SPEED | HEADING | NUMBER| 
-| -------- | ----- | ------- | ----- | 
-| 5000ft AMSL | 300 Kts | 300 degrees | 5 |
-
-### CODEWORDS
-
-| MEANING | CODEWORD | 
-| ------- | -------- | 
-| ON STATION | ALABAMA | 
-| OFF STATION | BABYLON |
-| RTB | CHICAGO |
-| MISSION CANCEL | DENVER |
-| MISSION SUCCESSFUL| ERIE |
-| MISSION UNSUCCESSFUL| FRANKFURT |
-| ATTACK SUCCESSFUL | GEORGIA |
-| ATTACK UNSUCCESSFUL | HIGHLAND |
-| LAST OFF TARGET| ILLINOIS |
-| REATTACK | JAKARTA |
-| PUSHING | KENTUCKY |
-| ROLEX | LOUSVILLE |
-| REQUEST ROLEX| MEMPHIS|
-| WOUNDED BIRD | NANTUCKET |
-| FEET WET | OHIO |
-| FEET DRY | PHILIPPINES |
-
-## TCN
+| Before Engine | Start 3 |
+| :--------- | -------: |
+MAIN PWR to BATT | Verify FLCS RLY
+FLCS PWR TEST | TEST - HOLD
 
 
-## ROE:
+> Verify ACFT BATT TO FLCS, FLCS PMG & FLCS PWR (4) lights ON  
 
 
 
-## Intel:
+
+| ENGINE | START |
+| :--------- | -------: |
+MAIN PWR | MAIN PWR
+EPU GEN & EPU PMG lights | Confirm OFF
+
+
+> Verify ELEC SYS, HYD/OIL PRESS, FLCS RLY, SEC & ENGINE lights ON
+
+
+| ENGINE | START |
+| :--------- | -------: |
+CANOPY | LOCKED
+JFS TO START 2 | VER. LIGHT
+RPM 20% | THROTTLE TO IDLE 
+RPM 55% | VER. JSF OFF
+RPM 60% | VER. ENG. WARN OFF
+RPM 15-70% | VER. HYD/OIL OFF.
+ | 
+
+> To prevent preserve battery, do not allow MAIN PWR to remain in BATT or MAIN PWR for more than 5 minutes without engine start.
+
+> Engine light-off occurs within 10 seconds after throttle advance and is indicated by an increase in RPM, followed by an increase of FTIT. Without external power connected, only the RPM and FTIT indicators function until the standby generator is online.
+
+
+| ENGINE | IDLE CHECK |
+| :--------- | -------: |
+FUEL FLOW | 700-1700 PPH
+OIL PRESSURE | MIN 15 PSI
+NOZZLE POS. | >94% 
+RPM | 62-80%
+FTIT | < 650 DEG C 
+HYD PRESS A&B | 2850-3250
+
+| AFTER | START |
+| :--------- | -------: |
+TESTS | PROBE, FIRE, MAL&IND
+*MFL | RESET 
+SEC CHECK | PERFORM 
+FLIGHT CONTROLS | CYCLE & FREE 
+FLCS | BIT
+SPD BREAK | CYCLE 
+FUEL QNT | TEST & SET NORM
+EPU FUEL QNT | 95-102% 
+AIR REFUEL SWITCH | CYCLE & CHECK
+
+
+> **DBU CHECK**  
+DIGITAL BACKUP SW: BACKUP  
+DBU ON WARNING LIGHT: CHECK ON  
+OPERATE CONTROLS: CHECK RESPONSE  
+DIGITAL BACKUP SW: OFF  
+DBU ON WARNING LIGHT: CHECK OFF  
+
+> **TRIM CHECKS**  
+TRIM AP DISC SW: DISC  
+STICK TRIM BUTTONS: ACTION  
+CHECK NO RESPONSE  
+TRIM AP DISC SWITCH: NORM  
+STICK TRIM BUTTONS: CHECK AND CENTRE  
+CONTROL SURFACE & INDICATOR MOTION  
+RUDDER TRIM CHECK: YAW TRIM KNOB  
+CHECK AND CENTER  
+
+> **EPU CHECK**  
+EPU GEN and EPU PMG LIGHTS: OFF  
+O2: 100%  
+TOE BRAKES: ENGAGE  
+EPU SWITCH: OFF  
+EPU SWITCH: NORM  
+THROTTLE: SET 80%  
+EPU/GEN TEST SW: EPU/GEN AND HOLD  
+    CHECK LIGHTS: EPU AIR ON  
+                                 EPU GEN and EPU PMG OFF  
+                                 FLCS PWR ON  
+                                 EPU RUN ON (within 5s)  
+EPU/GEN TEST SW: OFF (release)  
+THROTTLE: IDLE  
+O2: NORMAL  
+
+> **OBOGS CHECK**  
+OBOGS BIT SW: BIT  
+VERIFY LIGHT: OXY LOW ON (for 10s) THEN OFF  
+PRESSURE: CHECK 25-40 PSI  
+MODE LEVER: PBG/ON (as req’d)  
+DILUTER LEVER: NORM  
+EMERGENCY LEVER: NORM  
+FLOW INDICATOR: CHECK  
+
+
+| BEFORE | TAXY |
+| :--------- | -----------: |
+ALTIMETER | SET
+**INS** | CHECK **NAV**
+DDIS | SET
+FORM LIGHTS | AS REQ.
+CANOPY | LOCKED
+TGP | CHECK STOWED
+GND JET ENBL SW. | AS REQ
+NWS | ON
+TAXY LIGHTS | ON
+BREAKS | CHECK
+
+| HOLD | SHORT |
+| :--------- | -----------: |
+PROBE HEAT | ON
+TRIMS | AS REQ.
+IFF | SET NORM
+ENG CONT | PRI
+EJECTION SEAT | ARM
+SPEEDBREAK | CLOSED
+TACAN | ON
+DEP. CLEARANCE | RECEIVED
+RAD ALT | ON
+EXTERNAL TANKS | FEEDING
+FLT CONTROLS | FREE N CLEAR
+OIL PRESSURE | CHECK PSI
+LANDING LIGHTS | ON(LINE-UP)
+
+| TAKE | OFF |
+| :--------- | -----------: |
+WIPEOUT | CLEAR
+RPM | 90%
+ENG CHECK | GREEN 
+BREAKS | RELEASE
+NWS | OFF (70 KNT)
+
+| CLIMB | OUT |
+| :--------- | -----------: |
+LANDING LIGHTS | OFF
+LANDING GEAR | CHECK UP
+ENGINE | GREEN
+FUEL | CHK FEED
+DRIFT CO | SET DRIFT
+AVIONICS | CHECK
 
 
 ## TASK
