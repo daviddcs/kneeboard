@@ -21,16 +21,16 @@ Gnd Power | CONNECT
 Skin, Bort, Loadout, Fuel | **SET**
 Interior Lights | SET
 Air Source | NORM
-MAIN PWR to BATT | Verify FLCS RLY
+Main PWR to BATT | Verify FLCS RLY
 FLCS PWR TEST | TEST - HOLD
-MAIN PWR | MAIN PWR
+Main PWR | MAIN PWR
 EPU GEN & EPU PMG lights | Confirm OFF
 Exterior Lights | SET
 C&I Knob | BACKUP
-Fuel Master | ON – Guarded
+Fuel Master | ON & GRD.
 Engine Feed | NORM
-EPU | NORM – GUARDED
-Eng Cont | PRI – GUARDED
+EPU | NORM – GRD.
+Eng Cont | PRI – GRD.
 Throttle | FREE & OFF
 Audio panel 1&2 | AS REQ. 
 UHF Backup panel | SET FL-PRI & CHECK IN 
@@ -55,24 +55,24 @@ HUD | AS REQ.
 C&I | UFC 
 IFF Master Knob | STBY
 *DTC | LOAD
-UFC RADIO | SET & CHECK-IN
+UFC Radio | SET & CHECK-IN
 
 
 | AVIONICS | PROGRAM |
 | :--------- | -------: |
-*S-JETTISON* | SET
 SMS | PROGRAM 
 ALOW | SET
-*MSL* | CHECK 
-BINGO | SET JOKER
-*CRUS* | CHECK
-TACAN | PREP
-*IDM* | CHECK
-*BULLSEYE* | *CHECK AND MODE SELECTED* 
+Bingo | SET JOKER
+Tacan | PREP
 Steerpoints | PROGRAM
 Rpt. Rdy. | ALPHA & ENG.START
 EGI | NAV (>4.MIN)
 
+> *S-JETTISON* | SET
+> *MSL* | CHECK 
+> *CRUS* | CHECK
+> *IDM* | CHECK
+> *BULLSEYE* | *CHECK AND MODE SELECTED* 
 
 | ENGINE | START |
 | :--------- | -------: |
