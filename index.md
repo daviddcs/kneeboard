@@ -21,6 +21,10 @@ Gnd Power | CONNECT
 Skin, Bort, Loadout, Fuel | **SET**
 Interior Lights | SET
 Air Source | NORM
+MAIN PWR to BATT | Verify FLCS RLY
+FLCS PWR TEST | TEST - HOLD
+MAIN PWR | MAIN PWR
+EPU GEN & EPU PMG lights | Confirm OFF
 Exterior Lights | SET
 C&I Knob | BACKUP
 Fuel Master | ON – Guarded
@@ -35,7 +39,9 @@ Hook | UP
 CAT 1/3 | AS REQ
 Master Arm | SAFE
 
+> Verify ACFT BATT TO FLCS, FLCS PMG & FLCS PWR (4) lights ON  
 
+> Verify ELEC SYS, HYD/OIL PRESS, FLCS RLY, SEC & ENGINE lights ON
 
 | Before Engine | Start 2 |
 | :--------- | -------: |
@@ -67,25 +73,6 @@ TACAN | PREP
 Steerpoints | PROGRAM
 Rpt. Rdy. | ALPHA & ENG.START
 EGI | NAV (>4.MIN)
-
-| Before Engine | Start 3 |
-| :--------- | -------: |
-MAIN PWR to BATT | Verify FLCS RLY
-FLCS PWR TEST | TEST - HOLD
-
-
-> Verify ACFT BATT TO FLCS, FLCS PMG & FLCS PWR (4) lights ON  
-
-
-
-
-| ENGINE | START |
-| :--------- | -------: |
-MAIN PWR | MAIN PWR
-EPU GEN & EPU PMG lights | Confirm OFF
-
-
-> Verify ELEC SYS, HYD/OIL PRESS, FLCS RLY, SEC & ENGINE lights ON
 
 
 | ENGINE | START |
