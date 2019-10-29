@@ -89,7 +89,7 @@ CHAFF - 60 | FLARE - 60
 
 
 
-![MDC](E10.png)
+![MDC](E10.PNG)
 ![MDC1](E20.png)
 ![MDC2](E30.png)
 ![MDC3](F10.png)
