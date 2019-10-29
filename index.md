@@ -2,208 +2,167 @@
 - | - | -
 [CV-OPs](/CVOPS/cvops.md) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-## VIPER 1 - TR4532
+## VIPER 1 - TR5041
 
-Flight Lead: DAVID   
+Flight Lead: DAVID  
+WM2: NECK  
+TACAN:: 62 - 125Y  
 
 
-## FLIGHTPLAN
-"UGKS -TO  
-PATTERN WORK UGKO"
+
+## FP
+
+
+				
+
+
+## Objective
+
+#### Range practise RGN 4
+
+
 
 ## LOADOUT
 
-# GND POWER Check-list:
-
-| Before Engine | Start 1 |
-| :--------- | -------: |
-Gnd Power | CONNECT
-Skin, Bort, Loadout, Fuel | **SET**
-Interior Lights | SET
-Air Source | NORM
-Main PWR to BATT | Verify FLCS RLY
-FLCS PWR TEST | TEST - HOLD
-Main PWR | MAIN PWR
-EPU GEN & EPU PMG lights | Confirm OFF
-Exterior Lights | SET
-C&I Knob | BACKUP
-Fuel Master | ON & GRD.
-Engine Feed | NORM
-EPU | NORM – GRD.
-Eng Cont | PRI – GRD.
-Throttle | FREE & OFF
-Audio panel 1&2 | AS REQ. 
-UHF Backup panel | SET FL-PRI & CHECK IN 
-Landing Gear | DOWN & LOCKED
-Hook | UP
-CAT 1/3 | AS REQ
-Master Arm | SAFE
-
-> Verify ACFT BATT TO FLCS, FLCS PMG & FLCS PWR (4) lights ON  
-
-> Verify ELEC SYS, HYD/OIL PRESS, FLCS RLY, SEC & ENGINE lights ON
-
-| Before Engine | Start 2 |
-| :--------- | -------: |
-AVIONICS ON | MMC, ST STA, MDF, UHF, DL, GPS
-**INS TO ALIGN** | **ALIGN NORM**
-MIDS LVT | ON
-L&R HDPT | AS REQ.
-FCR | ON
-RAD ALT | STBY
-HUD | AS REQ. 
-C&I | UFC 
-IFF Master Knob | STBY
-*DTC | LOAD
-UFC Radio | SET & CHECK-IN
+left | right
+----- | -----
+S1 - CAP-9M | S9 - AN/ASQ-T50
+S2 - - | S8 - -
+S3 - 3xMK-82 LD | S7 - 3xMK-82 LD
+S4 - TANK 370 | S6 - TANK 370
+S5 - - | GUN - SAPHEI
+CHAFF - 60 | FLARE - 60
 
 
-| AVIONICS | PROGRAM |
-| :--------- | -------: |
-SMS | PROGRAM 
-ALOW | SET
-Bingo | SET JOKER
-Tacan | PREP
-Steerpoints | PROGRAM
-Rpt. Rdy. | ALPHA & ENG.START
-EGI | NAV (>4.MIN)
 
-> *S-JETTISON* | SET
-> *MSL* | CHECK 
-> *CRUS* | CHECK
-> *IDM* | CHECK
-> *BULLSEYE* | *CHECK AND MODE SELECTED* 
+## STEERPOINTS
 
-| ENGINE | START |
-| :--------- | -------: |
-CANOPY | LOCKED
-JFS TO START 2 | VER. LIGHT
-RPM 20% | THROTTLE TO IDLE 
-RPM 55% | VER. JSF OFF
-RPM 60% | VER. ENG. WARN OFF
-RPM 15-70% | VER. HYD/OIL OFF.
- | 
-
-> To prevent preserve battery, do not allow MAIN PWR to remain in BATT or MAIN PWR for more than 5 minutes without engine start.
-
-> Engine light-off occurs within 10 seconds after throttle advance and is indicated by an increase in RPM, followed by an increase of FTIT. Without external power connected, only the RPM and FTIT indicators function until the standby generator is online.
-
-
-| ENGINE | IDLE CHECK |
-| :--------- | -------: |
-FUEL FLOW | 700-1700 PPH
-OIL PRESSURE | MIN 15 PSI
-NOZZLE POS. | >94% 
-RPM | 62-80%
-FTIT | < 650 DEG C 
-HYD PRESS A&B | 2850-3250
-
-| AFTER | START |
-| :--------- | -------: |
-Gnd Power | DISCONNECT
-TESTS | PROBE, FIRE, MAL&IND
-*MFL | RESET 
-SEC CHECK | PERFORM 
-FLIGHT CONTROLS | CYCLE & FREE 
-FLCS | BIT
-SPD BREAK | CYCLE 
-RWR & CMDS | ON/TEST / STANDBY 
-FUEL QNT | TEST & SET NORM
-EPU FUEL QNT | 95-102% 
-AIR REFUEL SWITCH | CYCLE & CHECK
-Backup ADI | UNCAGE
+---  												
+###	59	NAOMI	N	26	10,309	  -  	E	056	14,516		GEOREF	
+												
+---  												
+####	00	Al Dhafra AB									0 - 0	
+#####  	FUEL:		10803		WALK:		19:00:00	T/O T:		19:30:00		
+												
+												
+---  												
+###	01	R4_NW	N	24	15,946	  -  	E	054	12,864			
+#####	DIST:	017,5  NM	BINGO:	9481	ALT:		15.0 M	MACH:	0,7			
+#####	HDG:	270°	GS:	444	ETE:		00:02:22	TOT:		19:32:22		
+												
+												
+---  												
+###	02	R4_SW	N	23	55,881	  -  	E	053	55,191			
+#####	DIST:	025,8  NM	BINGO:	9006	ALT:		15.0 M	MACH:	0,7			
+#####	HDG:	217°	GS:	444	ETE:		00:03:29	TOT:		19:35:51		
+												
+												
+---  												
+###	03	R4_SE	N	23	34,381	  -  	E	054	31,869			
+#####	DIST:	039,9  NM	BINGO:	8272	ALT:		15.0 M	MACH:	0,7			
+#####	HDG:	121°	GS:	442	ETE:		00:05:25	TOT:		19:41:16		
+												
+												
+---  												
+###	04	R4_NE	N	23	57,829	  -  	E	054	45,412			
+#####	DIST:	026,5  NM	BINGO:	7783	ALT:		15.0 M	MACH:	0,7			
+#####	HDG:	026°	GS:	442	ETE:		00:03:36	TOT:		19:44:52		
+												
+												
+---  												
+###	05	R4_NW2	N	24	15,986	  -  	E	054	12,820			
+#####	DIST:	034,9  NM	BINGO:	7141	ALT:		15.0 M	MACH:	0,7			
+#####	HDG:	300°	GS:	444	ETE:		00:04:43	TOT:		19:49:35		
+												
+												
+---  												
+###	06	IP_R41	N	23	57,478	  -  	E	054	08,434			
+#####	DIST:	018,9  NM	BINGO:	6792	ALT:		15.0 M	MACH:	0,7			
+#####	HDG:	191°	GS:	443	ETE:		00:02:34	TOT:		19:52:09		
+												
+												
+---  												
+###	07	R4.1	N	24	03,796	  -  	E	054	19,729			
+#####	DIST:	012,1  NM	BINGO:	2670	ALT:		15.0 M	MACH:	0,7			
+#####	HDG:	057°	GS:	440	ETE:		00:01:39	TOT:		19:53:48	VUL:	00:30:00
+####	PROG DMPI LEAD #1 TWO #2											
 
 
-> **DBU CHECK**  
-DIGITAL BACKUP SW: BACKUP  
-DBU ON WARNING LIGHT: CHECK ON  
-OPERATE CONTROLS: CHECK RESPONSE  
-DIGITAL BACKUP SW: OFF  
-DBU ON WARNING LIGHT: CHECK OFF  
 
-> **TRIM CHECKS**  
-TRIM AP DISC SW: DISC  
-STICK TRIM BUTTONS: ACTION  
-CHECK NO RESPONSE  
-TRIM AP DISC SWITCH: NORM  
-STICK TRIM BUTTONS: CHECK AND CENTRE  
-CONTROL SURFACE & INDICATOR MOTION  
-RUDDER TRIM CHECK: YAW TRIM KNOB  
-CHECK AND CENTER  
+![MDC](E10.PNG)
+![MDC](E20.PNG)
+![MDC](E30.PNG)
+![MDC1](F10.PNG)
+![MDC1](F20.PNG)
 
-> **EPU CHECK**  
-EPU GEN and EPU PMG LIGHTS: OFF  
-O2: 100%  
-TOE BRAKES: ENGAGE  
-EPU SWITCH: OFF  
-EPU SWITCH: NORM  
-THROTTLE: SET 80%  
-EPU/GEN TEST SW: EPU/GEN AND HOLD  
-    CHECK LIGHTS: EPU AIR ON  
-                                 EPU GEN and EPU PMG OFF  
-                                 FLCS PWR ON  
-                                 EPU RUN ON (within 5s)  
-EPU/GEN TEST SW: OFF (release)  
-THROTTLE: IDLE  
-O2: NORMAL  
+## METAR: 
 
-> **OBOGS CHECK**  
-OBOGS BIT SW: BIT  
-VERIFY LIGHT: OXY LOW ON (for 10s) THEN OFF  
-PRESSURE: CHECK 25-40 PSI  
-MODE LEVER: PBG/ON (as req’d)  
-DILUTER LEVER: NORM  
-EMERGENCY LEVER: NORM  
-FLOW INDICATOR: CHECK  
+#### NOTAM: 
 
 
-| BEFORE | TAXY |
-| :--------- | -----------: |
-ALTIMETER | SET
-**INS** | CHECK **NAV**
-DDIS | SET
-FORM LIGHTS | AS REQ.
-CANOPY | LOCKED
-TGP | CHECK STOWED
-GND JET ENBL SW. | AS REQ
-GND CREW | CLEAR
-CALL | RDY TAXY 
-NWS | ON
-TAXY LIGHTS | ON
-BREAKS | CHECK
 
-| HOLD | SHORT |
-| :--------- | -----------: |
-PROBE HEAT | ON
-TRIMS | AS REQ.
-IFF | SET NORM
-ENG CONT | PRI
-EJECTION SEAT | ARM
-SPEEDBREAK | CLOSED
-TACAN | ON
-DEP. CLEARANCE | RECEIVED
-RAD ALT | ON
-EXTERNAL TANKS | FEEDING
-FLT CONTROLS | FREE N CLEAR
-OIL PRESSURE | CHECK PSI
-LANDING LIGHTS | ON(LINE-UP)
+## COMMS
 
-| TAKE | OFF |
-| :--------- | -----------: |
-WIPEOUT | CLEAR
-RPM | 90%
-ENG CHECK | GREEN 
-BREAKS | RELEASE
-NWS | OFF (70 KNT)
+#### FL PRIMARY / - / GRAY6 / 235.250 / AMPN:PROGRAM
+#### FL SECONDARY / - / OLIVE4 / 141.750 / AMPN:PROGRAM
+#### AL DAHFRA GND / - / LIME2 / 126.100 / AMPN:0
+#### AL DAHFRA TWR / - / AL DAHFRA TWR / 126.200 / AMPN:0
+#### AL DAHFRA TMA / - / RED4 / 127.100 / AMPN:0
+#### CHECK IN / - / BLUE3 / 237.0 / AMPN:0
+#### SPARTAN PRI / - / PURPLE11 / 127.750 / AMPN:0
+#### SPARTAN SEC / - / PINK7 / 234.750 / AMPN:0
+#### ATR IN FLT RPT / - / OCHRE9 / 234.0 / AMPN:0
+#### Liwa TWR / - / Liwa TWR / 119.600 / AMPN:DIVERT. RGN 4
+#### Liwa ATIS / - / Liwa ATIS / 119.700 / AMPN:0
+#### Al Ain TWR / - / Al Ain TWR / 119.200 / AMPN:DIVERT. RGN 7
+#### Al Ain ATIS / - / Al Ain ATIS / 119.400 / AMPN:0
 
-| CLIMB | OUT |
-| :--------- | -----------: |
-LANDING LIGHTS | OFF
-LANDING GEAR | CHECK UP
-ENGINE | GREEN
-FUEL | CHK FEED
-DRIFT CO | SET DRIFT
-AVIONICS | CHECK
+
+## SPINS
+
+### RAMROD
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| - | - | - | - | - | - | - | - | - | - |
+| B | L | A | C | K | H | O | R | S | E |
+| L | U | M | B | E | R | J | A | C | K |
+| C | O | M | P | L | E | X | I | T | Y |
+
+### BASE
+
+| ALTITUDE | SPEED | HEADING | NUMBER| 
+| -------- | ----- | ------- | ----- | 
+| 5000ft AMSL | 300 Kts | 300 degrees | 5 |
+
+### CODEWORDS
+
+| MEANING | CODEWORD | 
+| ------- | -------- | 
+| ON STATION | ALABAMA | 
+| OFF STATION | BABYLON |
+| RTB | CHICAGO |
+| MISSION CANCEL | DENVER |
+| MISSION SUCCESSFUL| ERIE |
+| MISSION UNSUCCESSFUL| FRANKFURT |
+| ATTACK SUCCESSFUL | GEORGIA |
+| ATTACK UNSUCCESSFUL | HIGHLAND |
+| LAST OFF TARGET| ILLINOIS |
+| REATTACK | JAKARTA |
+| PUSHING | KENTUCKY |
+| ROLEX | LOUSVILLE |
+| REQUEST ROLEX| MEMPHIS|
+| WOUNDED BIRD | NANTUCKET |
+| FEET WET | OHIO |
+| FEET DRY | PHILIPPINES |
+
+## TCN
+
+
+## ROE:
+
+
+
+## Intel:
 
 
 ## TASK
