@@ -1,11 +1,12 @@
  |  | 
 - | - | -
-[CV-OPs](/CVOPS/cvops.md) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
+[VIPER START](/F16START.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
 ## VIPER 1 - TR5041
 
 Flight Lead: DAVID  
 WM2: NECK  
+EL: ASHILTA
 TACAN:: 62 - 125Y  
 
 
@@ -92,6 +93,7 @@ CHAFF - 60 | FLARE - 60
 ![MDC](E10.PNG)
 ![MDC1](E20.png)
 ![MDC2](E30.png)
+![MDCZED](E40.png)
 ![MDC3](F10.png)
 ![MDC4](F20.png)
 
@@ -124,39 +126,12 @@ CHAFF - 60 | FLARE - 60
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| B | L | A | C | K | H | O | R | S | E |
 | L | U | M | B | E | R | J | A | C | K |
-| C | O | M | P | L | E | X | I | T | Y |
 
-### BASE
 
-| ALTITUDE | SPEED | HEADING | NUMBER| 
-| -------- | ----- | ------- | ----- | 
-| 5000ft AMSL | 300 Kts | 300 degrees | 5 |
-
-### CODEWORDS
-
-| MEANING | CODEWORD | 
-| ------- | -------- | 
-| ON STATION | ALABAMA | 
-| OFF STATION | BABYLON |
-| RTB | CHICAGO |
-| MISSION CANCEL | DENVER |
-| MISSION SUCCESSFUL| ERIE |
-| MISSION UNSUCCESSFUL| FRANKFURT |
-| ATTACK SUCCESSFUL | GEORGIA |
-| ATTACK UNSUCCESSFUL | HIGHLAND |
-| LAST OFF TARGET| ILLINOIS |
-| REATTACK | JAKARTA |
-| PUSHING | KENTUCKY |
-| ROLEX | LOUSVILLE |
-| REQUEST ROLEX| MEMPHIS|
-| WOUNDED BIRD | NANTUCKET |
-| FEET WET | OHIO |
-| FEET DRY | PHILIPPINES |
 
 ## TCN
-
+TACAN:: 62 - 125Y  
 
 ## ROE:
 
