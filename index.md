@@ -6,7 +6,7 @@
 
 Flight Lead: DAVID  
 WM2: NECK  
-EL: ASHILTA
+EL: ASHILTA  
 TACAN:: 62 - 125Y  
 
 
