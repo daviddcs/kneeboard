@@ -12,15 +12,13 @@ TACAN:: 62 - 125Y
 
 
 ## FP
-
-
+DEP: VFR SOUTH, 350IAS INI.FL120 DIR. RANGE4  
+REC: ATC DISCRETION  
+--  
+LOAD: X6 MK82 LD PER A/C  
 				
-
-
 ## Objective
-
-#### Range practise RGN 4
-
+Range practise RGN 4  
 
 
 ## LOADOUT
@@ -43,7 +41,7 @@ CHAFF - 60 | FLARE - 60
 												
 ---  												
 ####	00	Al Dhafra AB									0 - 0	
-#####  	FUEL:		10803		WALK:		19:00:00	T/O T:		19:30:00		
+#####  	FUEL:		MAX		WALK:		19:00:00	T/O T:		19:30:00		
 												
 												
 ---  												
@@ -86,7 +84,7 @@ CHAFF - 60 | FLARE - 60
 ###	07	R4.1	N	24	03,796	  -  	E	054	19,729			
 #####	DIST:	012,1  NM	BINGO:	2670	ALT:		15.0 M	MACH:	0,7			
 #####	HDG:	057°	GS:	440	ETE:		00:01:39	TOT:		19:53:48	VUL:	00:30:00
-####	PROG DMPI LEAD #1 TWO #2											
+####	PROG DMPI LEAD #1 TWO #2 THREE #1											
 
 
 
@@ -100,7 +98,7 @@ CHAFF - 60 | FLARE - 60
 ## METAR: 
 
 #### NOTAM: 
-
+REPORT PASSING 3000 FT  
 
 
 ## COMMS
@@ -133,14 +131,6 @@ CHAFF - 60 | FLARE - 60
 ## TCN
 TACAN:: 62 - 125Y  
 
-## ROE:
-
-
-
-## Intel:
-
-
-## TASK
 
 
 ![GND](/FLIPS/OMAM_GND_OCT27_19.png)  
