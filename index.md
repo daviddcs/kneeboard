@@ -2,24 +2,17 @@
 - | - | -
 [VIPER START](/F16START.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-## VIPER 1 - TR5041
+## VIPER 1 - TR5405
 
 Flight Lead: DAVID  
-WM2: NECK  
-EL: ASHILTA  
-TACAN:: 62 - 125Y  
+WM2: TROLLEF  
+Element Lead:   
+WM4:   
+TACAN: 62 - 125Y  
 
-
-
-## FP
-DEP: VFR SOUTH, 350IAS INI.FL120 DIR. RANGE4  
-REC: ATC DISCRETION  
---  
-LOAD: X6 MK82 LD PER A/C  
-				
-## Objective
-Range practise RGN 4  
-
+## FLIGHTPLAN
+"DEP: VFR SOUTH, 350IAS INI.FL120 DIR. RANGE4
+REC: ATC DISCRETION"
 
 ## LOADOUT
 
@@ -29,62 +22,73 @@ S1 - CAP-9M | S9 - AN/ASQ-T50
 S2 - - | S8 - -
 S3 - 3xMK-82 LD | S7 - 3xMK-82 LD
 S4 - TANK 370 | S6 - TANK 370
-S5 - - | GUN - SAPHEI
-CHAFF - 60 | FLARE - 60
+S5L -  | S5R - 
+S5 - - | SGUN - SAPHEI
+SCHAFF - 60 | SFLARE - 60
 
+				
+## Objective
+Range practise RGN 4  
 
 
 ## STEERPOINTS
 
 ---  												
-###	59	NAOMI	N	26	10,309	  -  	E	056	14,516		GEOREF	
+###	59	ATRM BULLS	N	23	51,874	  -  	E	056	05,771		GEOREF	
 												
 ---  												
 ####	00	Al Dhafra AB									0 - 0	
-#####  	FUEL:		MAX		WALK:		19:00:00	T/O T:		19:30:00		
+#####  	FUEL:		12103		WALK:		19:00:00	T/O T:		19:30:00		
 												
 												
 ---  												
 ###	01	R4_NW	N	24	15,946	  -  	E	054	12,864			
-#####	DIST:	017,5  NM	BINGO:	9481	ALT:		15.0 M	MACH:	0,7			
+#####	DIST:	017,5  NM	BINGO:	11281	ALT:		15.0 M	MACH:	0,7			
 #####	HDG:	270°	GS:	444	ETE:		00:02:22	TOT:		19:32:22		
 												
 												
 ---  												
 ###	02	R4_SW	N	23	55,881	  -  	E	053	55,191			
-#####	DIST:	025,8  NM	BINGO:	9006	ALT:		15.0 M	MACH:	0,7			
+#####	DIST:	025,8  NM	BINGO:	10806	ALT:		15.0 M	MACH:	0,7			
 #####	HDG:	217°	GS:	444	ETE:		00:03:29	TOT:		19:35:51		
 												
 												
 ---  												
 ###	03	R4_SE	N	23	34,381	  -  	E	054	31,869			
-#####	DIST:	039,9  NM	BINGO:	8272	ALT:		15.0 M	MACH:	0,7			
+#####	DIST:	039,9  NM	BINGO:	10072	ALT:		15.0 M	MACH:	0,7			
 #####	HDG:	121°	GS:	442	ETE:		00:05:25	TOT:		19:41:16		
 												
 												
 ---  												
 ###	04	R4_NE	N	23	57,829	  -  	E	054	45,412			
-#####	DIST:	026,5  NM	BINGO:	7783	ALT:		15.0 M	MACH:	0,7			
+#####	DIST:	026,5  NM	BINGO:	9583	ALT:		15.0 M	MACH:	0,7			
 #####	HDG:	026°	GS:	442	ETE:		00:03:36	TOT:		19:44:52		
 												
 												
 ---  												
 ###	05	R4_NW2	N	24	15,986	  -  	E	054	12,820			
-#####	DIST:	034,9  NM	BINGO:	7141	ALT:		15.0 M	MACH:	0,7			
+#####	DIST:	034,9  NM	BINGO:	8941	ALT:		15.0 M	MACH:	0,7			
 #####	HDG:	300°	GS:	444	ETE:		00:04:43	TOT:		19:49:35		
 												
 												
 ---  												
 ###	06	IP_R41	N	23	57,478	  -  	E	054	08,434			
-#####	DIST:	018,9  NM	BINGO:	6792	ALT:		15.0 M	MACH:	0,7			
+#####	DIST:	018,9  NM	BINGO:	8592	ALT:		15.0 M	MACH:	0,7			
 #####	HDG:	191°	GS:	443	ETE:		00:02:34	TOT:		19:52:09		
 												
 												
 ---  												
-###	07	R4.1	N	24	03,796	  -  	E	054	19,729			
-#####	DIST:	012,1  NM	BINGO:	2670	ALT:		15.0 M	MACH:	0,7			
-#####	HDG:	057°	GS:	440	ETE:		00:01:39	TOT:		19:53:48	VUL:	00:30:00
-####	PROG DMPI LEAD #1 TWO #2 THREE #1											
+###	07	DMPI-1	N	24	03,639	  -  	E	054	19,739			
+#####	DIST:	012,0  NM	BINGO:	4471	ALT:		15.0 M	MACH:	0,7			
+#####	HDG:	057°	GS:	438	ETE:		00:01:39	TOT:		19:53:48	VUL:	00:30:00
+####	PROG DMPI LEAD #1 TWO #2											
+												
+---  												
+###	08	DMPI-2	N	24	03,692	  -  	E	054	19,679			
+#####	DIST:	000,1  NM	BINGO:	4470	ALT:		15.0 M	MACH:	0,7			
+#####	HDG:	057°	GS:	#DIV/0!	ETE:		00:00:00	TOT:		19:53:48		
+												
+
 
 
 
@@ -98,8 +102,6 @@ CHAFF - 60 | FLARE - 60
 ## METAR: 
 
 #### NOTAM: 
-REPORT PASSING 3000 FT  
-
 
 ## COMMS
 
@@ -116,6 +118,7 @@ REPORT PASSING 3000 FT
 #### Liwa ATIS / - / Liwa ATIS / 119.700 / AMPN:0
 #### Al Ain TWR / - / Al Ain TWR / 119.200 / AMPN:DIVERT. RGN 7
 #### Al Ain ATIS / - / Al Ain ATIS / 119.400 / AMPN:0
+
 
 
 ## SPINS
