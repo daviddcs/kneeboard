@@ -19,9 +19,10 @@ S1 - CAP-9M | S9 - AN/ASQ-T50
 S2 - - | S8 - -
 S3 - 3xMK-82 LD | S7 - 3xMK-82 LD
 S4 - TANK 370 | S6 - TANK 370
-S5L -  | S5R - 
+S5L - - | S5R - AN/AAQ-28
 S5 - - | SGUN - SAPHEI
 SCHAFF - 60 | SFLARE - 60
+
 
 				
 ## Objective
