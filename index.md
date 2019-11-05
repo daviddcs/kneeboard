@@ -6,9 +6,6 @@
 
 Flight Lead: DAVID  
 WM2: TROLLEF  
-Element Lead:   
-WM4:   
-TACAN: 62 - 125Y  
 
 ## FLIGHTPLAN
 "DEP: VFR SOUTH, 350IAS INI.FL120 DIR. RANGE4
