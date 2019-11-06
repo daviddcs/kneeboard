@@ -95,6 +95,7 @@ Range practise RGN 4
 ![MDC2](E30.png)
 ![MDCZED](E40.png)
 ![MDCZED2](E50.png)
+![MDCZED3](E60.png)
 ![MDC3](F10.png)
 ![MDC4](F20.png)
 
