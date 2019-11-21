@@ -49,8 +49,8 @@ EW:
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
-| L | U | M | B | E | R | J | A | C | K |
-| C | O | M | P | L | E | X | I | T | Y |
+| L | U | M | B | E | R | J | A | C | K | --EVEN
+| C | O | M | P | L | E | X | I | T | Y | --ODD
 
 ### BASE
 
