@@ -9,9 +9,11 @@ WM2: DAVID
 TACAN: 62 - 125Y  
 
 ## FLIGHTPLAN
-"- 20 sec trail departure , - AAR at AR203
-- Pass FLOT IVO Al Minhad, - Low-level inbound Range 12, Target T12.1
-- RTB AL DAHFRA"
+- 20 sec trail departure
+- AAR at AR203
+- Pass FLOT IVO Al Minhad
+- Low-level inbound Range 12, Target T12.1
+- RTB AL DAHFRA
 
 ## LOADOUT
 
