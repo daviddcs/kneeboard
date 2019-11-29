@@ -6,8 +6,6 @@
 
 Flight Lead: NECK  
 WM2: DAVID  
-Element Lead:   
-WM4:   
 TACAN: 62 - 125Y  
 
 ## FLIGHTPLAN
