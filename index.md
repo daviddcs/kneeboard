@@ -2,26 +2,26 @@
 - | - | -
 [VIPER START](/F16START.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-## VIPER 1 - TR6036
+## CHEVY 2 - TR6001
 
 Flight Lead: NECK  
 WM2: DAVID  
-TACAN: 62 - 125Y  
+Element Lead:   
+WM4:   
+TACAN: 63 - 126Y  
 
 ## FLIGHTPLAN
-- 20 sec trail departure
-- AAR at AR203
-- Pass FLOT IVO Al Minhad
-- Low-level inbound Range 12, Target T12.1
-- RTB AL DAHFRA
+"- VFR departure - AAR AR203 - Pass FLOT inbound Range 12
+- Strike Range 12 as part of package ALPHA
+- RTB OHB OMAM"
 
 ## LOADOUT
 
 left | right
 ----- | -----
 S1 - AIM120C | S9 - AIM120C
-S2 - AIM120C | S8 - AIM120C
-S3 - 2xMK-82 LD | S7 - 2xMK-82 LD
+S2 - - | S8 - -
+S3 - MK-84 | S7 - MK-84
 S4 - TANK 370 | S6 - TANK 370
 S5L - - | S5R - -
 S5 - - | SGUN - SAPHEI
@@ -36,44 +36,56 @@ CHAFF - 60 | FLARE - 60
 
 ## STEERPOINTS
 ---  												
-###	59	BULLSEYE MARY	N	25	16,863	  -  	E	055	52,960		GEOREF	
-												
----  												
+###	59	BULLSEYE MARY	N	25	16,863	  -  	E	055	52,960		GEOREF												
 												
 ---  												
 ###	01	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
 #####	DIST:	#N/A	BINGO:	#N/A	ALT:			MACH:				
-#####	HDG:		GS:	#N/A	ETE:		#N/A	TOT:		20:00:00	VUL:	00:20:00
+#####	HDG:		GS:	#N/A	ETE:		#N/A	TOT:		08:00:00	VUL:	00:40:00
 												
 												
 ---  												
-###	02	REFUEL	N	24	30,418	  -  	E	055	12,654			
-#####	DIST:	039,9  NM	BINGO:	#N/A	ALT:		19.0 M	MACH:	225			
-#####	HDG:	066°	GS:	86	ETE:		00:27:59	TOT:		20:27:59	VUL:	00:20:00
+###	02	1	N	24	30,418	  -  	E	055	12,654			
+#####	DIST:	039,9  NM	BINGO:	#N/A	ALT:		15.0 M	MACH:	240			
+#####	HDG:	066°	GS:	86	ETE:		00:27:59	TOT:		08:27:59		
 												
 												
 ---  												
-###	03	Al Minhad AB	N	25	01,600	  -  	E	055	23,017			
-#####	DIST:	032,6  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	0,7			
-#####	HDG:	015°	GS:	81	ETE:		00:24:12	TOT:		20:52:11		
+###	03	FLOT	N	24	54,802	  -  	E	055	30,793			
+#####	DIST:	029,4  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	290			
+#####	HDG:	032°	GS:	300	ETE:		00:05:53	TOT:		08:33:52		
 												
 												
 ---  												
-###	04	COAST	N	25	21,777	  -  	E	056	20,659			
-#####	DIST:	056,0  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
-#####	HDG:	067°	GS:	300	ETE:		00:11:12	TOT:		21:03:23		
+###	04	COAST	N	25	30,700	  -  	E	056	33,781			
+#####	DIST:	067,4  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
+#####	HDG:	056°	GS:	300	ETE:		00:13:29	TOT:		08:47:21		
 												
 												
 ---  												
-###	05	4	N	26	21,795	  -  	E	056	30,851			
-#####	DIST:	060,8  NM	BINGO:	#N/A	ALT:		0.2 A	MACH:	0,68			
-#####	HDG:	007°	GS:	456	ETE:		00:08:00	TOT:		21:11:23		
+###	05	INITIAL POINT	N	26	14,224	  -  	E	056	29,269			
+#####	DIST:	043,7  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
+#####	HDG:	353°	GS:	300	ETE:		00:08:45	TOT:		08:56:06		
 												
 												
 ---  												
-###	06	T12.1 ELEV 174	N	26	22,347	  -  	E	056	21,242			
-#####	DIST:	008,6  NM	BINGO:	#N/A	ALT:		0.1 M	MACH:	0,76			
-#####	HDG:	272°	GS:	501	ETE:		00:01:02	TOT:		21:12:25		
+###	06	TIP IN	N	26	20,023	  -  	E	056	20,516			
+#####	DIST:	009,8  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
+#####	HDG:	305°	GS:	300	ETE:		00:01:57	TOT:		08:58:03		
+												
+												
+---  												
+###	07	TARGET	N	26	22,137	  -  	E	056	21,796			
+#####	DIST:	002,4  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
+#####	HDG:	027°	GS:	299	ETE:		00:00:29	TOT:		08:58:32		
+												
+												
+---  												
+###	08	CV	N	25	29,886	  -  	E	054	05,150			
+#####	DIST:	133,6  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
+#####	HDG:	246°	GS:	300	ETE:		00:26:43	TOT:		09:25:15		
+												
+	
 												
 
 
@@ -83,13 +95,13 @@ CHAFF - 60 | FLARE - 60
 ATC unmanned, use AL DAHFRA TRAFFIC (TWR) for all ATC within 20nm from Al dahfra.
 
 ## COMMS
-#### FL PRIMARY / - / GRAY6 / 235.250 / AMPN:PROGRAM
-#### FL SECONDARY / - / OLIVE4 / 141.750 / AMPN:PROGRAM
+#### FL PRIMARY / - / BROWN6 / 232.0 / AMPN:PROGRAM
+#### FL SECONDARY / - / VIOLET7 / 130.750 / AMPN:PROGRAM
 #### AL DAHFRA GND / - / LIME2 / 126.100 / AMPN:0
 #### AL DAHFRA TWR / - / AL DAHFRA TWR / 126.200 / AMPN:0
 #### AL DAHFRA TMA / - / RED4 / 127.100 / AMPN:0
 #### CHECK IN / - / BLUE3 / 237.0 / AMPN:DARKSTAR
-#### ATR PRI RANGE 12 / - / ORANGE2 / 242.250 / AMPN:0
+#### PACKAGE FREQ / - / GRAY2 / 248.0 / AMPN:0
 #### ARCO AR201 / - / OLIVE10 / 151.000 / AMPN:0
 #### ATR IN FLT RPT / - / OCHRE9 / 234.0 / AMPN:0
 #### AL MINHAD TWR / - / AL MINHAD TWR / 121.200 / AMPN:DIVERT.
@@ -99,13 +111,14 @@ ATC unmanned, use AL DAHFRA TRAFFIC (TWR) for all ATC within 20nm from Al dahfra
 
 
 
+
 ## SPINS
 
 ### RAMROD
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| C | O | M | P | L | E | X | I | T | Y |
+| B | L | A | C | K | H | O | R | S | E |
 
 
 ## TASK
