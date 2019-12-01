@@ -32,7 +32,7 @@ CHAFF - 60 | FLARE - 60
 ## Objective
 #### SAT RGN 12
 
-[MDC](/191129VIP.pdf)
+[MDC](/MDC_CHEVY_STRIKE.pdf)
 
 ## STEERPOINTS
 ---  												
