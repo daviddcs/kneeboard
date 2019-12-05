@@ -2,21 +2,24 @@
 - | - | -
 [VIPER START](/F16START.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-## NAME - MSN# - TIMEDATE
+## CHEVY 2 - TR6001
 
-FL: 
+Flight Lead: NECK  
+WM2: DAVID  
+Element Lead:   
+WM4:   
+TACAN: 63 - 126Y  
+SQK: 4421  
+SADL:   
+BINGO: 3500  
+JOKER: 5000  
+DEPARTURE: TRAIL 20S  
+REJOIN: F4 2R  
 
-WM: 
-
-EL: 
-
-EW: 
-
-
-## FP
-
-
-				
+## FLIGHTPLAN
+"- VFR departure - AAR AR203 - Pass FLOT inbound Range 12
+- Strike Range 12 as part of package ALPHA
+- RTB OHB OMAM"
 
 
 ## Objective
@@ -26,11 +29,76 @@ EW:
 
 ## LOADOUT
 
+left | right
+----- | -----
+S1 - AIM120C | S9 - AIM120C
+S2 - - | S8 - -
+S3 - MK-84 | S7 - MK-84
+S4 - TANK 370 | S6 - TANK 370
+S5L - - | S5R - -
+S5 - - | SGUN - SAPHEI
+CHAFF - 60 | FLARE - 60
+
+
 
 ## STEERPOINTS
+---  												
+###	59	BULLSEYE MARY	N	25	16,863	  -  	E	055	52,960		GEOREF	
+												
+---  												
+												
+---  												
+###	01	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
+#####	DIST:	#N/A	BINGO:	#N/A	ALT:			MACH:				
+#####	HDG:		GS:	#N/A	ETE:		#N/A	TOT:		08:00:00	VUL:	00:40:00
+												
+												
+---  												
+###	02	1	N	24	30,418	  -  	E	055	12,654			
+#####	DIST:	039,9  NM	BINGO:	#N/A	ALT:		15.0 M	MACH:	240			
+#####	HDG:	066°	GS:	86	ETE:		00:27:59	TOT:		08:27:59		
+												
+												
+---  												
+###	03	FLOT	N	24	54,802	  -  	E	055	30,793			
+#####	DIST:	029,4  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	290			
+#####	HDG:	032°	GS:	300	ETE:		00:05:53	TOT:		08:33:52		
+												
+												
+---  												
+###	04	COAST	N	25	30,700	  -  	E	056	33,781			
+#####	DIST:	067,4  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
+#####	HDG:	056°	GS:	300	ETE:		00:13:29	TOT:		08:47:21		
+												
+												
+---  												
+###	05	INITIAL POINT	N	26	14,224	  -  	E	056	29,269			
+#####	DIST:	043,7  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
+#####	HDG:	353°	GS:	300	ETE:		00:08:45	TOT:		08:56:06		
+												
+												
+---  												
+###	06	TIP IN	N	26	20,023	  -  	E	056	20,516			
+#####	DIST:	009,8  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
+#####	HDG:	305°	GS:	300	ETE:		00:01:57	TOT:		08:58:03		
+												
+												
+---  												
+###	07	TARGET	N	26	22,137	  -  	E	056	21,796			
+#####	DIST:	002,4  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
+#####	HDG:	027°	GS:	299	ETE:		00:00:29	TOT:		08:58:32		
+												
+												
+---  												
+###	08	CV	N	25	29,886	  -  	E	054	05,150			
+#####	DIST:	133,6  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
+#####	HDG:	246°	GS:	300	ETE:		00:26:43	TOT:		09:25:15		
+												
+
+
 
 ### MDC DOC
-[MDC](/XXX.pdf)
+[MDC](/MDC_CHEVY_STRIKE.pdf)
 
 
 ![MDC1](--MDC10.PNG)
@@ -44,6 +112,21 @@ EW:
 
 
 ## COMMS
+
+#### FL PRIMARY / - / BROWN6 / 232.0 / AMPN:PROGRAM
+#### FL SECONDARY / - / VIOLET7 / 130.750 / AMPN:PROGRAM
+#### AL DAHFRA GND / - / LIME2 / 126.100 / AMPN:0
+#### AL DAHFRA TWR / - / AL DAHFRA TWR / 126.200 / AMPN:0
+#### AL DAHFRA TMA / - / RED4 / 127.100 / AMPN:0
+#### CHECK IN / - / BLUE3 / 237.0 / AMPN:DARKSTAR
+#### PACKAGE FREQ / - / GRAY2 / 248.0 / AMPN:0
+#### ARCO AR201 / - / OLIVE10 / 151.000 / AMPN:0
+#### ATR IN FLT RPT / - / OCHRE9 / 234.0 / AMPN:0
+#### AL MINHAD TWR / - / AL MINHAD TWR / 121.200 / AMPN:DIVERT.
+#### AL MINHAD ATIS / - / AL MINHAD ATIS / 121.400 / AMPN:0
+#### Al Ain TWR / - / Al Ain TWR / 119.200 / AMPN:0
+#### Al Ain ATIS / - / Al Ain ATIS / 119.400 / AMPN:0
+
 
 ## SPINS
 
