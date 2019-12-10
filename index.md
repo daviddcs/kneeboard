@@ -6,21 +6,22 @@
 
 
 ## VIPER 1 - TR6444
-
+---
 Flight Lead: DAVID  
 WM2: TROLLEF  
 
 
 TACAN: 62 - 125Y  
 SQK: 4411  
+SADL:   
 BINGO: 3500  
 JOKER: 5000  
 DEPARTURE: TRAIL 20S  
 REJOIN: F4 2R  
-
+---
 ## FLIGHTPLAN
 0
-
+---
 ## LOADOUT
 
 left | right
@@ -32,7 +33,7 @@ S4 - TANK 370 | S6 - TANK 370
 S5L - - | S5R - AN/AAQ-28
 S5 - - | SGUN - AP
 CHAFF - 60 | FLARE - 60
-
+---
 
 ## COMMS
 
@@ -51,6 +52,8 @@ CHAFF - 60 | FLARE - 60
 #### Al Ain ATIS / N/A / Al Ain ATIS / 119.400 / AMPN:0
 #### Tanker: / VHF-11 / OLIVE10 / 151.000 / AMPN:
 #### Tanker: / N/A / MAROON11 / 140.0 / AMPN:
+---
+
 
 
 
