@@ -2,98 +2,81 @@
 - | - | -
 [VIPER START](/F16START.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-## CHEVY 2 - TR6001
+## NAME - MSN# - TIMEDATE
 
-Flight Lead: TROLLEF  
-WM2: DAVID  
+FL: 
+
+WM: 
+
+EL: 
+
+EW: 
 
 
-TACAN: 63 - 126Y  
-SQK: 4421  
-SADL:   
-BINGO: 3500  
-JOKER: 5000  
-DEPARTURE: TRAIL 20S  
-REJOIN: F4 2R  
+## FP
 
-## FLIGHTPLAN
-"Standard dept, climb to FL200 - AAR at ARCO track
-- Strike Range 12 - OHB recovery"
+
+				
+
+
+## Objective
+#### 
+
+
 
 ## LOADOUT
 
-left | right
------ | -----
-S1 - AIM120C | S9 - AIM120C
-S2 - - | S8 - -
-S3 - MK-84 | S7 - MK-84
-S4 - TANK 370 | S6 - TANK 370
-S5L - - | S5R - -
-S5 - - | SGUN - SAPHEI
-CHAFF - 60 | FLARE - 60
-
-
 
 ## STEERPOINTS
+
 ---  												
-###	59	BULLSEYE MARY	N	25	16,863	  -  	E	055	52,960		GEOREF	
-																							
+###	BE	BULLSEYE MARY	N	25	16,863	  -  	E	055	52,960		GEOREF	
+												
+---  												
+												
 ---  												
 ###	01	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
-#####	DIST:	#N/A	BINGO:	#N/A	ALT:			MACH:				
-#####	HDG:		GS:	#N/A	ETE:		#N/A	TOT:		08:00:00	VUL:	00:40:00
+#####	FUEL:	12103	BINGO:	11603	ALT:		52	MACH:	0			
+#####					WALK:		19:00:00	T/OT:		19:30:00	VUL:	00:30:00
 												
 												
 ---  												
-###	02	AAR	N	24	30,418	  -  	E	055	12,654			
-#####	DIST:	039,9  NM	BINGO:	#N/A	ALT:		15.0 M	MACH:	240			
-#####	HDG:	066°	GS:	86	ETE:		00:27:59	TOT:		08:27:59		
+###	02	TCAA4	N	24	11,124	  -  	E	054	56,615			
+#####	DIST:	022,8  NM	BINGO:	11375	ALT:		19.0 M	MACH:	0,7			
+#####	HDG:	099°	GS:	437	ETE:		00:03:08	TOT:		19:33:08		
 												
 												
 ---  												
-###	03	TYG	N	24	53,000	  -  	E	056	53,000			
-#####	DIST:	094,0  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	290			
-#####	HDG:	032°	GS:	958	ETE:		00:05:53	TOT:		08:33:52		
+###	03	TCAA3	N	23	47,903	  -  	E	054	43,480			
+#####	DIST:	026,2  NM	BINGO:	12113	ALT:		19.0 M	MACH:	0,7			
+#####	HDG:	206°	GS:	436	ETE:		00:03:36	TOT:		19:36:44		
+####	AAR											
+												
+---  												
+###	04	TCBA2	N	23	48,585	  -  	E	055	49,126			
+#####	DIST:	060,1  NM	BINGO:	4762	ALT:		19.0 M	MACH:	0,7			
+#####	HDG:	088°	GS:	436	ETE:		00:08:16	TOT:		19:45:00	VUL:	01:30:00
 												
 												
 ---  												
-###	04	EGIR	N	25	42,000	  -  	E	056	46,000			
-#####	DIST:	049,4  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
-#####	HDG:	056°	GS:	220	ETE:		00:13:29	TOT:		08:47:21		
+###	05	TCCA2	N	24	15,556	  -  	E	055	36,260			
+#####	DIST:	029,4  NM	BINGO:	4468	ALT:		19.0 A	MACH:	0,7			
+#####	HDG:	335°	GS:	19	ETE:		01:34:04	TOT:		21:19:04		
 												
 												
 ---  												
-###	05	INITIAL POINT	N	26	14,224	  -  	E	056	29,269			
-#####	DIST:	035,6  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
-#####	HDG:	353°	GS:	244	ETE:		00:08:45	TOT:		08:56:06		
-												
-												
----  												
-###	06	TIP IN	N	26	20,023	  -  	E	056	20,516			
-#####	DIST:	009,8  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
-#####	HDG:	305°	GS:	300	ETE:		00:01:57	TOT:		08:58:03		
-												
-												
----  												
-###	07	TARGET_ELEV30	N	26	22,137	  -  	E	056	21,796			
-#####	DIST:	002,4  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
-#####	HDG:	027°	GS:	299	ETE:		00:00:29	TOT:		08:58:32		
-												
-												
----  												
-###	08	CV	N	25	29,886	  -  	E	054	05,150			
-#####	DIST:	133,6  NM	BINGO:	#N/A	ALT:		1.5 A	MACH:	291			
-#####	HDG:	246°	GS:	300	ETE:		00:26:43	TOT:		09:25:15		
-												
-
+###	06	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
+#####	DIST:	058,6  NM	BINGO:	3648	ALT:		0.1 A	MACH:	0,7			
+#####	HDG:	268°	GS:	467	ETE:		00:07:32	TOT:		21:26:36		
 
 
 ### MDC DOC
-[MDC](/MDC_CHEVY_STRIKE.pdf)
+[MDC](/XXX.pdf)
 
 
-![MDC1](ZED_40HADB.PNG)
-
+![MDC1](--MDC10.PNG)
+![MDC1](--MDC20.PNG)
+![AO](--E10.PNG)
 
 ## METAR: 
 
@@ -109,8 +92,7 @@ CHAFF - 60 | FLARE - 60
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| B | L | A | C | K | H | O | R | S | E |
-
+| C | O | M | P | L | E | X | I | T | Y |
 
 ### BASE
 
@@ -138,6 +120,8 @@ CHAFF - 60 | FLARE - 60
 | WOUNDED BIRD | NANTUCKET |
 | FEET WET | OHIO |
 | FEET DRY | PHILIPPINES |
+
+## TCN
 
 
 ## ROE:
