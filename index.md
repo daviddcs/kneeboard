@@ -118,7 +118,7 @@ CHAFF - 60 | FLARE - 60
 
 ![MDC1](--MDC10.PNG)
 ![MDC1](--MDC20.PNG)
-![AO](E10.png)
+![AO](E10.PNG)
 
 ## METAR: 
 
