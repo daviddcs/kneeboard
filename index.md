@@ -2,29 +2,51 @@
 - | - | -
 [VIPER START](/F16START.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-## NAME - MSN# - TIMEDATE
+## VIPER 1 - TR6444
 
-FL: 
+Flight Lead: DAVID  
+WM2: TROLLEF  
+  
+TACAN: 62 - 125Y  
+SQK: 4411  
+  
+BINGO: 3500  
+JOKER: 5000  
+DEPARTURE: TRAIL 20S  
+REJOIN: F4 2R  
 
-WM: 
-
-EL: 
-
-EW: 
-
-
-## FP
-
-
-				
-
-
-## Objective
-#### 
-
-
+## FLIGHTPLAN
+N/A
 
 ## LOADOUT
+
+left | right
+----- | -----
+S1 - AIM120C | S9 - AIM120C
+S2 - - | S8 - AN/ASQ-T50
+S3 - 2xGBU-12 | S7 - 19xMK5 HEAT
+S4 - TANK 370 | S6 - TANK 370
+S5L - - | S5R - AN/AAQ-28
+S5 - - | SGUN - AP
+CHAFF - 60 | FLARE - 60
+
+
+## COMMS
+
+#### FL PRIMARY / - / BROWN6 / 232.0 / AMPN:PROGRAM
+#### FL SECONDARY / - / VIOLET7 / 130.750 / AMPN:PROGRAM
+#### AL DAHFRA GND / - / LIME2 / 126.100 / AMPN:0
+#### AL DAHFRA TWR / - / AL DAHFRA TWR / 126.200 / AMPN:0
+#### AL DAHFRA TMA / - / RED4 / 127.100 / AMPN:0
+#### CHECK IN / - / BLUE3 / 237.0 / AMPN:DARKSTAR
+#### PACKAGE FREQ / - / GRAY2 / 248.0 / AMPN:0
+#### ARCO AR201 / - / OLIVE10 / 151.000 / AMPN:0
+#### ATR IN FLT RPT / - / OCHRE9 / 234.0 / AMPN:0
+#### AL MINHAD TWR / - / AL MINHAD TWR / 121.200 / AMPN:0
+#### AL MINHAD ATIS / - / AL MINHAD ATIS / 121.400 / AMPN:0
+#### Al Ain TWR / - / Al Ain TWR / 119.200 / AMPN:PRIMARY DIVERT
+#### Al Ain ATIS / - / Al Ain ATIS / 119.400 / AMPN:0
+
 
 
 ## STEERPOINTS
