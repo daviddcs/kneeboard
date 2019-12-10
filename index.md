@@ -28,7 +28,6 @@ EW:
 
 
 ## STEERPOINTS
-
 ---  												
 ###	BE	BULLSEYE MARY	N	25	16,863	  -  	E	055	52,960		GEOREF	
 												
@@ -50,7 +49,7 @@ EW:
 ###	03	TCAA3	N	23	47,903	  -  	E	054	43,480			
 #####	DIST:	026,2  NM	BINGO:	12113	ALT:		19.0 M	MACH:	0,7			
 #####	HDG:	206°	GS:	436	ETE:		00:03:36	TOT:		19:36:44		
-####	AAR											
+####	AMPN: AAR ARCO 201											
 												
 ---  												
 ###	04	TCBA2	N	23	48,585	  -  	E	055	49,126			
@@ -68,6 +67,8 @@ EW:
 ###	06	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
 #####	DIST:	058,6  NM	BINGO:	3648	ALT:		0.1 A	MACH:	0,7			
 #####	HDG:	268°	GS:	467	ETE:		00:07:32	TOT:		21:26:36		
+												
+
 
 
 ### MDC DOC
