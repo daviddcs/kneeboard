@@ -1,4 +1,4 @@
-![A10](/VIPER/A10.png)
-![A20](/VIPER/A20.png)
-![A30](/VIPER/A30.png)
-![A40](/VIPER/A40.png)
+![MDC10](/MDC_PAGES/MDC10.png)
+![MDC20](/MDC_PAGES/MDC20.png)
+![MDC30](/MDC_PAGES/MDC30.png)
+![MDC40](/MDC_PAGES/MDC40.png)
