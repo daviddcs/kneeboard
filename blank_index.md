@@ -2,6 +2,9 @@
 - | - | -
 [VIPER START](/F16START.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
+## Objective
+#### 
+
 ## NAME - MSN# - TIMEDATE
 
 FL: 
@@ -16,15 +19,10 @@ EW:
 ## FP
 
 
-				
-
-
-## Objective
-#### 
-
-
 
 ## LOADOUT
+
+## COMMS
 
 
 ## STEERPOINTS
@@ -82,17 +80,12 @@ EW:
 | FEET WET | OHIO |
 | FEET DRY | PHILIPPINES |
 
-## TCN
-
 
 ## ROE:
 
 
-
 ## Intel:
 
-
-## TASK
 
 
 ![GND](/FLIPS/OMAM_GND_NOV6.png)  
