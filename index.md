@@ -111,13 +111,6 @@ CHAFF - 60 | FLARE - 60
 												
 
 
-
-### MDC DOC
-[MDC](/XXX.pdf)
-
-
-![MDC1](--MDC10.PNG)
-![MDC1](--MDC20.PNG)
 ![AO](E10.PNG)
 
 ## METAR: 
