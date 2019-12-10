@@ -90,7 +90,7 @@ CHAFF - 60 | FLARE - 60
 ###	03	TCAA3	N	23	47,903	  -  	E	054	43,480			
 #####	DIST:	026,2  NM	BINGO:	12113	ALT:		19.0 M	MACH:	0,7			
 #####	HDG:	206°	GS:	436	ETE:		00:03:36	TOT:		19:36:44		
-####	AMPN: AAR ARCO 201											
+> AMPN: AAR ARCO 201											
 												
 ---  												
 ###	04	TCBA2	N	23	48,585	  -  	E	055	49,126			
@@ -118,7 +118,7 @@ CHAFF - 60 | FLARE - 60
 
 ![MDC1](--MDC10.PNG)
 ![MDC1](--MDC20.PNG)
-![AO](--E10.PNG)
+![AO](E10.png)
 
 ## METAR: 
 
