@@ -5,15 +5,12 @@
 ## Objective
 #### 
 
-## NAME - MSN# - TIMEDATE
+## VIPER 12 - MSN#TR6920 
 
-FL: 
+FL: NECK
 
-WM: 
+WM: DAVID
 
-EL: 
-
-EW: 
 
 
 ## FP
@@ -28,27 +25,54 @@ EW:
 ## STEERPOINTS
 
 ### MDC DOC
-[MDC](/XXX.pdf)
+[MDC](/EXT_BRIEF.pdf)
 
 ![AO](--E10.PNG)
 
 ## METAR: 
 
-#### NOTAM: 
+#### ATO: 
 
-
+VTASK/132vW/26920/272000ZDEC2019//  
+TASKUNIT/388th/ICAO:-//  
+AMSNDAT/TR6920/TR/-/-/2/-/-/DEP:OMAM/ARR:OMAM//  
+MSNACFT/2/F-16C/VIPER11-12/-/-/GRAY6/OLIVE4/-/-/-/-//  
 
 ## COMMS
 
 ## SPINS
+
+Gameplan:  
+  
+Missions:  
+BLUE task: Conduct strike at Range 5 bombing circles   
+RED task: CAP overhead Range 5.  
+
+We can do 1-3 setups depending on playtime and ordnance.  
+  
+Coordination:  
+- Safety & Kill frequency: 235.750 (Range 5 primary freq)  
+- BLUE start: minimum 60nm WEST of Range 5 targets.  
+- Call ready on S&K freq.  
+
+
+Restrictions:  
+- No tactical maneuver EAST of transit corridor DARCY (extending both NORTH and SOUTH).  
+
+  
+A-A training rules:  
+- BLUE force continue if hit.  
+- Aggressor REGEN overhead Range 13 ( Below 500ft)  
+- On hit: RED: Dive down below 500ft ft , continue inbound Range 13. Radar off.  
+- Both parties call out on S&K freq when hit.  
+- No guns (for A-A), allowed for A-G at Range 5.  
 
 ### RAMROD
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
-| L | U | M | B | E | R | J | A | C | K | --EVEN
-| C | O | M | P | L | E | X | I | T | Y | --ODD
+
 
 ### BASE
 
