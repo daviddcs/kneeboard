@@ -1,11 +1,11 @@
  |  | 
-- | - | - | -
-[MDC PAGES](/MDCPAGES.MD) | [VIPER CHECKLISTS](/F16START.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
+- | - | - | - | -
+[MDC PAGES](/MDCPAGES.MD) | [VIPER CHECKLISTS](/F16START.MD) | [VFR PG](/VFR_OMAM.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
 ## Objective
 #### 
 
-## VIPER 12 - MSN#TR6920 
+## VIPER 12 - MSN#TR7079 
 
 FL: NECK
 
@@ -14,13 +14,50 @@ WM: DAVID
 
 
 ## FP
-
+- VFR departure   
+- Range 9, A-A 1vs1 dogfighting  
+- AAR, ARCO  
+- Al Ain (OMAL), touch and go, test VFR recovery and departure  
+- RTB Al Dahfra VFR recovery  
 
 
 ## LOADOUT
 
 ## COMMS
 
+TASKINGS  
+DRAGON:  
+AR, RANGE 7.  
+  
+
+COBRA:  
+Range 6. Convoy escort.  
+Flight transitting through range 6 below 10.000ft, contact COBRA at: 233.250  
+
+  
+MISTY:  
+A-G, Range 14 with PANTHER.  
+
+
+PANTHER:  
+A-G, Range 14 with MISTY.  
+
+  
+VIPER:  
+Test of VFR procedures at Al Dahfra and Al Ain.  
+A-A Range 9.  
+
+
+ATC and Communications  
+ATC is unmanned for all airfields.  
+Al Dahfra TWR: 126.2  
+Al Dahfra ATIS: 126.4  
+
+Al Ain TWR: 119.2  
+Al Ain ATIS: 119.4  
+
+- All ATC calls to be broadcasted on TWR freq.  
+- Check ATIS for active runway.  
 
 ## STEERPOINTS
 
@@ -33,9 +70,9 @@ WM: DAVID
 
 #### ATO: 
 
-VTASK/132vW/26920/272000ZDEC2019//  
+VTASK/132vW/27079/282000ZDEC2019//  
 TASKUNIT/388th/ICAO:-//  
-AMSNDAT/TR6920/TR/-/-/2/-/-/DEP:OMAM/ARR:OMAM//  
+AMSNDAT/TR7079/TR/-/-/2/-/-/DEP:OMAM/ARR:OMAM//  
 MSNACFT/2/F-16C/VIPER11-12/-/-/GRAY6/OLIVE4/-/-/-/-//  
 
 ## COMMS
@@ -112,6 +149,6 @@ A-A training rules:
 ![GND](/FLIPS/OMAM_GND_NOV6.png)  
 
  |  | 
-- | - | -
-[MDC PAGES](/MDCPAGES.MD) | [VIPER CHECKLISTS](/F16START.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
+- | - | - | - | -
+[MDC PAGES](/MDCPAGES.MD) | [VIPER CHECKLISTS](/F16START.MD) | [VFR PG](/VFR_OMAM.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
