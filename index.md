@@ -118,7 +118,7 @@ CHAFF - 60 | FLARE - 60
 ####	DIVERT											
 												
 ---  												
-###	10													
+###	10	BLANK												
 												
 ---  												
 ###	11	NAI_JIROFT	N	28	43,590	  -  	E	057	40,557				
