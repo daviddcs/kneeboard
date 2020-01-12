@@ -57,7 +57,7 @@ CHAFF - 60 | FLARE - 60
 #### Tanker: / N/A / MAROON7 / 240.750 / AMPN:
 #### AR1202 - FL190 - 39Y - 135BOOM /  /  /  / AMPN:
 
-
+---
 
 
 ## STEERPOINTS
@@ -124,7 +124,7 @@ CHAFF - 60 | FLARE - 60
 ###	11	NAI_JIROFT	N	28	43,590	  -  	E	057	40,557				
 ####	ELEV 2664, RECCE											
 
-
+---
 
 #### NOTAM: 
 UNMANNED ATC: operate on twr freq when within 10nm of installation below 7 500ft  
@@ -163,12 +163,6 @@ UNMANNED ATC: operate on twr freq when within 10nm of installation below 7 500ft
 | WOUNDED BIRD | NANTUCKET |
 | FEET WET | OHIO |
 | FEET DRY | PHILIPPINES |
-
-
-## ROE:
-
-
-## Intel:
 
 
 
