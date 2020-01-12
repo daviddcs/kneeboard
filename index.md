@@ -172,7 +172,7 @@ UNMANNED ATC: operate on twr freq when within 10nm of installation below 7 500ft
 
 
 
-![GND](/FLIPS/OMAM_GND_NOV6.png)  
+![GND](/FLIPS/OMDM_GND_JULY3.png)  
 
  |  | 
 - | - | - | - | -
