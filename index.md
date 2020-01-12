@@ -25,7 +25,7 @@ REJOIN: F4 2R
 REC FROM NORTH TRAIL SI"
 
 ---
-## LOADOUT
+## LOADOUT #1&3
 
 left | right
 ----- | -----
@@ -36,6 +36,20 @@ S4 - TANK 370 | S6 - TANK 370
 S5L - - | S5R - -
 S5 - - | SGUN - SAPHEI
 CHAFF - 60 | FLARE - 60
+
+## LOADOUT #2
+
+left | right
+----- | -----
+S1 - AIM120C | S9 - AIM120C
+S2 - AIM-9X | S8 - AIM-9X
+S3 - AIM120C | S7 - AIM120C
+S4 - TANK 370 | S6 - TANK 370
+S5L - - | S5R - AN/AAQ-28
+S5 - - | SGUN - SAPHEI
+CHAFF - 60 | FLARE - 60
+
+
 
 ---
 
