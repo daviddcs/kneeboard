@@ -38,8 +38,6 @@ EW:
 
 
 
-## COMMS
-
 ## SPINS
 
 ### RAMROD
