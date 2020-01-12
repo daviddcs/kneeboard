@@ -60,6 +60,69 @@ CHAFF - 60 | FLARE - 60
 
 ## STEERPOINTS
 
+---  												
+###	BE	NAOMI	N	26	56,820	  -  	E	056	16,564		GEOREF	
+												
+---  												
+												
+---  												
+###	01	Al Minhad AB	N	25	01,600	  -  	E	055	23,017			
+#####	FUEL:	12103	BINGO:	11603	ALT:		52	MACH:	0			
+#####					WALK:		19:00:00	T/OT:		19:35:00	VUL:	00:35:00
+												
+												
+---  												
+###	02	1	N	26	18,102	  -  	E	056	23,085			
+#####	DIST:	093,8  NM	BINGO:	10665	ALT:		25.0 M	MACH:	0,7			
+#####	HDG:	033°	GS:	426	ETE:		00:13:12	TOT:		19:48:12		
+												
+												
+---  												
+###	03	2	N	28	02,105	  -  	E	057	43,247			
+#####	DIST:	126,2  NM	BINGO:	9403	ALT:		25.0 M	MACH:	0,7			
+#####	HDG:	032°	GS:	426	ETE:		00:17:47	TOT:		20:05:59		
+												
+												
+---  												
+###	04	IP	N	28	24,708	  -  	E	058	01,472			
+#####	DIST:	027,7  NM	BINGO:	9015	ALT:		0.2 A	MACH:	0,79			
+#####	HDG:	033°	GS:	520	ETE:		00:03:12	TOT:		20:09:11		
+												
+												
+---  												
+###	05	HECTOR_DMPI12_2169	N	28	39,000	  -  	E	057	45,100			
+#####	DIST:	020,3  NM	BINGO:	6731	ALT:		2.2 M	MACH:	0,79			
+#####	HDG:	313°	GS:	522	ETE:		00:02:20	TOT:		20:11:31	VUL:	00:20:00
+####	TGT ELEVATION 2169											
+												
+---  												
+###	06	HECTOR_DMPI12_2169	N	28	39,000	  -  	E	057	45,100					
+####	TGT ELEVATION 2169											
+												
+---  												
+###	07	POST-RV	N	28	10,287	  -  	E	056	50,191			
+#####	DIST:	056,2  NM	BINGO:	6169	ALT:		25.0 M	MACH:	0,7			
+#####	HDG:	237°	GS:	426	ETE:		00:07:55	TOT:		20:39:26		
+												
+												
+---  												
+###	08	Al Minhad AB	N	25	01,600	  -  	E	055	23,017			
+#####	DIST:	204,3  NM	BINGO:	3309	ALT:		1.5 A	MACH:	0,64			
+#####	HDG:	201°	GS:	426	ETE:		00:28:48	TOT:		21:08:14		
+												
+												
+---  												
+###	09	Bandar Abbas Intl	N	27	12,217	  -  	E	056	22,217				
+####	DIVERT											
+												
+---  												
+###	10													
+												
+---  												
+###	11	NAI_JIROFT	N	28	43,590	  -  	E	057	40,557				
+####	ELEV 2664, RECCE											
+
+
 ### MDC DOC
 [MDC](/XXX.pdf)
 
@@ -77,8 +140,6 @@ CHAFF - 60 | FLARE - 60
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
-| L | U | M | B | E | R | J | A | C | K | --EVEN
-| C | O | M | P | L | E | X | I | T | Y | --ODD
 
 ### BASE
 
