@@ -125,15 +125,9 @@ CHAFF - 60 | FLARE - 60
 ####	ELEV 2664, RECCE											
 
 
-### MDC DOC
-[MDC](/XXX.pdf)
-
-![AO](--E10.PNG)
-
-## METAR: 
 
 #### NOTAM: 
-
+UNMANNED ATC: operate on twr freq when within 10nm of installation below 7 500ft  
 
 ## SPINS
 
