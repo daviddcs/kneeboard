@@ -34,7 +34,7 @@ REC VFR FROM EAST
 
 left | right
 ----- | -----
-S1 - CAP-9M | S9 - CAP-9M
+S1 - AN/ASQ-T50 | S9 - CAP-9M
 S2 - - | S8 - -
 S3 - - | S7 - -
 S4 - TANK 370 | S6 - TANK 370
