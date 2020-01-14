@@ -3,7 +3,7 @@
 [MDC PAGES](/MDCPAGES.MD) | [VIPER CHECKLISTS](/F16START.MD) | [VFR PG](/VFR_OMAM.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
 ## Objective
-#### 
+#### As agreed, request flight with David for training in the Viper. Request regular startup according to checklists, airfield and map familiarization (first training mission in PG) and AAR. Request basic demonstration of different standard routines, such as taxi, departure, recovery, as well as ops checks and other routinely used proceedures. If time permits, can also do the precision flight module, but main focus should be on the basics, as this is the first official flight with an IP.
 
 ## VIPER 1 - TR7687
 
