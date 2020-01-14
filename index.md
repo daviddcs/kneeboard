@@ -2,146 +2,159 @@
 - | - | - | - | -
 [MDC PAGES](/MDCPAGES.MD) | [VIPER CHECKLISTS](/F16START.MD) | [VFR PG](/VFR_OMAM.MD) | [FLIP GULF](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) | [FLIP CAUCASUS](https://www.dropbox.com/s/ppiqy9ba7i8h8op/FLIP_CAUR_EC1.pdf?dl=0)
 
-## RAGE 9 - AI6977
+## Objective
+#### 
+
+## VIPER 1 - TR7687
 
 ---
 
 Flight Lead: DAVID  
-WM2: TROLLEF  
-Element Lead: NECK  
+WM2: WORG  
 
-TACAN: 58 - 121Y  
-SQK: 4321+  
-PRF: 1355+  
+
+TACAN: 62 - 125Y  
+SQK: 4411  
+PRF: 1611  
 SADL:   
-BINGO: 5200  
-JOKER: 6000  
+BINGO: 3500  
+JOKER: 4000  
 DEPARTURE: TRAIL 20S  
 REJOIN: F4 2R  
 
 ---
 ## FLIGHTPLAN
-"X3 VIPER 20SEC SPACE VFR NORTH FL250
-REC FROM NORTH TRAIL SI"
+0
 
 ---
-## LOADOUT #1&3
+## LOADOUT
 
 left | right
 ----- | -----
-S1 - AIM120C | S9 - AIM120C
-S2 - AIM-9X | S8 - AIM-9X
-S3 - MK-82 Y | S7 - MK-82 Y
+S1 - CAP-9M | S9 - CAP-9M
+S2 - - | S8 - -
+S3 - - | S7 - -
 S4 - TANK 370 | S6 - TANK 370
 S5L - - | S5R - -
-S5 - - | SGUN - SAPHEI
+S5 - TANK 300 | SGUN - DRY
 CHAFF - 60 | FLARE - 60
-
-## LOADOUT #2
-
-left | right
------ | -----
-S1 - AIM120C | S9 - AIM120C
-S2 - AIM-9X | S8 - AIM-9X
-S3 - AIM120C | S7 - AIM120C
-S4 - TANK 370 | S6 - TANK 370
-S5L - - | S5R - AN/AAQ-28
-S5 - - | SGUN - SAPHEI
-CHAFF - 60 | FLARE - 60
-
-
 
 ---
 
 ## COMMS
 
-#### FL PRIMARY / M-UHF-1 / AQUA8 / 233.750 / AMPN:PROGRAM
-#### FL SECONDARY / M-VHF-1 / INDIGO6 / 136.250 / AMPN:PROGRAM
+#### FL PRIMARY / M-UHF-1 / GRAY6 / 235.250 / AMPN:PROGRAM
+#### FL SECONDARY / M-VHF-1 / OLIVE4 / 141.750 / AMPN:PROGRAM
+#### AL DAHFRA GND / VHF-2 / LIME2 / 126.100 / AMPN:
+#### AL DAHFRA TWR / VHF-3 / AL DAHFRA TWR / 126.200 / AMPN:
+#### AL DAHFRA TMA / VHF-4 / RED4 / 127.100 / AMPN:
+#### AL DAHFRA ATIS / N/A / AL DAHFRA ATIS / 126.400 / AMPN:
+#### AL MINHAD GND / N/A / YELLOW7 / 121.100 / AMPN:
 #### AL MINHAD TWR / VHF-19 / AL MINHAD TWR / 121.200 / AMPN:
-#### BANDAR ABBAS TWR / N/A / BANDAR ABBAS TWR / 118.200 / AMPN:
-#### OP CHECK IN / N/A / GREEN7 / 231.500 / AMPN:EXPECT THRUOUT
-#### OP INFLT RPT / UHF-3 / ORANGE10 / 228.0 / AMPN:
-#### OP C2 BACKUP / N/A / GRAY10 / 122.250 / AMPN:
-#### OP ROZ WARRIOR / VHF-8 / OCHRE8 / 136.750 / AMPN:
-#### OP SCAR AR1 / N/A / YELLOW1 / 227.500 / AMPN:
-#### OP PACKAGE ALPHA / N/A / LIME5 / 230.750 / AMPN:
-#### OP CSAR / N/A / PINK1 / 233.0 / AMPN:
-#### OP AA DIRECTOR1 / N/A / GRAY2 / 248.0 / AMPN:
-#### OP AA DIRECTOR2 / UHF-4 / GREEN4 / 229.0 / AMPN:
-#### Tanker: / N/A / MAROON7 / 240.750 / AMPN:
-#### AR1202 - FL190 - 39Y - 135BOOM /  /  /  / AMPN:
+#### AL MINHAD PAR / N/A / AL MINHAD PAR / 121.300 / AMPN:
+#### AL MINHAD ATIS / N/A / AL MINHAD ATIS / 121.400 / AMPN:
+#### CHECK IN / UHF-2 / BLUE3 / 237.0 / AMPN:EXPECT THRUOUT
+#### ATR IN FLT RPT / UHF-5 / OCHRE9 / 234.0 / AMPN:
+#### Al Ain TWR / VHF-18 / Al Ain TWR / 119.200 / AMPN:
+#### Tanker: / VHF-11 / OLIVE10 / 151.000 / AMPN:
+#### RANGE9W - FL200 - 39X - KC135 /  /  /  / AMPN:
 
 ---
+
 
 
 ## STEERPOINTS
 
 ---  												
-###	BE	NAOMI	N	26	56,820	  -  	E	056	16,564		GEOREF	
+###	BE	BULLSEYE MARY	N	25	00,000	  -  	E	055	00,000		GEOREF	
 												
 ---  												
 												
 ---  												
-###	01	Al Minhad AB	N	25	01,600	  -  	E	055	23,017			
-#####	FUEL:	12103	BINGO:	11603	ALT:		52	MACH:	0			
-#####					WALK:		19:00:00	T/OT:		19:35:00	VUL:	00:35:00
+###	01	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
+#####	FUEL:	14106	BINGO:	13606	ALT:		52	MACH:	0			
+#####					WALK:		19:00:00	T/OT:		19:30:00	VUL:	00:30:00
 												
 												
 ---  												
-###	02	1	N	26	18,102	  -  	E	056	23,085			
-#####	DIST:	093,8  NM	BINGO:	10665	ALT:		25.0 M	MACH:	0,7			
-#####	HDG:	033°	GS:	426	ETE:		00:13:12	TOT:		19:48:12		
+###	02	R13	N	24	19,225	  -  	E	054	12,666			
+#####	DIST:	018,1  NM	BINGO:	13425	ALT:		19.0 M	MACH:	0,7			
+#####	HDG:	280°	GS:	437	ETE:		00:02:29	TOT:		19:32:29		
 												
 												
 ---  												
-###	03	2	N	28	02,105	  -  	E	057	43,247			
-#####	DIST:	126,2  NM	BINGO:	9403	ALT:		25.0 M	MACH:	0,7			
-#####	HDG:	032°	GS:	426	ETE:		00:17:47	TOT:		20:05:59		
+###	03	TCDY1	N	23	43,052	  -  	E	053	43,450			
+#####	DIST:	045,0  NM	BINGO:	12975	ALT:		19.0 M	MACH:	0,7			
+#####	HDG:	215°	GS:	436	ETE:		00:06:11	TOT:		19:38:40		
 												
 												
 ---  												
-###	04	IP	N	28	24,708	  -  	E	058	01,472			
-#####	DIST:	027,7  NM	BINGO:	9015	ALT:		0.2 A	MACH:	0,79			
-#####	HDG:	033°	GS:	520	ETE:		00:03:12	TOT:		20:09:11		
+###	04	TCAA2	N	23	18,459	  -  	E	054	26,903			
+#####	DIST:	046,9  NM	BINGO:	14007	ALT:		19.0 M	MACH:	0,7			
+#####	HDG:	120°	GS:	436	ETE:		00:06:27	TOT:		19:45:07	VUL:	00:20:00
+####	AAR											
+												
+---  												
+###	05	TCAA3	N	23	47,903	  -  	E	054	43,480			
+#####	DIST:	033,2  NM	BINGO:	13675	ALT:		24.0 M	MACH:	0,7			
+#####	HDG:	025°	GS:	81	ETE:		00:24:39	TOT:		20:09:46		
 												
 												
 ---  												
-###	05	HECTOR_DMPI12_2169	N	28	39,000	  -  	E	057	45,100			
-#####	DIST:	020,3  NM	BINGO:	6731	ALT:		2.2 M	MACH:	0,79			
-#####	HDG:	313°	GS:	522	ETE:		00:02:20	TOT:		20:11:31	VUL:	00:20:00
-####	TGT ELEVATION 2169											
-												
----  												
-###	06	HECTOR_DMPI12_2169	N	28	39,000	  -  	E	057	45,100					
-####	TGT ELEVATION 2169											
-												
----  												
-###	07	POST-RV	N	28	10,287	  -  	E	056	50,191			
-#####	DIST:	056,2  NM	BINGO:	6169	ALT:		25.0 M	MACH:	0,7			
-#####	HDG:	237°	GS:	426	ETE:		00:07:55	TOT:		20:39:26		
+###	06	TCBA2	N	23	48,585	  -  	E	055	49,126			
+#####	DIST:	060,1  NM	BINGO:	13074	ALT:		24.0 M	MACH:	0,7			
+#####	HDG:	087°	GS:	428	ETE:		00:08:26	TOT:		20:18:12		
 												
 												
 ---  												
-###	08	Al Minhad AB	N	25	01,600	  -  	E	055	23,017			
-#####	DIST:	204,3  NM	BINGO:	3309	ALT:		1.5 A	MACH:	0,64			
-#####	HDG:	201°	GS:	426	ETE:		00:28:48	TOT:		21:08:14		
+###	07	MUSAP	N	24	17,900	  -  	E	055	52,750			
+#####	DIST:	029,5  NM	BINGO:	12779	ALT:		24.0 M	MACH:	0,7			
+#####	HDG:	005°	GS:	427	ETE:		00:04:09	TOT:		20:22:21		
 												
 												
 ---  												
-###	09	Bandar Abbas Intl	N	27	12,217	  -  	E	056	22,217				
+###	08	TCCA3	N	24	23,327	  -  	E	056	43,888			
+#####	DIST:	046,9  NM	BINGO:	12310	ALT:		24.0 M	MACH:	0,7			
+#####	HDG:	081°	GS:	428	ETE:		00:06:35	TOT:		20:28:56		
+												
+												
+---  												
+###	09	DANIG	N	25	01,817	  -  	E	056	32,467			
+#####	DIST:	039,9  NM	BINGO:	11911	ALT:		24.0 M	MACH:	0,7			
+#####	HDG:	343°	GS:	427	ETE:		00:05:36	TOT:		20:34:32		
+												
+												
+---  												
+###	10	TCAA5	N	25	01,868	  -  	E	055	25,587			
+#####	DIST:	060,6  NM	BINGO:	11304	ALT:		24.0 M	MACH:	0,7			
+#####	HDG:	268°	GS:	427	ETE:		00:08:31	TOT:		20:43:03		
+												
+												
+---  												
+###	11	ITREN	N	24	12,380	  -  	E	054	58,168			
+#####	DIST:	055,4  NM	BINGO:	10750	ALT:		24.0 M	MACH:	0,7			
+#####	HDG:	205°	GS:	427	ETE:		00:07:47	TOT:		20:50:50		
+												
+												
+---  												
+###	12	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
+#####	DIST:	024,0  NM	BINGO:	10414	ALT:		1.5 A	MACH:	0,64			
+#####	HDG:	275°	GS:	428	ETE:		00:03:22	TOT:		20:54:12		
+												
+												
+---  												
+###	13	Al Ain International Airport	N	24	16,516	  -  	E	055	36,683			
+#####	DIST:	059,0  NM	BINGO:	9588	ALT:		1.5 A	MACH:	0,65			
+#####	HDG:	087°	GS:	427	ETE:		00:08:17	TOT:		21:02:29		
 ####	DIVERT											
-												
----  												
-###	10	BLANK												
-												
----  												
-###	11	NAI_JIROFT	N	28	43,590	  -  	E	057	40,557				
-####	ELEV 2664, RECCE											
 
----
+
+
+## METAR: 
 
 #### NOTAM: 
-UNMANNED ATC: operate on twr freq when within 10nm of installation below 7 500ft  
+
+
 
 ## SPINS
 
@@ -150,6 +163,7 @@ UNMANNED ATC: operate on twr freq when within 10nm of installation below 7 500ft
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
+| C | O | M | P | L | E | X | I | T | Y |
 
 ### BASE
 
@@ -180,7 +194,7 @@ UNMANNED ATC: operate on twr freq when within 10nm of installation below 7 500ft
 
 
 
-![GND](/FLIPS/OMDM_GND_JULY3.png)  
+![GND](/FLIPS/OMAM_GND_NOV6.png)  
 
  |  | 
 - | - | - | - | -
