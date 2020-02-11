@@ -4,13 +4,20 @@
 - | - 
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
-## SKULL 3 - TR7780
+## Objective
+#### 
+
+## CRYPTIC 3 - TR7882
 
 ---
 
 Flight Lead: DAVID  
 
-PRF: 1631  
+
+
+TACAN: 46 - 109Y  
+SQK: 0  
+PRF:   
 SADL:   
 BINGO: 3500  
 JOKER: 4000  
@@ -19,9 +26,9 @@ REJOIN: STD
 
 ---
 ## FLIGHTPLAN
-"VFR EASTBOUND (RGN6)
-RANGE 6, GND 30K, PAVEWAY DROPS
-VFR REC FROM EAST"
+"EXIT NORTH FOR RGN12
+RGN 12, GND-30K 
+RECOVERY FROM N/E"
 
 ---
 ## LOADOUT
@@ -30,7 +37,7 @@ left | right
 ----- | -----
 S1 - AIM120B | S9 - AIM120B
 S2 - AN/ASQ-T50 | S8 - CAP-9M
-S3 - 2xGBU-12 | S7 - 2xGBU-12
+S3 - 2xCBU-97 | S7 - 2xCBU-97
 S4 - TANK 370 | S6 - TANK 370
 S5L - - | S5R - AN/AAQ-28
 S5 - - | SGUN - DRY
@@ -40,15 +47,15 @@ CHAFF - 60 | FLARE - 60
 
 ## COMMS
 
-#### FL PRIMARY / M-UHF-1 / LIME6 / 37.0 / AMPN:PROGRAM
-#### FL SECONDARY / M-VHF-1 / AMBER1 / 124.750 / AMPN:PROGRAM
+#### FL PRIMARY / M-UHF-1 / COPPER5 / 310.900 / AMPN:PROGRAM
+#### FL SECONDARY / M-VHF-1 / LEMON3 / 132.750 / AMPN:PROGRAM
 #### AL DAHFRA GND / VHF-2 / LIME2 / 126.100 / AMPN:
 #### AL DAHFRA TWR / VHF-3 / AL DAHFRA TWR / 126.200 / AMPN:
 #### AL DAHFRA TMA / VHF-4 / RED4 / 127.100 / AMPN:
 #### AL DAHFRA ATIS / N/A / AL DAHFRA ATIS / 126.400 / AMPN:
-#### ATR PRI RANGE 6 / UHF-11 / BROWN7 / 233.250 / AMPN:
+#### ATR PRI RANGE 12 / UHF-17 / ORANGE2 / 242.250 / AMPN:
 #### AL MINHAD TWR / VHF-19 / AL MINHAD TWR / 121.200 / AMPN:
-#### ATR SEC RANGE 6 / VHF-9 / AQUA10 / 139.750 / AMPN:
+#### ATR SEC RANGE 12 / N/A / COPPER10 / 133.700 / AMPN:
 #### AL MINHAD ATIS / N/A / AL MINHAD ATIS / 121.400 / AMPN:
 #### CHECK IN / UHF-2 / BLUE3 / 237.0 / AMPN:EXPECT THRUOUT
 #### ATR IN FLT RPT / UHF-5 / OCHRE9 / 234.0 / AMPN:
@@ -57,7 +64,6 @@ CHAFF - 60 | FLARE - 60
 #### RANGE9W - FL200 - 39X - KC135 /  /  /  / AMPN:
 
 ---
-
 
 
 ## STEERPOINTS
@@ -74,46 +80,65 @@ CHAFF - 60 | FLARE - 60
 												
 												
 ---  												
-###	02	SW1	N	23	50,648	  -  	E	054	49,768			
+###	02	X-Junction	N	24	25,200	  -  	E	055	01,600			
+#####	DIST:	028,7  NM	BINGO:	11230	ALT:		15.0 M	MACH:	300			
+#####	HDG:	068°	GS:	375	ETE:		00:04:35	TOT:		19:34:35		
+												
+												
+---  												
+###	03	TCAA5	N	25	01,868	  -  	E	055	25,587			
+#####	DIST:	042,7  NM	BINGO:	10804	ALT:		24.0 M	MACH:	0,7			
+#####	HDG:	029°	GS:	428	ETE:		00:05:59	TOT:		19:40:34		
+												
+												
+---  												
+###	04	TGT_AO	N	25	51,650	  -  	E	056	13,069			
+#####	DIST:	065,7  NM	BINGO:	8076	ALT:		24.0 M	MACH:	0,7			
+#####	HDG:	039°	GS:	427	ETE:		00:09:14	TOT:		19:49:48	VUL:	00:30:00
+												
+												
+---  												
+###	05	TCAA5	N	25	01,868	  -  	E	055	25,587			
+#####	DIST:	065,7  NM	BINGO:	7419	ALT:		24.0 M	MACH:	0,7			
+#####	HDG:	219°	GS:	101	ETE:		00:39:13	TOT:		20:29:01		
+												
+												
+---  												
+###	06	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
+#####	DIST:	067,3  NM	BINGO:	5874	ALT:		1.5 A	MACH:	0,64			
+#####	HDG:	225°	GS:	427	ETE:		00:09:27	TOT:		20:38:28	VUL:	00:05:00
+												
+												
+---  												
+###	07	NEPTUNE_SE	N	25	41,918	  -  	E	056	15,283			
 	
 												
 												
 ---  												
-###	03	NW2	N	24	10,414	  -  	E	055	00,725			
-	
-												
-												
----  												
-###	04	NE3	N	24	13,521	  -  	E	055	32,123			
+###	08	NEPTUNE_NE	N	25	56,547	  -  	E	056	20,078			
 		
 												
 												
 ---  												
-###	05	SE4	N	23	50,901	  -  	E	055	43,080			
-		
-												
-												
----  												
-###	06	SW5	N	23	50,564	  -  	E	054	50,045			
+###	09	NEPTUNE_NW	N	25	56,867	  -  	E	056	05,780			
 	
 												
 												
 ---  												
-###	07	T6.1	N	23	59,495	  -  	E	055	05,777					
-####	ELEV 404											
+###	10	NEPTUNE_SW	N	25	49,156	  -  	E	056	05,736			
+		
+												
 												
 ---  												
-###	08	T6.2	N	23	55,376	  -  	E	055	23,281					
-####	ELEV 554											
+###	11	NEPTUNE_SE2	N	25	41,918	  -  	E	056	15,283			
+		
+												
 
 
 
 ## METAR: 
-OMAM 291230Z AUTO 30206KT 9999 BR164 21/03 Q1019 NOSIG Q30.01 inHg  
-
 
 #### NOTAM: 
-Active rwys 31R and 31L. GND and TWR merged on .200  
 
 
 
@@ -124,7 +149,7 @@ Active rwys 31R and 31L. GND and TWR merged on .200
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
-| C | O | M | P | L | E | X | I | T | Y |
+| L | U | M | B | E | R | J | A | C | K |
 
 ### BASE
 
