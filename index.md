@@ -154,9 +154,24 @@ CHAFF - 60 | FLARE - 60
 ![AO](--E10.PNG)
 
 ## METAR: 
+Expect light winds from NW, scattered clouds at 9,000 ft  
 
 #### NOTAM: 
-
+Ranges/Airspace in use  
+- MOA 1: ODIN  
+- MOA 2: AXE  
+- MOA 3: A-G training (CAS/AR/JTAC/AWACS) (Coordinated by @Neck)  
+- Range 2: RAZOR  
+- Range 4: SPEARHEAD  
+- Range 6: MISTY + JTAC WARRIOR  
+- Range 7: A-G training (CAS/AR/JTAC/AWACS) (Coordinated by @Neck)  
+- Range 9: ROGUE+DART  
+- Range 12: A-G training (CAS/AR/JTAC/AWACS) (Coordinated by @Neck)  
+- Range 13: VAMPIRE+MISFIT  
+- Range 14: A-G training (CAS/AR/JTAC/AWACS) (Coordinated by @Neck)  
+  
+TANKERS active (on request)  
+AR203  
 
 
 ## SPINS
