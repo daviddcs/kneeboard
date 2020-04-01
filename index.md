@@ -94,6 +94,60 @@ CHAFF - 60 | FLARE - 60
 
 ## STEERPOINTS
 
+---  												
+###	BE	BULLSEYE MARY	N	25	16,863	  -  	E	055	52,960		GEOREF	
+												
+---  												
+												
+---  												
+###	01	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
+#####	FUEL:	12103	BINGO:	11603	ALT:		52	MACH:	0			
+#####					WALK:		18:00:00	T/OT:		18:44:00	VUL:	00:44:00
+												
+												
+---  												
+###	02	TRANSIT	N	23	57,942	  -  	E	054	47,701			
+#####	DIST:	022,6  NM	BINGO:	11309	ALT:		15.0 M	MACH:	240			
+#####	HDG:	139°	GS:	300	ETE:		00:04:31	TOT:		18:48:31		
+												
+												
+---  												
+###	03	RGN9_NW	N	23	45,311	  -  	E	054	47,148			
+#####	DIST:	012,6  NM	BINGO:	8078	ALT:		25.0 M	MACH:	204			
+#####	HDG:	181°	GS:	302	ETE:		00:02:31	TOT:		18:51:02	VUL:	00:45:00
+												
+												
+---  												
+###	04	RGN9_SW	N	22	23,687	  -  	E	054	02,178			
+#####	DIST:	000,0  NM	BINGO:	8078	ALT:		25.0 M	MACH:	204			
+#####	HDG:	206°	GS:	00	ETE:		00:00:00	TOT:		19:54:21		
+												
+												
+---  												
+###	05	RGN9_SE	N	22	26,241	  -  	E	056	12,227			
+#####	DIST:	000,0  NM	BINGO:	8078	ALT:		25.0 M	MACH:	204			
+#####	HDG:	087°	GS:	00	ETE:		00:00:00	TOT:		20:18:25		
+												
+												
+---  												
+###	06	RGN9_NE	N	23	46,322	  -  	E	056	11,674			
+#####	DIST:	000,0  NM	BINGO:	8078	ALT:		25.0 M	MACH:	204			
+#####	HDG:	358°	GS:	00	ETE:		00:00:00	TOT:		20:34:27		
+												
+												
+---  												
+###	07	RGN9_CLOSE	N	23	45,513	  -  	E	054	47,259			
+#####	DIST:	000,0  NM	BINGO:	8078	ALT:		25.0 M	MACH:	204			
+#####	HDG:	268°	GS:	00	ETE:		00:00:00	TOT:		20:49:55		
+												
+												
+---  												
+###	08	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
+#####	DIST:	033,0  NM	BINGO:	7583	ALT:		1.5 A	MACH:	291			
+#####	HDG:	334°	GS:	300	ETE:		00:06:36	TOT:		20:56:31		
+												
+
+
 ### MDC DOC
 [MDC](/XXX.pdf)
 
