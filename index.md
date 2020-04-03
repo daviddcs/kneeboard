@@ -4,170 +4,69 @@
 - | - 
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
-## Objective
-  
-Exercise 1: Reporting and sorting  
-1. WM offset from FL  
-2. "FIGHTS ON" and turn in  
-3. Once target acquired, report and bug target  
-"ANGRY 8-2 contact BRAA" [Bearing][Range][Altitude][Aspect]  
-#2should report acquisition and target bug. Follow the  
-standard timeline  
-"2, sorted left"  
-Once happy, we move on to Exercise 2.  
-  
-Exercise 2 - Long range shoot and notch  
-1.WM offset from FL  
-2. "FIGHTS ON" and turn in  
-3. Acquire, report, sort  
-4. Shoot, then crank until pitbull.  
-4.1 Both pilots to concentrate on maintaining flight parameters  
-4.2 Both pilots concentrate on maintaining a weapons until pitbul.  
-4.3 Supporting fighter to maintain correct formation positioning.  
-5.4 At pitbull, plan ABORT  
-Once happy, we move on to Exercise 3.  
-  
-Exercise 3 – CAP (2vs 1 or 2)  
-1. Training flight offset from Aggressor  
-2. "FIGHTS ON" and turn in  
-3. Pincer at FL’s discretion  
-4. Acquire, report, sort  
-5. Follow the standard timeline.  
-
-## DART 9 - TR8220
+## ANGRY 2 - TR8240
 
 ---
+Flight Lead: NECK  
+WM2: DAVID  
 
-Flight Lead: DAVID  
-
-
-
-TACAN: 51Y-114  
-SQK: 3610  
-PRF: 1741  
-SADL:   
-BINGO: 3500  
+TACAN: 53-116Y  
+SQK: 3400  
+PRF: 1561  
+BINGO: 3000    
 JOKER: 4000  
 DEPARTURE: SPACE 20S  
 REJOIN: STD  
 
 ---
 ## FLIGHTPLAN
-VFR EAST FOR RGN9 1840Z  
-RGN9 SUPPORTING ROGUE  
-REC. FROM EAST 2045Z  
+- Aggressor duty Range 12.
 
 ---
 ## LOADOUT
 
 left | right
 ----- | -----
-S1 - AIM120B | S9 - AIM120B
-S2 - AIM-9X | S8 - AIM120B
-S3 - - | S7 - -
-S4 - TANK 370 | S6 - TANK 370
+S1 - AIM120C | S9 - AIM120C
+S2 - AIM-9X | S8 - AIM-9X
+S3 - AIM120C | S7 - AIM120C
+S4 - - | S6 - -
 S5L - - | S5R - -
-S5 - - | SGUN - DRY
+S5 - TANK 300 | SGUN - DRY
 CHAFF - 60 | FLARE - 60
 
 ---
 
 ## COMMS
 
-#### FL PRIMARY / M-UHF-1 / PURPLE8 / 237.500 / AMPN:PROGRAM
-#### FL SECONDARY / M-VHF-1 / MAROON2 / 38.0 / AMPN:PROGRAM
-#### AL DAHFRA GND / VHF-2 / LIME2 / 126.100 / AMPN:
+#### FL PRIMARY / M-UHF-1 / VIOLET4 / 232.500 / AMPN:PROGRAM
+#### FL SECONDARY / M-VHF-1 / WHITE11 / 235.0 / AMPN:PROGRAM
+#### PACKAGE FREQ / UHF-17 / ORANGE2 / 242.250 / AMPN:
 #### AL DAHFRA TWR / VHF-3 / AL DAHFRA TWR / 126.200 / AMPN:
 #### AL DAHFRA TMA / VHF-4 / RED4 / 127.100 / AMPN:
 #### AL DAHFRA ATIS / N/A / AL DAHFRA ATIS / 126.400 / AMPN:
-#### ATR PRI RANGE 9 / UHF-14 / LEMON7 / 236.500 / AMPN:
+#### ATR PRI RANGE 12 / UHF-17 / ORANGE2 / 242.250 / AMPN:
 #### AL MINHAD TWR / VHF-19 / AL MINHAD TWR / 121.200 / AMPN:
+#### ATR SEC RANGE 12 / N/A / COPPER10 / 133.700 / AMPN:
 #### AL MINHAD ATIS / N/A / AL MINHAD ATIS / 121.400 / AMPN:
 #### CHECK IN / UHF-2 / BLUE3 / 237.0 / AMPN:EXPECT THRUOUT
 #### ATR IN FLT RPT / UHF-5 / OCHRE9 / 234.0 / AMPN:
 #### Al Ain TWR / VHF-18 / Al Ain TWR / 119.200 / AMPN:
-#### ARCO / VHF-11 / OLIVE10 / 151.000 / AMPN:
+#### Tanker: / VHF-11 / OLIVE10 / 151.000 / AMPN:
 #### RANGE9W - FL200 - 39X - KC135 /  /  /  / AMPN:
-
----
 
 
 ## STEERPOINTS
 
----  												
-###	BE	BULLSEYE MARY	N	25	16,863	  -  	E	055	52,960		GEOREF	
-												
----  												
-												
----  												
-###	01	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
-#####	FUEL:	12103	BINGO:	11603	ALT:		52	MACH:	0			
-#####					WALK:		18:00:00	T/OT:		18:44:00	VUL:	00:44:00
-												
-												
----  												
-###	02	TRANSIT	N	23	57,942	  -  	E	054	47,701			
-#####	DIST:	022,6  NM	BINGO:	11309	ALT:		15.0 M	MACH:	240			
-#####	HDG:	139°	GS:	300	ETE:		00:04:31	TOT:		18:48:31		
-												
-												
----  												
-###	03	RGN9_NW	N	23	45,311	  -  	E	054	47,148			
-#####	DIST:	012,6  NM	BINGO:	8078	ALT:		25.0 M	MACH:	204			
-#####	HDG:	181°	GS:	302	ETE:		00:02:31	TOT:		18:51:02	VUL:	00:45:00
-												
-												
----  												
-###	04	RGN9_SW	N	22	23,687	  -  	E	054	02,178			
-	
-												
-												
----  												
-###	05	RGN9_SE	N	22	26,241	  -  	E	056	12,227			
-		
-												
-												
----  												
-###	06	RGN9_NE	N	23	46,322	  -  	E	056	11,674			
-	
-												
-												
----  												
-###	07	RGN9_CLOSE	N	23	45,513	  -  	E	054	47,259			
-		
-												
-												
----  												
-###	08	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
-#####	DIST:	033,0  NM	BINGO:	7583	ALT:		1.5 A	MACH:	291			
-#####	HDG:	334°	GS:	300	ETE:		00:06:36	TOT:		20:56:31		
-												
-
-
 ### MDC DOC
 [MDC](/XXX.pdf)
 
-![AO](--E10.PNG)
+![A10](/FLIPS/BB_VFR_OMFJ_GND.png)
 
 ## METAR: 
-Expect light winds from NW, scattered clouds at 9,000 ft  
 
 #### NOTAM: 
-Ranges/Airspace in use  
-- MOA 1: ODIN  
-- MOA 2: AXE  
-- MOA 3: A-G training (CAS/AR/JTAC/AWACS) (Coordinated by @Neck)  
-- Range 2: RAZOR  
-- Range 4: SPEARHEAD  
-- Range 6: MISTY + JTAC WARRIOR  
-- Range 7: A-G training (CAS/AR/JTAC/AWACS) (Coordinated by @Neck)  
-- Range 9: ROGUE+DART  
-- Range 12: A-G training (CAS/AR/JTAC/AWACS) (Coordinated by @Neck)  
-- Range 13: VAMPIRE+MISFIT  
-- Range 14: A-G training (CAS/AR/JTAC/AWACS) (Coordinated by @Neck)  
-  
-TANKERS active (on request)  
-AR203  
+
 
 
 ## SPINS
@@ -176,6 +75,7 @@ AR203
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
+| B | L | A | C | K | H | O | R | S | E |
 | C | O | M | P | L | E | X | I | T | Y |
 
 ### BASE
