@@ -11,12 +11,10 @@
 Flight Lead: NECK  
 WM2: DAVID  
 
-
 TACAN: 53-116Y  
 SQK: 3400  
-PRF: 1561  
-SADL:   
-BINGO: 3500  
+PRF: 1561 
+BINGO: 3000  
 JOKER: 4000  
 DEPARTURE: SPACE 20S  
 REJOIN: STD  
@@ -60,16 +58,8 @@ CHAFF - 60 | FLARE - 60
 
 
 
-## STEERPOINTS
-
 ### MDC DOC
-[MDC](/XXX.pdf)
-
 ![A10](/FLIPS/BB_OMFJ_GND.png)
-
-## METAR: 
-
-#### NOTAM: 
 
 
 
@@ -108,12 +98,6 @@ CHAFF - 60 | FLARE - 60
 | WOUNDED BIRD | NANTUCKET |
 | FEET WET | OHIO |
 | FEET DRY | PHILIPPINES |
-
-
-## ROE:
-
-
-## Intel:
 
 
 
