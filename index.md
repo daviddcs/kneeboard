@@ -4,8 +4,6 @@
 - | - 
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
-## Objective
-#### 
 
 ## VIPER 1 - TR8250
 
@@ -18,7 +16,6 @@ WM2: DAVID
 TACAN: 62-125Y  
 SQK: 3070  
 PRF: 1732  
-SADL:   
 BINGO: 3000  
 JOKER: 4000  
 DEPARTURE: STD  
@@ -26,9 +23,9 @@ REJOIN: STD
 
 ---
 ## FLIGHTPLAN
-"- Ground alert CAS. 5-minute alert.
-- Range 16 for CAS in support of JTAC SPARTAN
-- RTB Al Dahfra OHB"
+- Ground alert CAS. 5-minute alert.  
+- Range 16 for CAS in support of JTAC SPARTAN  
+- RTB Al Dahfra OHB  
 
 ---
 ## LOADOUT
