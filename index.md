@@ -7,7 +7,7 @@
 ## Objective
 #### MQT CHECKOUT
 
-Two targets 12,7 BDL, 10LAHD
+Two targets 12,7 BDL, 10LAHD  
 One targets 12,6 LOC, 30HADB
 
 ## DODGE 2 - TR8272
