@@ -10,6 +10,8 @@
 Two targets 12,7 BDL, 10LAHD  
 One targets 12,6 LOC, 30HADB
 
+[BRIEF](132388.pdf)
+
 ## DODGE 2 - TR8272
 
 ---
