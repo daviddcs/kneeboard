@@ -106,7 +106,7 @@ CHAFF - 60 | FLARE - 60
 ###	06	Target	N	26	22,107	  -  	E	056	21,831			
 #####	DIST:	007,8  NM	BINGO:	9100	ALT:		1.5 A	MACH:	0,75			
 #####	HDG:	271°	GS:	503	ETE:		00:00:56	TOT:		19:17:29		
-												
+####	TGT ELEV. 7FT																						
 
 
 ### MDC DOC
