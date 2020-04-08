@@ -58,8 +58,13 @@ CHAFF - 60 | FLARE - 60
 #### ATR AA2 / N/A / GRAY2 / 248.0 / AMPN:
 #### ATR VHF C2 BACKUP / VHF-5 / INDIGO6 / 136.250 / AMPN:
 #### ATR SCRAMBLE / N/A / VIOLET10 / 228.250 / AMPN:
-#### Tanker: / N/A / OLIVE3 / 141.0 / AMPN:
+#### ARCO AR202 / N/A / OLIVE3 / 141.0 / AMPN:
 #### MOA3 WEST - FL200 - 48X - KC135 /  /  /  / AMPN:
+#### ARCO AR203 / N/A / MAROON11 / 140.0 / AMPN:
+#### OMAM NE 40NM - FL200 - 49X - KC135 /  /  /  / AMPN:
+
+---
+
 
 ---
 
