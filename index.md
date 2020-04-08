@@ -127,8 +127,10 @@ CHAFF - 60 | FLARE - 60
 ![Z](E20.png)
 
 ## METAR: 
-Calm winds from SE, clear skies.  
-Day mission.  
+Active runway 13  
+Wind from 115 at 5 knots, gusting  
+Altimeter QNH 29.99, QFE 29.94 inHg  
+Temperature 24 °C  
 
 #### NOTAM: 
 AWACS  
