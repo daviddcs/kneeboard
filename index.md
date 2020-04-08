@@ -116,9 +116,24 @@ CHAFF - 60 | FLARE - 60
 ![Z](E20.png)
 
 ## METAR: 
+Calm winds from SE, clear skies.  
+Day mission.  
 
 #### NOTAM: 
+AWACS  
+AWACS is manned to support scenario and part of the event. Depending on workload, will also monitor the following freqs:  
+- Check-in: 237.0 (BLUE 3). Check-in for all flights on the event.  
+- In flight Report Net: 234.000 (OCHRE 9). BDA reports /status reports.  
+- Air Request Net: 21.00 FM (OLIVE 11). Used for coordination between AWACS and JTACs/Ground Forces.  
+- VHF backup: 136.250 (INDIGO 6). Backup in case UHF radios are broken. (for everyone on the event)  
+  
+- AWACS: @Thumper  
 
+ATC  
+GND is manned and in use. 
+TWR and CNTRL is merged on TWR freq.  
+- GND: @Magnet  
+- TWR/CNTRL: @Shady  
 
 
 ## SPINS
