@@ -7,6 +7,9 @@
 ## Objective
 #### MQT CHECKOUT
 
+Two targets 12,7 BDL, 10LAHD
+One targets 12,6 LOC, 30HADB
+
 ## DODGE 2 - TR8272
 
 ---
@@ -118,7 +121,7 @@ CHAFF - 60 | FLARE - 60
 
 
 ### MDC DOC
-[MDC](/XXX.pdf)
+[MDC](MDC30.png)
 
 ![Z](E10.PNG)
 ![Z](E20.png)
