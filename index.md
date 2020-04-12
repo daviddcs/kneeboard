@@ -5,150 +5,51 @@
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
 ## Objective
-#### MQT CHECKOUT
+So, 1vs1 with focus on engaged offensive / defensive.  
+  
+Start line abreast, gentle right/left turn, placing the offensive fighter in trail, and then a fights on call after that. Some rounds, and then reverse.  
+  
+Focus on attack window entry and control zone.  
 
-Two targets 12,7 BDL, 10LAHD  
-One targets 12,6 LOC, 30HADB
+## NAME - MSN# - TIMEDATE
 
-[BRIEF](132388.pdf)
+FL: 
 
-## DODGE 2 - TR8272
+WM: 
 
----
+EL: 
 
-Flight Lead: DAVID  
-WM2: DOOM  
-
-
-TACAN: 63-126Y  
-SQK: 3760  
-PRF: 1651  
-BINGO: 3000  
-JOKER: 4000  
-DEPARTURE: 20SEC  
-REJOIN: STD  
-
----
-
-## FLIGHTPLAN
-VFR LUGAL2, INITAL FL200  
-RGN12 - MQT CHECK  
-RECV. ENTRY FROM NORTH.  
+EW: 
 
 
----
+## FP
+- IFR departure,  20 sec trail radar assist  
+- Range 9, 1vs1 BFM, Freq: R9 secondary freq. Will monitor Darkstar 237 throughout the training.  
+- ARCO, AR 201  
+- Range 09, 1vs1 BFM  
+- RTB IFR Al Dahfra, individual recoveries  (TACAN recoveries).  
+  
+
+** LOADOUT**  
+6x AIM9M, Centrefuel tank, guns per AC.  
+
+
 ## LOADOUT
 
-left | right
------ | -----
-S1 - AIM120C | S9 - AIM120C
-S2 - AIM-9X | S8 - AIM120C
-S3 - MK-82 SnakeEye | S7 - MK-82 SnakeEye
-S4 - TANK 370 | S6 - TANK 370
-S5L - - | S5R - -
-S5 - - | SGUN - DRY
-CHAFF - 60 | FLARE - 60
-
----
-
 ## COMMS
-
-#### FL PRIMARY / M-UHF-1 / VIOLET4 / 232.500 / AMPN:PROGRAM
-#### FL SECONDARY / M-VHF-1 / ORANGE5 / 117.750 / AMPN:PROGRAM
-#### AL DAHFRA GND / VHF-2 / LIME2 / 126.100 / AMPN:
-#### AL DAHFRA TWR / VHF-3 / AL DAHFRA TWR / 126.200 / AMPN:
-#### CHECK IN / UHF-2 / BLUE3 / 237.0 / AMPN:
-#### ATR IN FLT RPT / UHF-5 / OCHRE9 / 234.0 / AMPN:
-#### ATR PRI RANGE 12 / UHF-17 / ORANGE2 / 242.250 / AMPN:
-#### ATR SEC RANGE 12 / N/A / COPPER10 / 133.700 / AMPN:
-#### AL MINHAD TWR / VHF-19 / AL MINHAD TWR / 121.200 / AMPN:
-#### ATR AA1 / UHF-3 / ORANGE10 / 228.0 / AMPN:
-#### ATR AA2 / N/A / GRAY2 / 248.0 / AMPN:
-#### ATR VHF C2 BACKUP / VHF-5 / INDIGO6 / 136.250 / AMPN:
-#### ATR SCRAMBLE / N/A / VIOLET10 / 228.250 / AMPN:
-#### ARCO AR202 / N/A / OLIVE3 / 141.0 / AMPN:
-#### MOA3 WEST - FL200 - 48X - KC135 /  /  /  / AMPN:
-#### ARCO AR203 / N/A / MAROON11 / 140.0 / AMPN:
-#### OMAM NE 40NM - FL200 - 49X - KC135 /  /  /  / AMPN:
-
----
-
-
----
-
 
 
 ## STEERPOINTS
 
----  												
-###	BE	BULLSEYE AMBER	N	23	46,000	  -  	E	056	12,000		GEOREF	
-												
----  												
-												
----  												
-###	01	Al Dhafra AB	N	24	15,433	  -  	E	054	32,050			
-#####	FUEL:	12103	BINGO:	11603	ALT:		52	MACH:	0			
-#####					WALK:		18:00:46	T/OT:		18:50:46	VUL:	00:50:00
-												
-												
----  												
-###	02	PUSH - FLOT	N	25	00,286	  -  	E	055	28,038			
-#####	DIST:	067,9  NM	BINGO:	10856	ALT:		20.0 A	MACH:	0,7			
-#####	HDG:	047°	GS:	433	ETE:		00:09:24	TOT:		19:00:10		
-												
-												
----  												
-###	03	JUNCTION	N	25	07,275	  -  	E	055	55,663			
-#####	DIST:	026,0  NM	BINGO:	10466	ALT:		1.5 A	MACH:	0,6			
-#####	HDG:	073°	GS:	402	ETE:		00:03:53	TOT:		19:04:03		
-												
-												
----  												
-###	04	COAST	N	25	35,768	  -  	E	056	20,799			
-#####	DIST:	036,5  NM	BINGO:	9919	ALT:		1.5 A	MACH:	0,6			
-#####	HDG:	037°	GS:	399	ETE:		00:05:29	TOT:		19:09:32		
-												
-												
----  												
-###	05	IP - Southern tip	N	26	21,743	  -  	E	056	30,541			
-#####	DIST:	046,8  NM	BINGO:	9217	ALT:		1.5 A	MACH:	0,6			
-#####	HDG:	009°	GS:	400	ETE:		00:07:01	TOT:		19:16:33		
-												
-												
----  												
-###	06	Target	N	26	22,107	  -  	E	056	21,831			
-#####	DIST:	007,8  NM	BINGO:	9100	ALT:		1.5 A	MACH:	0,75			
-#####	HDG:	271°	GS:	503	ETE:		00:00:56	TOT:		19:17:29		
-####	TGT ELEV. 7FT																						
-
-
 ### MDC DOC
-![MDC](MDC30.png)
+[MDC](/XXX.pdf)
 
-![Z](E10.PNG)
-![Z](E20.png)
+![AO](--E10.PNG)
 
 ## METAR: 
-Active runway 13  
-Wind from 115 at 5 knots, gusting  
-Altimeter QNH 29.99, QFE 29.94 inHg  
-Temperature 24 °C  
 
 #### NOTAM: 
-AWACS  
-AWACS is manned to support scenario and part of the event. Depending on workload, will also monitor the following freqs:  
-- Check-in: 237.0 (BLUE 3). Check-in for all flights on the event.  
-- In flight Report Net: 234.000 (OCHRE 9). BDA reports /status reports.  
-- Air Request Net: 21.00 FM (OLIVE 11). Used for coordination between AWACS and JTACs/Ground Forces.  
-- VHF backup: 136.250 (INDIGO 6). Backup in case UHF radios are broken. (for everyone on the event)  
-  
-- AWACS: @Thumper  
 
-ATC  
-GND is manned and in use. 
-TWR and CNTRL is merged on TWR freq.  
-- GND: @Magnet  
-- TWR/CNTRL: @Shady  
 
 
 ## SPINS
@@ -158,8 +59,7 @@ TWR and CNTRL is merged on TWR freq.
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
-| L | U | M | B | E | R | J | A | C | K |
-
+| L | U | M | B | E | R | J | A | C | K |  
 
 ### BASE
 
@@ -190,13 +90,7 @@ TWR and CNTRL is merged on TWR freq.
 
 
 ## ROE:
-Positive enemy indications (X4 HOST.)  
-Lack of IFF (SPADES)  
-RWR correlation to known enemy unit  
-Visual ID to known enemy unit (VIS/EO)  
-Pattern/racetrack in known enemy territory  
-Point of Origin at enemy airfield or enemy territory (OUTLAW)  
-Conducting aerial refuelling  
+
 
 ## Intel:
 
