@@ -22,12 +22,12 @@ REM
 
 
 David 200408
-Summary: Overall nice job! Unfortunetly the dry pass defaults to U.
+Summary: Overall nice job! Unfortunately the dry pass defaults to U.
 Note all other IP checkpoints where ticked, and all needed for Q- is a coordinated low-lvl pop
 in a non-permissive enviroment. (not MQT-scenario)
 
 
-- Inital issues with victor frequency during startup.
+- Initial issues with victor frequency during startup.
 - Parrot sour on lineup, unsure cause.
 - Comm's issues switching UHF to Darkstar. (be more proactive)
 - Incorrect brevity MUD called instead of DIRT, also initial call w/o type.
