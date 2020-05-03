@@ -7,40 +7,25 @@
 ## Objective
 #### 
 
-## NAME - MSN# - TIMEDATE
-
-FL: 
-
-WM: 
-
-EL: 
-
-EW: 
+## VIPER 1 - MSN#SW8429 - 011840ZMAY2020
 
 
 ## FP
-
-
+- 20 sec trail departure 1830Z (NLT)
+- AAR ARCO (AR1202), 1840Z-1855Z
+- PUSH: 1905Z
+- SWEEP LAR and NORTHWEST from LAR in support of air assault package.
+- TARCAP NW of LAR
+- RTB Al Minhad
 
 ## LOADOUT
-
-## COMMS
-
-
-## STEERPOINTS
+4x AIM-120C, 2x AIM9X, full guns, 2xwingtanks per AC
 
 ### MDC DOC
 ![MDC10](/MDC_PAGES/MDC10.png)
 ![MDC20](/MDC_PAGES/MDC20.png)
 ![MDC30](/MDC_PAGES/MDC30.png)
 
-## METAR: 
-
-#### NOTAM: 
-
-
-
-## SPINS
 
 ### RAMROD
 
@@ -75,12 +60,6 @@ EW:
 | WOUNDED BIRD | NANTUCKET |
 | FEET WET | OHIO |
 | FEET DRY | PHILIPPINES |
-
-
-## ROE:
-
-
-## Intel:
 
 
 
