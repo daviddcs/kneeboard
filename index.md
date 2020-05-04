@@ -7,32 +7,48 @@
 ## Objective
 #### 
 
-## VIPER 1 - MSN#SW8429 - 011840ZMAY2020
+## NAME - MSN# - TIMEDATE
+
+FL: 
+
+WM: 
+
+EL: 
+
+EW: 
 
 
 ## FP
-- 20 sec trail departure 1830Z (NLT)
-- AAR ARCO (AR1202), 1840Z-1855Z
-- PUSH: 1905Z
-- SWEEP LAR and NORTHWEST from LAR in support of air assault package.
-- TARCAP NW of LAR
-- RTB Al Minhad
+
+
 
 ## LOADOUT
-4x AIM-120C, 2x AIM9X, full guns, 2xwingtanks per AC
+
+## COMMS
+
+
+## STEERPOINTS
 
 ### MDC DOC
-![MDC10](/MDC_PAGES/MDC10.png)
-![MDC20](/MDC_PAGES/MDC20.png)
-![MDC30](/MDC_PAGES/MDC30.png)
+[MDC](/XXX.pdf)
 
+![AO](--E10.PNG)
+
+## METAR: 
+
+#### NOTAM: 
+
+
+
+## SPINS
 
 ### RAMROD
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
-
+| L | U | M | B | E | R | J | A | C | K | --EVEN
+| C | O | M | P | L | E | X | I | T | Y | --ODD
 
 ### BASE
 
@@ -60,6 +76,12 @@
 | WOUNDED BIRD | NANTUCKET |
 | FEET WET | OHIO |
 | FEET DRY | PHILIPPINES |
+
+
+## ROE:
+
+
+## Intel:
 
 
 
