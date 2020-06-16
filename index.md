@@ -20,6 +20,8 @@ PRF: 1651
 BINGO: 3500  
 JOKER: 4500  
 DEPARTURE: 20SEC  
+ABvr: 168  
+MILvr:   
 REJOIN: STD  
 
 ---
@@ -69,7 +71,7 @@ CHAFF - 60 | FLARE - 60
 ###	BE	MADISON	N	26	51.000	  -  	E	056	39.000		GEOREF	
 												
 ---  												
-####	00	#N/A									#N/A	
+####	00  	
 #####  	FUEL:		12103		WALK:		7:20:00 am	T/O T:		7:40:00 am												
 												
 ---  												
