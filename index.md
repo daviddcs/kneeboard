@@ -6,12 +6,13 @@
 
 ## Objective
 #### 
-
 ## STING 5 - TR8272
 
 ---
 
 Flight Lead: DAVID  
+
+
 
 TACAN: 63-126Y  
 SQK: 3760  
@@ -20,13 +21,13 @@ PRF: 1651
 BINGO: 3500  
 JOKER: 4500  
 DEPARTURE: 20SEC  
-ABvr: 168  
+ABvr: 171  
 MILvr:   
 REJOIN: STD  
 
 ---
 ## FLIGHTPLAN
--
+
 
 ---
 ## LOADOUT
@@ -35,7 +36,7 @@ left | right
 ----- | -----
 S1 - AIM120C | S9 - AIM120C
 S2 - AIM-9X | S8 - AIM120C
-S3 - MK-84 | S7 - MK-84
+S3 - GBU-10 | S7 - GBU-10
 S4 - TANK 370 | S6 - TANK 370
 S5L - - | S5R - -
 S5 - - | SGUN - SAPHEI
@@ -64,72 +65,54 @@ CHAFF - 60 | FLARE - 60
 ---
 
 
-## STEERPOINTS
 ---  												
 ###	BE	MADISON	N	26	51.000	  -  	E	056	39.000		GEOREF	
 												
 ---  												
-####	00  	
-#####  	FUEL:		12103		WALK:		7:20:00 am	T/O T:		7:40:00 am												
+####	00
+#####  	FUEL:		12103		WALK:		3:20:00 am	T/O T:		3:40:00 am		
+											
 												
 ---  												
 ###	01	Al Dhafra AB	N	24	15.433	  -  	E	054	32.050			
 #####	FUEL:	12,103 	BINGO:	11603	ALT:		1,845	MACH:				
-#####					WALK:		07:20:00	T/OT:		07:40:00	VUL:	00:20:00
+#####					WALK:		03:20:00	T/OT:		03:40:00	VUL:	00:20:00
 												
 												
 ---  												
 ###	02	1	N	25	13.048	  -  	E	054	23.627			
 #####	DIST:	058.2  NM	BINGO:	10847	ALT:		15.0 M	MACH:	0.64			
-#####	HDG:	351°	GS:	405	ETE:		00:08:37	TOT:		07:48:37		
+#####	HDG:	351°	GS:	405	ETE:		00:08:37	TOT:		03:48:37		
 												
 												
 ---  												
-###	03	DELAWARE	N	26	05.159	  -  	E	054	44.311			
-#####	DIST:	055.4  NM	BINGO:	10072	ALT:		3.5 M	MACH:	0.7			
-#####	HDG:	018°	GS:	462	ETE:		00:07:12	TOT:		07:55:49		
+###	03	DELAWARE	N	26	31.579	  -  	E	054	36.480			
+#####	DIST:	079.4  NM	BINGO:	9735	ALT:		3.5 M	MACH:	0.7			
+#####	HDG:	006°	GS:	462	ETE:		00:10:19	TOT:		03:58:56		
 												
 												
 ---  												
-###	04	IP	N	26	31.081	  -  	E	054	42.308			
-#####	DIST:	026.0  NM	BINGO:	9682	ALT:		0.2 A	MACH:	0.69			
-#####	HDG:	354°	GS:	461	ETE:		00:03:23	TOT:		07:59:12		
+###	04	IP	N	26	48.285	  -  	E	054	18.713			
+#####	DIST:	023.1  NM	BINGO:	9504	ALT:		25.0 M	MACH:	0.7			
+#####	HDG:	314°	GS:	426	ETE:		00:03:15	TOT:		04:02:11		
 												
 												
 ---  												
-###	05	T7 057	N	26	36.895	  -  	E	054	55.200			
-#####	DIST:	012.9  NM	BINGO:	9488	ALT:		0.0 A	MACH:	0.76			
-#####	HDG:	061°	GS:	506	ETE:		00:01:32	TOT:		08:00:44		
+###	05	T8	N	27	01.039	  -  	E	054	18.294			
+#####	DIST:	012.8  NM	BINGO:	9313	ALT:		0.0 A	MACH:	0.7			
+#####	HDG:	356°	GS:	464	ETE:		00:01:39	TOT:		04:03:50		
 												
 												
 ---  												
 ###	06	GEORGIA	N	26	12.978	  -  	E	055	29.114			
-#####	DIST:	038.7  NM	BINGO:	9101	ALT:		25.0 M	MACH:	0.7			
-#####	HDG:	126°	GS:	426	ETE:		00:05:27	TOT:		08:06:11		
+#####	DIST:	079.5  NM	BINGO:	8517	ALT:		25.0 M	MACH:	0.7			
+#####	HDG:	125°	GS:	425	ETE:		00:11:13	TOT:		04:15:03		
 												
 												
 ---  												
-###	07	MMR	N	25	38.014	  -  	E	056	05.369			
-#####	DIST:	047.8  NM	BINGO:	8622	ALT:		25.0 M	MACH:	0.7			
-#####	HDG:	135°	GS:	426	ETE:		00:06:44	TOT:		08:12:55		
-												
-												
----  												
-###	08	CORRIDOR EXIT	N	24	32.287	  -  	E	055	12.873			
-#####	DIST:	081.2  NM	BINGO:	7811	ALT:		25.0 M	MACH:	0.7			
-#####	HDG:	214°	GS:	425	ETE:		00:11:27	TOT:		08:24:22		
-												
-												
----  												
-###	09	ELEVATOR	N	24	24.256	  -  	E	054	54.010			
-#####	DIST:	019.0  NM	BINGO:	7621	ALT:		25.0 M	MACH:	0.64			
-#####	HDG:	243°	GS:	390	ETE:		00:02:55	TOT:		08:27:17		
-												
-												
----  												
-###	10	Al Dhafra AB	N	24	15.433	  -  	E	054	32.050			
-#####	DIST:	021.9  NM	BINGO:	7293	ALT:		1.5 A	MACH:	0.64			
-#####	HDG:	245°	GS:	426	ETE:		00:03:05	TOT:		08:30:22		
+###	07	Al Minhad AB	N	25	01.600	  -  	E	055	23.017			
+#####	DIST:	071.6  NM	BINGO:	7443	ALT:		1.5 A	MACH:	350			
+#####	HDG:	183°	GS:	361	ETE:		00:11:54	TOT:		04:26:57		
 												
 
 ### MDC DOC
