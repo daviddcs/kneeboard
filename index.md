@@ -48,7 +48,6 @@ CHAFF - 60 | FLARE - 60
 
 #### FL PRIMARY / M-UHF-1 / PURPLE7 / 236.0 / AMPN:PROGRAM
 #### FL SECONDARY / M-VHF-1 / INDIGO2 / 119.750 / AMPN:PROGRAM
-#N/A
 #### AL DAHFRA GND / VHF-2 / LIME2 / 126.100 / AMPN:
 #### AL DAHFRA TWR / VHF-3 / AL DAHFRA TWR / 126.200 / AMPN:
 #### AL DAHFRA PAR / N/A / AL DAHFRA PAR / 126.300 / AMPN:
@@ -58,11 +57,8 @@ CHAFF - 60 | FLARE - 60
 #### AL MINHAD PAR / N/A / AL MINHAD PAR / 121.300 / AMPN:
 #### AL MINHAD ATIS / N/A / AL MINHAD ATIS / 121.400 / AMPN:
 #### WIZARD / N/A / BLUE8 / 226.250 / AMPN:
-#N/A
-#N/A
-#N/A
-#N/A
-#N/A
+
+
 
 ---
 
@@ -74,7 +70,7 @@ CHAFF - 60 | FLARE - 60
 ---  												
 ####	00	#N/A									#N/A	
 #####  	FUEL:		9166		WALK:		6:00:00 pm	T/O T:		6:20:00 pm		
-#N/A	#N/A											
+										
 												
 ---  												
 ###	01	Al Dhafra AB	N	24	15.433	  -  	E	054	32.050			
