@@ -4,9 +4,7 @@
 - | - 
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
-## Objective
-#### 
-## STING 5 - TR8272
+## ROUGE 2 - TR8768
 
 ---
 
@@ -14,20 +12,22 @@ Flight Lead: DAVID
 
 
 
-TACAN: 63-126Y  
-SQK: 3760  
-PRF: 1651  
+TACAN: 62-125Y  
+SQK: 3330  
+PRF: 1611  
 
 BINGO: 3500  
 JOKER: 4500  
 DEPARTURE: 20SEC  
-ABvr: 171  
+ABvr: 158  
 MILvr:   
 REJOIN: STD  
 
 ---
 ## FLIGHTPLAN
-
+"VFR N, TC-CARA
+RGN12
+REC FROM NORTH VIA CARA"
 
 ---
 ## LOADOUT
@@ -35,92 +35,122 @@ REJOIN: STD
 left | right
 ----- | -----
 S1 - AIM120C | S9 - AIM120C
-S2 - AIM-9X | S8 - AIM120C
-S3 - GBU-10 | S7 - GBU-10
-S4 - TANK 370 | S6 - TANK 370
+S2 - AIM-9X | S8 - AN/ASQ-T50
+S3 - - | S7 - MK-84
+S4 - MK-84 | S6 - -
 S5L - - | S5R - -
-S5 - - | SGUN - SAPHEI
+S5 - TANK 300 | SGUN - SAPHEI
 CHAFF - 60 | FLARE - 60
 
 ---
 
 ## COMMS
 
-#### FL PRIMARY / M-UHF-1 / VIOLET4 / 232.500 / AMPN:PROGRAM
-#### FL SECONDARY / M-VHF-1 / ORANGE5 / 117.750 / AMPN:PROGRAM
-
-#### AL DAHFRA GND / N/A / LIME2 / 126.100 / AMPN:
-#### AL DAHFRA TWR / VHF-18 / AL DAHFRA TWR / 126.200 / AMPN:
+#### FL PRIMARY / M-UHF-1 / PURPLE7 / 236.0 / AMPN:PROGRAM
+#### FL SECONDARY / M-VHF-1 / INDIGO2 / 119.750 / AMPN:PROGRAM
+#N/A
+#### AL DAHFRA GND / VHF-2 / LIME2 / 126.100 / AMPN:
+#### AL DAHFRA TWR / VHF-3 / AL DAHFRA TWR / 126.200 / AMPN:
 #### AL DAHFRA PAR / N/A / AL DAHFRA PAR / 126.300 / AMPN:
 #### AL DAHFRA ATIS / N/A / AL DAHFRA ATIS / 126.400 / AMPN:
 #### AL MINHAD GND / N/A / YELLOW7 / 121.100 / AMPN:
-#### AL MINHAD TWR / VHF-3 / AL MINHAD TWR / 121.200 / AMPN:
+#### AL MINHAD TWR / VHF-19 / AL MINHAD TWR / 121.200 / AMPN:
 #### AL MINHAD PAR / N/A / AL MINHAD PAR / 121.300 / AMPN:
 #### AL MINHAD ATIS / N/A / AL MINHAD ATIS / 121.400 / AMPN:
 #### WIZARD / N/A / BLUE8 / 226.250 / AMPN:
-
-#### TEXACO11 / - / WHITE9 / 120.500 / AMPN:102Y BOOM
-
+#N/A
+#N/A
+#N/A
+#N/A
+#N/A
 
 ---
 
 
+## STEERPOINTS
 ---  												
-###	BE	MADISON	N	26	51.000	  -  	E	056	39.000		GEOREF	
+###	BE	BULLSEYE MARY	N	25	16.863	  -  	E	055	52.960		GEOREF	
 												
 ---  												
-####	00
-#####  	FUEL:		12103		WALK:		3:20:00 am	T/O T:		3:40:00 am		
-											
+####	00	#N/A									#N/A	
+#####  	FUEL:		9166		WALK:		6:00:00 pm	T/O T:		6:20:00 pm		
+#N/A	#N/A											
 												
 ---  												
 ###	01	Al Dhafra AB	N	24	15.433	  -  	E	054	32.050			
-#####	FUEL:	12,103 	BINGO:	11603	ALT:		1,845	MACH:				
-#####					WALK:		03:20:00	T/OT:		03:40:00	VUL:	00:20:00
+#####	FUEL:	9,166 	BINGO:	8666	ALT:		1,845	MACH:				
+#####					WALK:		18:00:00	T/OT:		18:20:00	VUL:	00:20:00
 												
 												
 ---  												
-###	02	1	N	25	13.048	  -  	E	054	23.627			
-#####	DIST:	058.2  NM	BINGO:	10847	ALT:		15.0 M	MACH:	0.64			
-#####	HDG:	351°	GS:	405	ETE:		00:08:37	TOT:		03:48:37		
+###	02	TCCARA_S	N	24	23.317	  -  	E	055	04.188			
+#####	DIST:	030.3  NM	BINGO:	8271	ALT:		15.0 M	MACH:	0.7			
+#####	HDG:	073°	GS:	444	ETE:		00:04:06	TOT:		18:24:06		
 												
 												
 ---  												
-###	03	DELAWARE	N	26	31.579	  -  	E	054	36.480			
-#####	DIST:	079.4  NM	BINGO:	9735	ALT:		3.5 M	MACH:	0.7			
-#####	HDG:	006°	GS:	462	ETE:		00:10:19	TOT:		03:58:56		
+###	03	TCCARA_N	N	25	00.209	  -  	E	055	24.629			
+#####	DIST:	041.3  NM	BINGO:	7734	ALT:		15.0 M	MACH:	0.7			
+#####	HDG:	025°	GS:	443	ETE:		00:05:36	TOT:		18:29:42		
 												
 												
 ---  												
-###	04	IP	N	26	48.285	  -  	E	054	18.713			
-#####	DIST:	023.1  NM	BINGO:	9504	ALT:		25.0 M	MACH:	0.7			
-#####	HDG:	314°	GS:	426	ETE:		00:03:15	TOT:		04:02:11		
+###	04	INGRESS	N	25	45.857	  -  	E	055	54.591			
+#####	DIST:	053.1  NM	BINGO:	6938	ALT:		0.0 A	MACH:	0.74			
+#####	HDG:	029°	GS:	493	ETE:		00:06:28	TOT:		18:36:10		
 												
 												
 ---  												
-###	05	T8 elev1082 	N	27	01.039	  -  	E	054	18.294			
-#####	DIST:	012.8  NM	BINGO:	9313	ALT:		0.0 A	MACH:	0.7			
-#####	HDG:	356°	GS:	464	ETE:		00:01:39	TOT:		04:03:50		
+###	05	IP	N	26	14.671	  -  	E	056	03.161			
+#####	DIST:	029.8  NM	BINGO:	6490	ALT:		0.0 A	MACH:	0.74			
+#####	HDG:	013°	GS:	495	ETE:		00:03:37	TOT:		18:39:47		
 												
 												
 ---  												
-###	06	GEORGIA	N	26	12.978	  -  	E	055	29.114			
-#####	DIST:	079.5  NM	BINGO:	8517	ALT:		25.0 M	MACH:	0.7			
-#####	HDG:	125°	GS:	425	ETE:		00:11:13	TOT:		04:15:03		
+###	06	T12.1	N	26	22.347	  -  	E	056	21.242			
+#####	DIST:	017.9  NM	BINGO:	6221	ALT:		0.2 M	MACH:	0.75			
+#####	HDG:	063°	GS:	497	ETE:		00:02:10	TOT:		18:41:57		
 												
 												
 ---  												
-###	07	Al Minhad AB	N	25	01.600	  -  	E	055	23.017			
-#####	DIST:	071.6  NM	BINGO:	7443	ALT:		1.5 A	MACH:	350			
-#####	HDG:	183°	GS:	361	ETE:		00:11:54	TOT:		04:26:57		
+###	07	EGRESS	N	26	08.061	  -  	E	056	29.272			
+#####	DIST:	016.0  NM	BINGO:	5981	ALT:		0.2 M	MACH:	0.75			
+#####	HDG:	151°	GS:	501	ETE:		00:01:55	TOT:		18:43:52		
 												
+												
+---  												
+###	08	RTB	N	25	20.880	  -  	E	056	16.217			
+#####	DIST:	048.7  NM	BINGO:	5348	ALT:		15.0 M	MACH:	0.7			
+#####	HDG:	192°	GS:	443	ETE:		00:06:35	TOT:		18:50:27		
+												
+												
+---  												
+###	09	Al Dhafra AB	N	24	15.433	  -  	E	054	32.050			
+#####	DIST:	115.1  NM	BINGO:	3852	ALT:		15.0 A	MACH:	0.64			
+#####	HDG:	234°	GS:	405	ETE:		00:17:04	TOT:		19:07:31		
+												
+
 
 ### MDC DOC
-[MDC](/XXX.pdf)
-
-![AO](--E10.PNG)
+TYPE:	30 LALD MSL  
+OFFSET DIST:	4,5 NM AB  
+OFFSET°:	40°  
+PULL-UP°:	40°  
+ROLL-IN ALT:	7,500  
+APEX ALT:	8,500  
+DIVE°:	30°  
+RELEASE AIRSPEED:	450 KCAS  
+PRA:	3,100  
+MRA:	2,500  
+FOUL ALT:	1,500  
+  
+  
 
 ## METAR: 
+
+Calm wind from SW
+Active RW 31
+
 
 #### NOTAM: 
 
@@ -132,7 +162,8 @@ CHAFF - 60 | FLARE - 60
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| B | L | A | C | K | H | O | R | S | E |  
+| B | L | A | C | K | H | O | R | S | E |
+| C | O | M | P | L | E | X | I | T | Y |
 
 ### BASE
 
