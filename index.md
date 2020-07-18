@@ -4,17 +4,25 @@
 - | - 
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
-## ROUGE 2 - TR8768
+## Objective
+#### 
+
+Confirmed Anti-Air Threats: ZSU-23-4 Shilka, SA-15, SA-19, SA-6 Kub Battery  
+Confirmed Air Threats: Mig-21Bis, Mig-29A   
+Possible Air Threats: Su-27, F-14B  
+
+
+## INQUISITOR 1 - SW8813
 
 ---
 
 Flight Lead: DAVID  
+WM2: LONGSHOT  
 
 
-
-TACAN: 62-125Y  
-SQK: 3330  
-PRF: 1611  
+TACAN: 55-118Y  
+SQK: 3071-72  
+PRF: 1581  
 
 BINGO: 3500  
 JOKER: 4500  
@@ -25,9 +33,8 @@ REJOIN: STD
 
 ---
 ## FLIGHTPLAN
-"VFR N, TC-CARA
-RGN12
-REC FROM NORTH VIA CARA"
+"T/O 1828Z DIR TONVO.
+REC. SI ILS 27."
 
 ---
 ## LOADOUT
@@ -35,121 +42,137 @@ REC FROM NORTH VIA CARA"
 left | right
 ----- | -----
 S1 - AIM120C | S9 - AIM120C
-S2 - AIM-9X | S8 - AN/ASQ-T50
-S3 - - | S7 - MK-84
-S4 - MK-84 | S6 - -
+S2 - AIM-9X | S8 - AIM120C
+S3 - AIM120C | S7 - AIM120C
+S4 - TANK 370 | S6 - TANK 370
 S5L - - | S5R - -
-S5 - TANK 300 | SGUN - SAPHEI
+S5 - - | SGUN - SAPHEI
 CHAFF - 60 | FLARE - 60
 
 ---
 
 ## COMMS
 
-#### FL PRIMARY / M-UHF-1 / PURPLE7 / 236.0 / AMPN:PROGRAM
-#### FL SECONDARY / M-VHF-1 / INDIGO2 / 119.750 / AMPN:PROGRAM
-#### AL DAHFRA GND / VHF-2 / LIME2 / 126.100 / AMPN:
-#### AL DAHFRA TWR / VHF-3 / AL DAHFRA TWR / 126.200 / AMPN:
-#### AL DAHFRA PAR / N/A / AL DAHFRA PAR / 126.300 / AMPN:
-#### AL DAHFRA ATIS / N/A / AL DAHFRA ATIS / 126.400 / AMPN:
-#### AL MINHAD GND / N/A / YELLOW7 / 121.100 / AMPN:
-#### AL MINHAD TWR / VHF-19 / AL MINHAD TWR / 121.200 / AMPN:
-#### AL MINHAD PAR / N/A / AL MINHAD PAR / 121.300 / AMPN:
-#### AL MINHAD ATIS / N/A / AL MINHAD ATIS / 121.400 / AMPN:
-#### WIZARD / N/A / BLUE8 / 226.250 / AMPN:
-
+#### FL PRIMARY / - / WHITE5 / 237.250 / AMPN:PROGRAM
+#### FL SECONDARY / - / VIOLET8 / 129.250 / AMPN:PROGRAM
+#### AL MINHAD GND / - / YELLOW7 / 121.100 / AMPN:
+#### AL MINHAD TWR / - / AL MINHAD TWR / 121.200 / AMPN:
+#### AL MINHAD ATIS / - / AL MINHAD ATIS / 121.400 / AMPN:
+#### CHECK IN / - / GREEN7 / 231.500 / AMPN:
+#### MAGIC / - / GRAY2 / 248.0 / AMPN:EXPECTED THRU
+#### OVERLORD / - / GRAY6 / 235.250 / AMPN:
+#### CSAR / - / PINK1 / 233.0 / AMPN:
+#### IN-FLT RPT / - / ORANGE10 / 228.0 / AMPN:
+#### ALERT / - / GREEN6 / 248.750 / AMPN:
+#### C2-BACKUP / - / GRAY10 / 122.250 / AMPN:
+#### TEXACO 21 / - / WHITE9 / 120.500 / AMPN:ANGELS-22,13Y
 
 
 ---
 
 
 ## STEERPOINTS
+
 ---  												
-###	BE	BULLSEYE MARY	N	25	16.863	  -  	E	055	52.960		GEOREF	
+###	BE	Bullseye - Exhaust-Port	N	26	10.000	  -  	E	056	14.000		GEOREF	
 												
 ---  												
 ####	00	#N/A									#N/A	
-#####  	FUEL:		9166		WALK:		6:00:00 pm	T/O T:		6:20:00 pm		
-										
+#####  	FUEL:		12103		WALK:		6:00:00 pm	T/O T:		6:28:00 pm												
 												
 ---  												
-###	01	Al Dhafra AB	N	24	15.433	  -  	E	054	32.050			
-#####	FUEL:	9,166 	BINGO:	8666	ALT:		1,845	MACH:				
-#####					WALK:		18:00:00	T/OT:		18:20:00	VUL:	00:20:00
-												
-												
----  												
-###	02	TCCARA_S	N	24	23.317	  -  	E	055	04.188			
-#####	DIST:	030.3  NM	BINGO:	8271	ALT:		15.0 M	MACH:	0.7			
-#####	HDG:	073°	GS:	444	ETE:		00:04:06	TOT:		18:24:06		
+###	01	Al Minhad AB	N	25	01.600	  -  	E	055	23.017			
+#####	FUEL:	12,103 	BINGO:	11603	ALT:		1,845	MACH:				
+#####					WALK:		18:00:00	T/OT:		18:28:00	VUL:	0:28:00
 												
 												
 ---  												
-###	03	TCCARA_N	N	25	00.209	  -  	E	055	24.629			
-#####	DIST:	041.3  NM	BINGO:	7734	ALT:		15.0 M	MACH:	0.7			
-#####	HDG:	025°	GS:	443	ETE:		00:05:36	TOT:		18:29:42		
+###	02	TONVO	N	25	05.000	  -  	E	056	32.000			
+#####	DIST:	062.6  NM	BINGO:	10977	ALT:		26.0 M	MACH:	0.65			
+#####	HDG:	085°	GS:	394	ETE:		00:09:32	TOT:		18:37:32		
 												
 												
 ---  												
-###	04	INGRESS	N	25	45.857	  -  	E	055	54.591			
-#####	DIST:	053.1  NM	BINGO:	6938	ALT:		0.0 A	MACH:	0.74			
-#####	HDG:	029°	GS:	493	ETE:		00:06:28	TOT:		18:36:10		
+###	03	TATOOINE	N	25	04.856	  -  	E	056	50.062			
+#####	DIST:	016.4  NM	BINGO:	10813	ALT:		26.0 M	MACH:	0.65			
+#####	HDG:	089°	GS:	393	ETE:		00:02:30	TOT:		18:40:02		
+####	PUSH POINT											
+												
+---  												
+###	04	3_SWEEP	N	25	55.921	  -  	E	057	29.957			
+#####	DIST:	062.5  NM	BINGO:	10188	ALT:		26.0 M	MACH:	0.65			
+#####	HDG:	033°	GS:	394	ETE:		00:09:31	TOT:		18:49:33		
 												
 												
 ---  												
-###	05	IP	N	26	14.671	  -  	E	056	03.161			
-#####	DIST:	029.8  NM	BINGO:	6490	ALT:		0.0 A	MACH:	0.74			
-#####	HDG:	013°	GS:	495	ETE:		00:03:37	TOT:		18:39:47		
+###	05	4_SWEEP	N	25	58.802	  -  	E	058	01.337			
+#####	DIST:	028.4  NM	BINGO:	9904	ALT:		26.0 M	MACH:	0.65			
+#####	HDG:	083°	GS:	393	ETE:		00:04:20	TOT:		18:53:53		
 												
 												
 ---  												
-###	06	T12.1	N	26	22.347	  -  	E	056	21.242			
-#####	DIST:	017.9  NM	BINGO:	6221	ALT:		0.2 M	MACH:	0.75			
-#####	HDG:	063°	GS:	497	ETE:		00:02:10	TOT:		18:41:57		
+###	06	5_SWEEP	N	25	30.538	  -  	E	058	12.165			
+#####	DIST:	029.9  NM	BINGO:	9605	ALT:		26.0 M	MACH:	0.65			
+#####	HDG:	160°	GS:	395	ETE:		00:04:33	TOT:		18:58:26		
 												
 												
 ---  												
-###	07	EGRESS	N	26	08.061	  -  	E	056	29.272			
-#####	DIST:	016.0  NM	BINGO:	5981	ALT:		0.2 M	MACH:	0.75			
-#####	HDG:	151°	GS:	501	ETE:		00:01:55	TOT:		18:43:52		
+###	07	6_CAP	N	25	16.463	  -  	E	057	36.144			
+#####	DIST:	035.5  NM	BINGO:	5203	ALT:		26.0 M	MACH:	0.65			
+#####	HDG:	245°	GS:	393	ETE:		00:05:25	TOT:		19:03:51	VUL:	0:57:00
 												
 												
 ---  												
-###	08	RTB	N	25	20.880	  -  	E	056	16.217			
-#####	DIST:	048.7  NM	BINGO:	5348	ALT:		15.0 M	MACH:	0.7			
-#####	HDG:	192°	GS:	443	ETE:		00:06:35	TOT:		18:50:27		
+###	08	TONVO	N	25	05.000	  -  	E	056	32.000			
+#####	DIST:	059.2  NM	BINGO:	4611	ALT:		26.0 M	MACH:	0.65			
+#####	HDG:	258°	GS:	54	ETE:		01:06:01	TOT:		20:09:52		
 												
 												
 ---  												
-###	09	Al Dhafra AB	N	24	15.433	  -  	E	054	32.050			
-#####	DIST:	115.1  NM	BINGO:	3852	ALT:		15.0 A	MACH:	0.64			
-#####	HDG:	234°	GS:	405	ETE:		00:17:04	TOT:		19:07:31		
+###	09	Al Minhad AB	N	25	01.600	  -  	E	055	23.017			
+#####	DIST:	062.6  NM	BINGO:	3734	ALT:		1.5 A	MACH:	382			
+#####	HDG:	266°	GS:	393	ETE:		00:09:33	TOT:		20:19:25		
 												
-
+												
+---  												
+###	10	Fujairah Intl	N	25	06.333	  -  	E	056	20.417			
+#####	DIST:	052.2  NM	BINGO:	3003	ALT:		1.5 A	MACH:	383			
+#####	HDG:	083°	GS:	394	ETE:		00:07:57	TOT:		20:27:22		
+####	DIVERT											
 
 ### MDC DOC
-TYPE:	30 LALD MSL  
-OFFSET DIST:	4,5 NM AB  
-OFFSET°:	40°  
-PULL-UP°:	40°  
-ROLL-IN ALT:	7,500  
-APEX ALT:	8,500  
-DIVE°:	30°  
-RELEASE AIRSPEED:	450 KCAS  
-PRA:	3,100  
-MRA:	2,500  
-FOUL ALT:	1,500  
-  
-  
+[MDC](/XXX.pdf)
+
+![AO](--E10.PNG)
 
 ## METAR: 
-
-Calm wind from SW
-Active RW 31
+CJTF101 021655Z 0218/0316 31015KT 9999 NSC  
+BECMG 0300/0306 20005KT  
+PROB40 0302/0306 3000 BR BKN004  
+PROB30 TEMPO 0300/0305 0500 FG BKN001  
+BECMG 0308/0310 32012KT  
+BECMG 0316/0316 VRB02KT  
 
 
 #### NOTAM: 
+OPBH01/01  
+CVN-73 tanker ARCO (S-3B) is only to be used in case of bolters.
+Do not plan to AAR from ARCO, instead AAR from SHELL prior to contacting mother.
+If ARCO AAR is required maximum uplift is 1,500 lbs for F/A-18C and 2,000 for F-14B.  
 
+
+OPBH01/02  
+As a contingency, a TACAN reset option is included in the F10 readio menu.
+Only use it if the CVN-73 TACAN is INOP.  
+
+
+OPBH01/03  
+ACLS system for F-14B is inop due to the latest update. Autolands are not available. ICLS remains operational.
+All CASE 3 recoveries must be hand flow with ICLS.  
+
+
+OPBH01/04  
+A-10C VHF AM presets are bugged from the last update. All frequencies will have to be manually tuned on that radio. The other radios work fine.  
 
 
 ## SPINS
@@ -158,39 +181,37 @@ Active RW 31
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| B | L | A | C | K | H | O | R | S | E |
-| C | O | M | P | L | E | X | I | T | Y |
+| B | I | N | O | C | U | L | A | R | S | 
 
 ### BASE
 
-| ALTITUDE | SPEED | HEADING | NUMBER| 
-| -------- | ----- | ------- | ----- | 
-| 5000ft AMSL | 300 Kts | 300 degrees | 5 |
+N/A
 
 ### CODEWORDS
 
 | MEANING | CODEWORD | 
 | ------- | -------- | 
-| ON STATION | ALABAMA | 
-| OFF STATION | BABYLON |
-| RTB | CHICAGO |
-| MISSION CANCEL | DENVER |
-| MISSION SUCCESSFUL| ERIE |
-| MISSION UNSUCCESSFUL| FRANKFURT |
-| ATTACK SUCCESSFUL | GEORGIA |
-| ATTACK UNSUCCESSFUL | HIGHLAND |
-| LAST OFF TARGET| ILLINOIS |
-| REATTACK | JAKARTA |
-| PUSHING | KENTUCKY |
-| ROLEX | LOUSVILLE |
-| REQUEST ROLEX| MEMPHIS|
-| WOUNDED BIRD | NANTUCKET |
-| FEET WET | OHIO |
-| FEET DRY | PHILIPPINES |
+| ON STATION | THRAWN | 
+| OFF STATION| CRYSTAL | 
+| RTB | FORCE | 
+| MISSION CANCEL | ROBES | 
+| MISSION SUCCESSFUL | STAR | 
+| MISSION UNSUCCESSFUL | KNIGHT | 
+| ATTACK SUCCESSFUL | FALCON | 
+| ATTACK UNSUCCESSFUL | MASTER | 
+| LAST OFF TARGET | PADAWAN | 
+| REATTACK | DEATH | 
+| PUSHING | DESTROYER | 
+| ROLEX | JAR JAR | 
+| REQUEST ROLEX | CARBONITE | 
+| WOUNDED BIRD | STORMTROOPER | 
+| FEET WET | DROID | 
+| FEET DRY | LIGHTNING | 
+
 
 
 ## ROE:
-
+N/A
 
 ## Intel:
 
