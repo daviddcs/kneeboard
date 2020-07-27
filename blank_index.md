@@ -46,11 +46,11 @@ EW:
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| B | L | A | C | K | H | O | R | S | E |
 | L | U | M | B | E | R | J | A | C | K | --EVEN
 | C | O | M | P | L | E | X | I | T | Y | --ODD
 | L | I | G | H | T | S | A | B | E | R | --EVEN OPBH
 | B | I | N | O | C | U | L | A | R | S | --ODD OPBH
+| B | L | A | C | K | H | O | R | S | E | --OPUF
 
 ### BASE
 
@@ -58,7 +58,7 @@ EW:
 | -------- | ----- | ------- | ----- | 
 | 5000ft AMSL | 300 Kts | 300 degrees | 5 |
 
-### CODEWORDS
+### CODEWORDS OPUF
 
 | MEANING | CODEWORD | 
 | ------- | -------- | 
