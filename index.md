@@ -58,7 +58,7 @@ EW:
 | -------- | ----- | ------- | ----- | 
 | 5000ft AMSL | 300 Kts | 300 degrees | 5 |
 
-### CODEWORDS
+### CODEWORDS OPUF
 
 | MEANING | CODEWORD | 
 | ------- | -------- | 
