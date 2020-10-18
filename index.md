@@ -4,30 +4,7 @@
 - | - 
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
-## Objective
-#### 
 
-## NAME - MSN# - TIMEDATE
-
-FL: 
-
-WM: 
-
-EL: 
-
-EW: 
-
-
-## FP
-
-
-
-## LOADOUT
-
-## COMMS
-
-
-## STEERPOINTS
 
 ### MDC DOC
 [MDC](/XXX.pdf)
@@ -35,10 +12,44 @@ EW:
 ![AO](--E10.PNG)
 
 ## METAR: 
+Wind from NW, few clouds
 
 #### NOTAM: 
 
+JTAC
+JTAC WOODPECKER - Range 14
+Supporting flights - AXE 2
 
+FLIGHTS
+WOLFPACK 1 - Range 16 AR
+SPEARHEAD 1 - Rejoin procedures, MOA1
+SPOOK 2 -
+ARSON 1 - WPN-01 Guns and Rockets Practice. Range 4. Deconflict with ARSON on range freq
+ROUGE 2 - SAT-04, please book a range
+PALADIN 1 - Range 10 with active SAM.
+RAZOR 2 - SCUD Hunt in Range 3.
+HAWG 1 -
+AXE 2 - Range 14, CAS
+BEAST 3 - Guns, rockets practice, Range 5. Deconflict with VIPER on range freq
+CHASER 4 - Range 16 AR
+BEAR 5 - COM-01
+KESTREL 6 - SCUD Hunt in range 3.
+VIPER 7 - range 5 for A-G derust. Deconflict with BEAST on range freq
+SATAN 7 - range 4 for A-G derust. Deconflict with ARSON on range freq
+KILLER 9 -
+
+RANGES
+Range 3 - KESTREL, RAZOR
+Range 4 - ARSON, SATAN
+Range 5 - VIPER, BEAST
+Range 6 - WOLFPACK, CHASER
+Range 10 - PALADIN
+Range 14 - CHASER
+MOA 1 - SPEARHEAD
+
+THREAT SITES
+Range 6 SA-19 , SA-8
+Range 10
 
 ## SPINS
 
@@ -48,15 +59,6 @@ EW:
 | - | - | - | - | - | - | - | - | - | - |
 | L | U | M | B | E | R | J | A | C | K |
 
-### BASE
-
-| ALTITUDE | SPEED | HEADING | NUMBER| 
-| -------- | ----- | ------- | ----- | 
-| 5000ft AMSL | 300 Kts | 300 degrees | 5 |
-
-
-
-## ROE:
 
 
 ## Intel:
