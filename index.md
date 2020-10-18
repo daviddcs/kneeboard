@@ -9,7 +9,7 @@
 ### MDC DOC
 [MDC](/XXX.pdf)
 
-![MDC HTML](http://mdc.hatchlane.com/templates/StandardDark/template.htm?kb=plEZcYsE)
+[MDC HTML](http://mdc.hatchlane.com/templates/StandardDark/template.htm?kb=plEZcYsE)
 
 ## METAR: 
 Wind from NW, few clouds
