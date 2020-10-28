@@ -4,13 +4,19 @@
 - | - 
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
-## GND
 
-![INC](5013.png)
-![ADA](5014.png)
 
 ### MDC DOC
-[MDC](http://mdc.hatchlane.com/templates/StandardDark/template.htm?kb=98qkK0fI)
+[MDC](http://mdc.hatchlane.com/templates/StandardDark/template.htm?kb=XMxD3igX)
+
+
+
+
+### RAMROD
+
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| - | - | - | - | - | - | - | - | - | - |
+| L | U | M | B | E | R | J | A | C | K | --EVEN
 
 
 
