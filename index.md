@@ -37,9 +37,23 @@ EW:
 
 ## METAR: 
 
-#### NOTAM: 
+#### ATO: 
 
+AMSNDAT/N/2071/-/-/-/ARCO1/REFUELING/-/-/-/-/-//  
+MSNACFT/1/KC-135/ARCO1/AO01/-/-/-/-//  
+AMSNLOC/301002ZOCT/301002ZOCT/ARCO1/180/-//  
+REFTSK/-/-/-/PDESIG:ORANGE9/SFREQ:-/108X/-//  
 
+AMSNDAT/N/2072/-/-/-/TEXACO1/REFUELING/-/-/-/-/-//  
+MSNACFT/1/KC-135/TEXACO1/TO01/-/-/-/-//  
+AMSNLOC/301002ZOCT/301002ZOCT/TEXACO1/210/-//  
+REFTSK/-/-/-/PDESIG:PINK1/SFREQ:-/106X/-//  
+
+AMSNDAT/N/2073/-/-/-/TEXACO2/REFUELING/-/-/-/-/-//  
+MSNACFT/1/KC-135/TEXACO2/TO02/-/-/-/-//  
+AMSNLOC/301000ZOCT/301000ZOCT/TEXACO2/210/-//  
+REFTSK/-/-/-/PDESIG:GRAY7/SFREQ:-/116X/-//  
+  
 
 ## SPINS
 
@@ -47,7 +61,7 @@ EW:
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| L | U | M | B | E | R | J | A | C | K | 
+| O | P | U | N | T | I | A | L | E | S | 
 
 
  |  | 
