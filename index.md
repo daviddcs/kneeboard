@@ -5,29 +5,7 @@
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
 ## Objective
-#### 
 
-## NAME - MSN# - TIMEDATE
-
-FL: 
-
-WM: 
-
-EL: 
-
-EW: 
-
-
-## FP
-
-
-
-## LOADOUT
-
-## COMMS
-
-
-## STEERPOINTS
 
 ### MDC DOC
 [WOMBAT](/WOMBAT.pdf)  
