@@ -4,19 +4,49 @@
 - | - 
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
+## Objective
+#### 
 
+## NAME - MSN# - TIMEDATE
+
+FL: 
+
+WM: 
+
+EL: 
+
+EW: 
+
+
+## FP
+
+
+
+## LOADOUT
+
+## COMMS
+
+
+## STEERPOINTS
 
 ### MDC DOC
-[MDC](/XXX.pdf)
+[WOMBAT](/XXX.pdf)
+
+![AO](--E10.PNG)
+
+## METAR: 
+
+#### NOTAM: 
 
 
 
+## SPINS
 
 ### RAMROD
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| C | O | M | P | L | E | X | I | T | Y |
+| L | U | M | B | E | R | J | A | C | K | 
 
 
  |  | 
