@@ -4,42 +4,23 @@
 - | - 
 [KNEEPACK](/VIPER/388KNEE11.pdf) | [EMERGENCY](/VIPER/EMERG191221.pdf)
 
-## Objective
 
 
 ### MDC DOC
-[WOMBAT](/WOMBAT.pdf)  
-[MDC](/XXX.pdf)
+[MDC](http://dcs-mdc.com/templates/StandardDark/template.htm?kb=z8ES34es)
 
 ![AO](--E10.PNG)
 
 ## METAR: 
+Winds from NW, clear skies, minor turbulence.
 
-#### ATO: 
-
-AMSNDAT/N/2071/-/-/-/ARCO1/REFUELING/-/-/-/-/-//  
-MSNACFT/1/KC-135/ARCO1/AO01/-/-/-/-//  
-AMSNLOC/301002ZOCT/301002ZOCT/ARCO1/180/-//  
-REFTSK/-/-/-/PDESIG:ORANGE9/SFREQ:-/108X/-//  
-
-AMSNDAT/N/2072/-/-/-/TEXACO1/REFUELING/-/-/-/-/-//  
-MSNACFT/1/KC-135/TEXACO1/TO01/-/-/-/-//  
-AMSNLOC/301002ZOCT/301002ZOCT/TEXACO1/210/-//  
-REFTSK/-/-/-/PDESIG:PINK1/SFREQ:-/106X/-//  
-
-AMSNDAT/N/2073/-/-/-/TEXACO2/REFUELING/-/-/-/-/-//  
-MSNACFT/1/KC-135/TEXACO2/TO02/-/-/-/-//  
-AMSNLOC/301000ZOCT/301000ZOCT/TEXACO2/210/-//  
-REFTSK/-/-/-/PDESIG:GRAY7/SFREQ:-/116X/-//  
-  
-
-## SPINS
 
 ### RAMROD
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
-| O | P | U | N | T | I | A | L | E | S | 
+| L | U | M | B | E | R | J | A | C | K |
+
 
 
  |  | 
