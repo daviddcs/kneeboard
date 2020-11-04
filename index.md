@@ -9,7 +9,6 @@
 ### MDC DOC
 [MDC](http://dcs-mdc.com/templates/StandardDark/template.htm?kb=z8ES34es)
 
-![AO](--E10.PNG)
 
 ## METAR: 
 Winds from NW, clear skies, minor turbulence.
