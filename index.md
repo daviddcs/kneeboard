@@ -7,18 +7,15 @@
 
 
 ### MDC DOC
-[MDC](http://dcs-mdc.com/templates/StandardDark/template.htm?kb=z8ES34es)
+[MDC](http://dcs-mdc.com/templates/StandardDark/template.htm?kb=g4r806Hx)
 
 
 ## METAR: 
-Winds from NW, clear skies, minor turbulence.
+
 
 
 ### RAMROD
 
-| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| - | - | - | - | - | - | - | - | - | - |
-| L | U | M | B | E | R | J | A | C | K |
 
 
 
