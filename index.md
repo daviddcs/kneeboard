@@ -7,10 +7,25 @@
 
 
 ### MDC DOC
-[MDC](http://dcs-mdc.com/templates/StandardDark/template.htm?kb=g4r806Hx)
+[MDC](http://dcs-mdc.com/templates/StandardDark/template.htm?kb=vT3WnDUg)
 
 
-## METAR: 
+## PKG TIMEING  
+
+PKG BRIEF 1830Z - 1850Z
+T/O JEDI 1940Z
+
+TOT PUSHPOINT  
+BEAST 3 - 2026Z  
+PANTHER 1 - 2033Z  
+JEDI 2 - 2028Z  
+DODGE 6 - 2031Z  
+VIPER 5 - 2027Z  
+
+AA THREAT  
+MIG 25 & MIG 29'S FROM SOUTH EAST 37NM  
+BULLS 065/133 TABQA AB  
+
 
 
 
