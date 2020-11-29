@@ -6,7 +6,21 @@
 
 
 ### MDC DOC
-[MDC](http://dcs-mdc.com/templates/StandardDark/template.htm?kb=Bp86viPU)
+[MDC](https://dcs-mdc.com/templates/StandardDark/template.htm?kb=qmPfNGuL)
+
+
+20 sec trail departure (expecting RWY 27)
+Right hand turnout, toward NAVPOINT KUSEN, FL210
+North to RV / push point and rejoin with ALPHA Package
+PUSH 20:21Z
+TOT 20:29Z
+RTB via KUSEN
+ILS recovery Al Minhad
+
+Step: 19:20Z / 01:20GT.O: 19:55Z / 01:55G (LATEST)
+RV: 20:15Z /02:15G || PUSH 20:21Z /02:21G
+TOT: 20:29Z /02:29G
+
 
 
 
