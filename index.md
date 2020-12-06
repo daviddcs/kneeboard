@@ -6,22 +6,33 @@
 
 
 ### MDC DOC
-[MDC](https://dcs-mdc.com/templates/StandardDark/template.htm?kb=qmPfNGuL)
+[MDC](https://dcs-mdc.com/templates/StandardDark/template.htm?kb=AgackI6K)
 
 
-20 sec trail departure (expecting RWY 27)
-Right hand turnout, toward NAVPOINT KUSEN, FL210
-North to RV / push point and rejoin with ALPHA Package
-PUSH 20:21Z
-TOT 20:29Z
-RTB via KUSEN
-ILS recovery Al Minhad
+VTASK/AIR/051634ZDEC2020/Professor/060836ZDEC2020/David/-//
+TASKUNIT/132nd 388th/-/-//
+AMSNDAT/TR9762/TR/-/-/-/-/David/-/1900Z/ICAO:OMAM/-/-/-//
+MSNACFT/VIPER/4/F-16C/1/-/-/MAROON8/CORAL1/3540-3547/61Y/1631-1638/-//
+FAC/WARRIOR1/JTAC/Range 16/CP.HILL/AMBER1/AMBER2//
 
-Step: 19:20Z / 01:20GT.O: 19:55Z / 01:55G (LATEST)
-RV: 20:15Z /02:15G || PUSH 20:21Z /02:21G
-TOT: 20:29Z /02:29G
+Airspace
+CVN-75: BANSHEE
+MOA 1: MAIDEN
+Range 7: CLAW (deconflict with NEPTUNE)
+Range 9: KILLER
+Range 15: NEPTUNE (deconflict with CLAW)
+Range 16: JTAC WARRIOR, VIPER, AXE, HAWG
 
-
+Taskings
+AXE: CAS
+BANSHEE: Case III
+CLAW: AR
+HAWG: CAS
+KILLER: AR
+MAIDEN: A2A
+NEPTUNE: AR
+VAMPIRE: NAV-03
+VIPER: CAS
 
 
  |  | 
