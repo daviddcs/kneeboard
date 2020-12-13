@@ -6,33 +6,65 @@
 
 
 ### MDC DOC
-[MDC](https://dcs-mdc.com/templates/StandardDark/template.htm?kb=AgackI6K)
+[MDC](https://dcs-mdc.com/templates/StandardDark/template.htm?kb=VQKR3vma)
 
 
-VTASK/AIR/051634ZDEC2020/Professor/060836ZDEC2020/David/-//
-TASKUNIT/132nd 388th/-/-//
-AMSNDAT/TR9762/TR/-/-/-/-/David/-/1900Z/ICAO:OMAM/-/-/-//
-MSNACFT/VIPER/4/F-16C/1/-/-/MAROON8/CORAL1/3540-3547/61Y/1631-1638/-//
-FAC/WARRIOR1/JTAC/Range 16/CP.HILL/AMBER1/AMBER2//
+| MEANING | CODEWORD | 
+| ------- | -------- | 
+| ON STATION | ARMENIA | 
+| OFF STATION| BRAZIL | 
+| RTB | CANADA | 
+| ABORT MSN | DENMARK | 
+| MISSION SUCCESSFUL | EGYPT | 
+| MISSION UNSUCCESSFUL | FRANCE | 
+| ATTACK SUCCESSFUL | GERMANY | 
+| ATTACK UNSUCCESSFUL | HUNGARY | 
+| LAST OFF TARGET | IRELAND | 
+| REATTACK | JAPAN | 
+| PUSHING | KENYA | 
+| REQUEST ROLEX | LIBERIA | 
+| WOUNDED BIRD | MALTA | 
 
-Airspace
-CVN-75: BANSHEE
-MOA 1: MAIDEN
-Range 7: CLAW (deconflict with NEPTUNE)
-Range 9: KILLER
-Range 15: NEPTUNE (deconflict with CLAW)
-Range 16: JTAC WARRIOR, VIPER, AXE, HAWG
 
-Taskings
-AXE: CAS
-BANSHEE: Case III
-CLAW: AR
-HAWG: CAS
-KILLER: AR
-MAIDEN: A2A
-NEPTUNE: AR
-VAMPIRE: NAV-03
-VIPER: CAS
+- SET BORT = FLIGHT NUMBER. RAGE31 = 431, 32 = 432 ETC. 
+- BRING NVG
+- SNOOZE RADAR
+
+
+EMCON
+- Minimuse radio comms.
+- Radar SILENT until WP9.
+- Break EMCON if necessary.
+
+LAUNCH
+- Ready for taxi: taxi out of shelter. Steady position fuselage lights. #4 turn on taxi light, turn on in sequence.
+- Follow #1, BORT NUMBER 431.
+- Lineup right side of #1.
+- When the aircraft to your left sets wing/tail position lights to steady, do the same to indicate ready for takeoff.
+- FL set bright wing/tail, WM set dim.
+- Anti-collision for takeoff.
+
+
+
+T/O AND REJOIN
+- Runway 05
+- 15 sec between each aircraft, 30 sec between each flight. 
+- 1000ft AGL, direct Steerpoint 2.
+- #2 rejoin fighting wing.
+- #3 trail 1nm, #4 fighting wing.
+- FENCE IN when FL turns OFF anit-collision.
+
+LOW-LEVEL
+- We'll be radar off until WP9, so focus on formation, distance and visual scan. FL and EL has primary scan responsibility. WM is primary on deconfliction and formation.
+- WM'go temporary trail if necessary due to terrain, but remember that lead will lose visual and we're flying silent.
+- CHEVY is trailing us at 3nm from RAGE31. Stay tight.
+
+ENGAGEMENT
+- Break EMCON.
+- "Hedgehog": I want to engage with just one element, leaving the other in place. 
+- Fire at long range and do not pursue beyond pitbull. 
+- Do not extend beyond beyond 10nm or about 60 seconds flight time from flight path.
+- 40nm commit, drop when cold or pursuing beyong the above. Intention: keep close, keep the package safe.
 
 
  |  | 
