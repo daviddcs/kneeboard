@@ -6,7 +6,7 @@
 
 
 ### MDC DOC
-[MDC](https://dcs-mdc.com/templates/StandardDark/template.htm?kb=VQKR3vma)
+[MDC](https://dcs-mdc.com/templates/StandardDark/template.htm?kb=uuEDk7YR)
 
 
 | MEANING | CODEWORD | 
